@@ -1,0 +1,4 @@
+# Permitir explorar todo el contenido
+User-agent: *
+Disallow:
+Sitemap: https://rosaritocentro.com/sitemap.xml
