@@ -14,15 +14,16 @@
     rel="stylesheet">
 
 <!-- Vendor CSS Files -->
-<link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-<link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
-<link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-<link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
-<link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
-<link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
+
+<link href="{{ "/assets/vendor/bootstrap/css/bootstrap.min.css" | absolute_url }}" rel=" stylesheet">
+<link href="{{ "/assets/vendor/icofont/icofont.min.css" | absolute_url  }}" rel="stylesheet">
+<link href="{{ "/assets/vendor/boxicons/css/boxicons.min.css" | absolute_url  }}" rel="stylesheet">
+<link href="{{ "/assets/vendor/animate.css/animate.min.css" | absolute_url  }}" rel="stylesheet">
+<link href="{{ "/assets/vendor/owl.carousel/assets/owl.carousel.min.css" | absolute_url  }}" rel="stylesheet">
+<link href="{{ "/assets/vendor/venobox/venobox.css" | absolute_url  }}" rel="stylesheet">
 
 <!-- Template Main CSS File -->
-<link href="assets/css/style.css" rel="stylesheet">
+<link href="{{ "/assets/css/style.css" | absolute_url  }}" rel="stylesheet">
 
 {%- if jekyll.environment == 'production' and site.google_analytics -%}
 {%- include google-analitycs.html -%}

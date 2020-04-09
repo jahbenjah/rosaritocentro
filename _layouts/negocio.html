@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es-mx">
+
+<head>
+    {%- include head.html -%}
+</head>
+
+<body>
+
+    {%- include top.html -%}
+
+    {%- include header.html -%}
+
+    <main id="main">
+
+        <!--=======Breadcrumbs=======-->
+        <section id="breadcrumbs" class="breadcrumbs">
+            <div class="container">
+
+                <ol>
+                    <li><a href="index.html">Inicio</a></li>
+                    <li>{{ page.title | escape }}</li>
+                </ol>
+                <h2>{{ page.slogan | escape }}</h2>
+
+            </div>
+        </section><!-- End Breadcrumbs -->
+
+        <!-- ======= Portfolio Details Section ======= -->
+        <section id="portfolio-details" class="portfolio-details">
+            <div class="container">
+
+                <div class="row">
+
+                    <div class="col-lg-6">
+                        <h2 class="portfolio-title">Fotos de  lugar</h2>
+                        <div class="owl-carousel portfolio-details-carousel">
+                            <img src="../assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+                            <img src="../assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+                            <img src="../assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 portfolio-info">
+                        <h3>Negocio</h3>
+                        <ul>
+                            <li><strong>Categoria</strong>: {{ page.categoria | escape }}</li>
+                            <li><strong>Cliente</strong>: {{ page.title | escape }}</li>
+                            <li><strong>Página web</strong>: <a href="{{ page.web | escape }}">{{ page.web | escape }}</a></li>
+                        </ul>
+                    </div>
+
+                    {{ content}}
+
+                </div>
+
+            </div>
+        </section><!-- End Portfolio Details Section -->
+
+
+    </main><!-- End #main -->
+
+    {%- include footer.html -%}
+</body>
+
+</html>

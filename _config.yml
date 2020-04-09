@@ -42,3 +42,7 @@ exclude:
   - gulpfile.js
   - img-temp/
   
+collections:
+  negocios:
+    output: true
+ 
