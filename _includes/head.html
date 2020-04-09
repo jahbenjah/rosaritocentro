@@ -3,8 +3,6 @@
 
 {%- seo -%}
 {%- feed_meta -%}
-{%- include facebookopengraph.html -%}
-{%- include favicon.html -%}
 
 <!-- Favicons -->
 <link href="assets/img/favicon.png" rel="icon">
@@ -27,5 +25,5 @@
 <link href="assets/css/style.css" rel="stylesheet">
 
 {%- if jekyll.environment == 'production' and site.google_analytics -%}
-    {%- include google-analitycs.html -%}
+{%- include google-analitycs.html -%}
 {%- endif -%}
