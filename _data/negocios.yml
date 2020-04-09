@@ -1,0 +1,34 @@
+- nombre: Saldos el Chino
+  descripcion: Especialista en muebles
+  categoria: muebles
+  imagen: /assets/img/portfolio/portfolio-1.jpg
+
+- nombre: Bistro Le Costeau
+  descripcion: Especialista en muebles
+  categoria: restaurante
+  imagen: /assets/img/portfolio/portfolio-1.jpg
+
+- nombre: Mariscos El Torito
+  descripcion: Restaurant especialista en Mariscos
+  categoria: restaurante
+  imagen: /assets/img/portfolio/portfolio-1.jpg
+
+- nombre: Pupuseria El Pulgarcito
+  descripcion: Pupuseria El Pulgarcito
+  categoria: restaurante
+  imagen: /assets/img/portfolio/portfolio-1.jpg
+
+- nombre: Casa Alba
+  descripcion: Moda Mexicana
+  categoria: moda
+  imagen: /assets/img/portfolio/portfolio-1.jpg
+
+- nombre: Studio 14
+  descripcion: Especialista en cafe
+  categoria: restaurante
+  imagen: /assets/img/portfolio/portfolio-1.jpg
+
+- nombre: Vagancia Cafe & Deli
+  descripcion: Especialista en cafe
+  categoria: restaurante
+  imagen: /assets/img/portfolio/portfolio-1.jpg
