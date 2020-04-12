@@ -1,6 +1,10 @@
 ---
-title : Bistró Le Cousteau
+title : Marisco El Torito
 layout: negocio
+slogan: Comida francesa
+web: https://bistrolecousteau.com/
+categoria: restaurante
+logo: "assets/img/portfolio/ikeda.jpg"
 ---
 
 Blvd. Benito Juárez 318 

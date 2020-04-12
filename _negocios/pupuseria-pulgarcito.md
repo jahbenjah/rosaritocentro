@@ -1,6 +1,11 @@
 ---
-title : Bistró Le Cousteau
+title : Pupusería Pulgarcito
 layout: negocio
+slogan: Comida francesa
+web: https://bistrolecousteau.com/
+categoria: restaurante
+logo: assets/img/portfolio/ikeda.jpg
+
 ---
 
 Emiliano Zapata 3 

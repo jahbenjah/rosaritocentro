@@ -1,6 +1,10 @@
 ---
-title : Bistró Le Cousteau
+title : Vagancia Cafe Deli
 layout: negocio
+slogan: Comida francesa
+web: https://bistrolecousteau.com/
+categoria: Restaurant
+logo: "assets/img/portfolio/ikeda.jpg"
 ---
 
 Blvd Benito Juárez 79

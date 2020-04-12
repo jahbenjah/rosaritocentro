@@ -1,6 +1,10 @@
 ---
-title : Bistró Le Cousteau
+title : Casa Alba
 layout: negocio
+slogan: Comida francesa
+web: https://bistrolecousteau.com/
+categoria: moda
+logo: "assets/img/portfolio/ikeda.jpg"
 ---
 
 Zona Centro
