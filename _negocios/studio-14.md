@@ -1,11 +1,10 @@
 ---
 title : Studio 14
 layout: negocio
+imagen: imagen
 slogan: Comida francesa
 web: https://bistrolecousteau.com/
 categoria: hoteles
-logo: "assets/img/portfolio/ikeda.jpg"
-
 ---
 
 45 México 1, Baja California 22710 Rosarito, Mexico

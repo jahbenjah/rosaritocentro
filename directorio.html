@@ -41,12 +41,12 @@ layout: default
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-{{ negocio.categoria }}">
         <div class="portfolio-wrap">
-          <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+          <img src="{{ negocio.imagen }}" class="img-fluid" alt="">
           <div class="portfolio-info">
-            <h4> {{ negocio.nombre }}</h4>
+            <h4> {{ negocio.imagen }}</h4>
             <p> {{ negocio.descripcion }}</p>
             <div class="portfolio-links">
-              <a href="assets/img/portfolio/portfolio-1.jpg" title="App 1" data-gall="portfolioGallery"
+              <a href="{{ negocio.imagen }}" title="App 1" data-gall="portfolioGallery"
                 class="venobox"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" title="Detalles"><i class="bx bx-link"></i></a>
             </div>

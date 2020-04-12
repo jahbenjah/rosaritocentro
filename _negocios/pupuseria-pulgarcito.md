@@ -1,11 +1,10 @@
 ---
 title : Pupusería Pulgarcito
 layout: negocio
+imagen: "assets/img/portfolio/ikeda.jpg"
 slogan: Comida francesa
 web: https://bistrolecousteau.com/
 categoria: restaurante
-logo: assets/img/portfolio/ikeda.jpg
-
 ---
 
 Emiliano Zapata 3 

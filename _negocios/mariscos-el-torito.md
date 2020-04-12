@@ -1,10 +1,10 @@
 ---
 title : Marisco El Torito
 layout: negocio
+imagen: "assets/img/portfolio/ikeda.jpg"
 slogan: Comida francesa
 web: https://bistrolecousteau.com/
 categoria: restaurante
-logo: "assets/img/portfolio/ikeda.jpg"
 ---
 
 Blvd. Benito Juárez 318 
