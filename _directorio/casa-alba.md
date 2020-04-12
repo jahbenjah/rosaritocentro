@@ -4,6 +4,8 @@ layout: negocio
 slogan: Comida francesa
 web: https://bistrolecousteau.com/
 categoria: moda
+descripcion: Moda Mexicana
+imagen: /assets/img/portfolio/casa-alba.jpg
 ---
 
 Zona Centro

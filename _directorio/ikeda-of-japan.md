@@ -1,9 +1,11 @@
 ---
 title : Ikeda of Japan
 layout: negocio
-slogan: Comida francesa
-web: https://bistrolecousteau.com/
+slogan: Comida Japonesa
+web: https://www.facebook.com/ikedaofjapanrosarito
 categoria: restaurante
+descripcion: Especialista en comida japonesa
+imagen: /assets/img/portfolio/ikeda.jpg
 ---
 
 Blvd. Benito Juárez 890-1A

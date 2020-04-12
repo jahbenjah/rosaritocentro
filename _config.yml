@@ -43,6 +43,6 @@ exclude:
   - img-temp/
   
 collections:
-  negocios:
+  directorio:
     output: true
  

@@ -1,10 +1,12 @@
 ---
 title : Vagancia Cafe Deli
 layout: negocio
-imagen: BENJAMIN
 slogan: Comida francesa
 web: https://bistrolecousteau.com/
 categoria: Restaurant
+descripcion: Cafe & Deli
+categoria: moda
+imagen: /assets/img/portfolio/vagancia.jpg
 ---
 
 Blvd Benito Juárez 79

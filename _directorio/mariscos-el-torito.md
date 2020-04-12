@@ -5,6 +5,8 @@ imagen: "assets/img/portfolio/ikeda.jpg"
 slogan: Comida francesa
 web: https://bistrolecousteau.com/
 categoria: restaurante
+descripcion: Restaurant especialista en Mariscos
+imagen: /assets/img/portfolio/mariscos-el-torito.jpeg
 ---
 
 Blvd. Benito Juárez 318 
