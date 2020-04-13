@@ -1,8 +1,8 @@
 ---
 title : Studio 14
 layout: negocio
-slogan: Comida francesa
-web: https://bistrolecousteau.com/
+slogan: Studio 14 está diseñado para brindarle comodidad en su estadía
+web: https://www.facebook.com/Studio-14-355228878679670
 categoria: hoteles
 descripcion: Hotel
 categoria: hotel

@@ -1,10 +1,10 @@
 ---
 title : Pupusería Pulgarcito
 layout: negocio
-slogan: Comida francesa
-web: https://bistrolecousteau.com/
+slogan: Comida del El Salvador
+web: https://facebook.com/marlon.hernandez.585112?ref=br_rs
 categoria: restaurante
-descripcion: Restaurant especialista en Mariscos
+descripcion: Comida casera con el sabor original de El Salvador 
 imagen: /assets/img/portfolio/pulgarcito.jpeg
 ---
 
@@ -14,5 +14,6 @@ Machado Sur, 22703 Rosarito B.C.
 Horario de Servicio 
 Lunes a Domingo 
 11 a.m – 8 p.m 
+
 Comida casera con el sabor original de El Salvador 
 facebook.com/marlon.hernandez.585112?ref=br_rs

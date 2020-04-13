@@ -2,7 +2,7 @@
 title : Vagancia Cafe Deli
 layout: negocio
 slogan: Comida francesa
-web: https://bistrolecousteau.com/
+web: https://facebook.com/Vagancia-cafedeli-106081327654259
 categoria: Restaurant
 descripcion: Cafe & Deli
 categoria: moda

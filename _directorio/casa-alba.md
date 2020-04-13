@@ -2,7 +2,7 @@
 title : Casa Alba
 layout: negocio
 slogan: Comida francesa
-web: https://bistrolecousteau.com/
+web: https://www.facebook.com/casaalbamodamexicana
 categoria: moda
 descripcion: Moda Mexicana
 imagen: /assets/img/portfolio/casa-alba.jpg
