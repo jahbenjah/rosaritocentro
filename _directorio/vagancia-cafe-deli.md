@@ -1,13 +1,15 @@
 ---
 title : Vagancia Cafe Deli
 layout: negocio
-slogan: Comida francesa
+slogan: Cafetería
 web: https://facebook.com/Vagancia-cafedeli-106081327654259
 categoria: Restaurant
 descripcion: Cafe & Deli
 categoria: moda
 imagen: /assets/img/portfolio/vagancia.jpg
 ---
+
+Somos una cafeteria ubicado en Playas de Rosarito. Tenemos variedad de bebidas, exclusivamente seleccionados para brindarles un mejor servicio
 
 Blvd Benito Juárez 79
 Machado Sur, 22703 Rosarito B.C. 
