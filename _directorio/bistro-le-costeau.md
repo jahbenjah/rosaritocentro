@@ -4,7 +4,7 @@ layout: negocio
 slogan: Comida francesa
 web: https://bistrolecousteau.com/
 descripcion: 
-categoria: restaurante
+categoria: Restaurante
 imagen: /assets/img/portfolio/bistro.jpeg
 ---
 
@@ -15,12 +15,19 @@ Todos los días hay especiales con lo más fresco del mar y del mercado. Además
 
 
 Blvd. Benito Juárez 184
+
 Zona Centro, 22710 Rosarito, B.C.
+
 661 612 2655
+
 Horario de Servicio
+
 Miércoles a Domingo
 12 p.m a 10 p.m
 
 
 facebook.com/BistroLeCousteau
+
+Quedate en casa, contamos con servicio de Uber Eats.
+
 bit.ly/2y1i7jC
