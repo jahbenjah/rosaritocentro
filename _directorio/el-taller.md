@@ -5,7 +5,7 @@ slogan:
 web: https://www.facebook.com/eltallerbajamed
 descripcion: Bajamed cocina
 categoria: restaurante
-imagen: /assets/img/portfolio/
+imagen: "/assets/img/portfolio/EL TALLER.jpg"
 ---
 Av. Rio Yaqui, Blvd Agua Caliente 2969-B, 22040 Tijuana, B.C.
 664 685 2396

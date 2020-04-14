@@ -5,7 +5,7 @@ slogan:
 web: http://rosaritoinn.com/
 descripcion: 
 categoria: hotel
-imagen: /assets/img/portfolio/
+imagen: "/assets/img/portfolio/OCEANA ROSARITO INN.jpg"
 ---
 
 Rosarito Inn Condominium Hotels & Suites is right on the beach in the heart of Rosarito with beautiful fully furnished suites.
