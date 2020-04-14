@@ -5,7 +5,7 @@ slogan: Cafetería
 web: https://facebook.com/Vagancia-cafedeli-106081327654259
 categoria: Restaurant
 descripcion: Cafe & Deli
-categoria: moda
+categoria: cafe
 imagen: /assets/img/portfolio/vagancia.jpg
 ---
 
