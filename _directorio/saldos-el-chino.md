@@ -8,9 +8,12 @@ descripcion: Tienda de saldos y mas.
 imagenes: [/assets/img/portfolio/saldos-el-chino.jpg]
 ---
 
-Blvd. Benito Juárez 192
- Machado Sur,22703 Rosarito, B.C.
-661 120 4533
+Cerrado Temporalmente
+
+>Blvd. Benito Juárez 192
+
+>Machado Sur,22703 Rosarito, B.C.
+
+>661 120 4533
 
 
-https://www.facebook.com/Saldos-El-Chino-500667630075346
