@@ -23,11 +23,12 @@ Todos los días hay especiales con lo más fresco del mar y del mercado. Además
   >Horario de Servicio
 
   >Miércoles a Domingo
-   >12 p.m a 10 p.m
+  
+    >12 p.m a 10 p.m
 
 
-[Facebook](facebook.com/BistroLeCousteau)
+[Facebook](https://www.facebook.com/BistroLeCousteau)
 
 >Quedate en casa, contamos con servicio de Uber Eats.
 
-[Uber Eats](bit.ly/2y1i7jC)
+[Uber Eats](https://www.ubereats.com/tijuana/food-delivery/restaurant-bistro-le-cousteau/D99q_rUsQ2u8mKKzM2dtYA#_)
