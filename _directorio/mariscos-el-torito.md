@@ -9,10 +9,12 @@ descripcion: Restaurant especialista en Mariscos
 imagen: /assets/img/portfolio/mariscos-el-torito.jpeg
 ---
 
-Marisco El Torito tiene las puertas abiertas desde el primero de agosto del año 1989
-cumplimos 32 años, 25 años como bar y ahora como restaurante de mariscos.
-Tenemos los Mariscos más frescos de la región y el mejor salón de Rosarito
-Contamos desde tacos de pescado hasta langosta,Ostiones, almeja, pata de mula en la concha y campechanas.
+Marisco El Torito ubicado en Rosarito Centro, tiene las puertas abiertas desde el primero de agosto del año 1989
+cumplimos 32 años, 25 años como bar y ahora como restaurante.
+Con los Mariscos más frescos de la región y el mejor salón de Rosarito Centro.
+Ven y disfruta de nuestra cocina, te encantara.
+Seguimos abiertos para complacer tu paladar. 
+
 
 Blvd. Benito Juárez 318 
 Zona Centro, 22710 Rosarito, B.C.
