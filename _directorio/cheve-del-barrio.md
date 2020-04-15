@@ -3,8 +3,8 @@ title : Cheve del Barrio
 layout: negocio
 slogan: 
 web: https://www.facebook.com/ChevedelBarrioRosarito
-descripcion: bar 
-categoria: restaurante/bar
+descripcion: restaurant/bar
+categoria: bar
 imagenes: ["/assets/img/portfolio/CHEVE DEL BARRIO.jpg"]
 ---
 
