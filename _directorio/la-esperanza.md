@@ -5,5 +5,5 @@ slogan:
 web: 
 descripcion: 
 categoria: 
-imagenes: "/assets/img/portfolio/LA ESPERANZA.jpg"
+imagenes: ["/assets/img/portfolio/LA ESPERANZA.jpg"]
 ---

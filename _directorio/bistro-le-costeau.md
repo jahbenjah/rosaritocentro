@@ -5,7 +5,7 @@ slogan: Comida francesa
 web: https://bistrolecousteau.com/
 descripcion: 
 categoria: restaurante
-imagenes: "/assets/img/portfolio/bistro.jpeg"
+imagenes: ["/assets/img/portfolio/bistro.jpeg"]
 ---
 
 >Bistró Le Cousteau abrió sus puertas en al año 2000, haciendo honor al oceanógrafo francés Jacques Cousteau, protector de ballenas y ecosistema del Mar de Cortes, fue así que se le llamo Bistró Le Cousteau.
