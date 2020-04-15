@@ -8,8 +8,11 @@ descripcion: Especialista en comida japonesa
 imagen: /assets/img/portfolio/ikeda.jpg
 ---
 
-Único restaurante en Rosarito con mesa Teppanyaki, ofrecemos a nuestros clientes auténtica 
+Único restaurante japones en Rosarito Centro, ofrecemos a nuestros clientes auténtica 
 tradición e innovación en nuestros platillos durante 12 años.
+
+Horario de Servicio 
+12:00 PM - 10:00 PM
 
 Blvd. Benito Juárez 890-1A
 Zona Centro, 22710 Rosarito, B.C.
