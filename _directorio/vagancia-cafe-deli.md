@@ -2,7 +2,7 @@
 title : Vagancia Cafe Deli
 layout: negocio
 slogan: Cafetería
-web: https://facebook.com/Vagancia-cafedeli-106081327654259
+web: https://www.facebook.com/vaganciacoffeedeli
 categoria: restaurante
 descripcion: Cafe & Deli
 categoria: cafe
