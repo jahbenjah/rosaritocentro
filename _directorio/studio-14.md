@@ -9,9 +9,12 @@ categoria: hotel
 imagenes: [/assets/img/portfolio/studio-14.jpeg]
 ---
 
-Studio 14 está diseñado para brindarte comodidad en su estadía, estamos en Playas de Rosarito, frente a los Estudios Fox, muy conocidos por firmar la película Titanic, a pocos minutos de Rosarito Centro, donde se encuentran bares como Papas & Beers
-y muchos más. Así como restaurantes, Bistro le Cousteau y muchos mas.
-45 México 1, Baja California 22710 Rosarito, Mexico
+Studio 14 está diseñado para brindarte comodidad en tu estadía, estamos en Playas de Rosarito, frente a los Estudios Fox, conocido por varias filmaciones, series y películas entre ellas Titanic, a pocos minutos de Rosarito Centro. Donde se encuentran Restaurantes, bares 
+y muchos más. Desde un Bristro Frances [Bistro le Cousteau](https://bistrolecousteau.com) hasta los mejores tacos de la region, pasando por restaurantes para gustos veganos.
 
-reservations@studio14.com.mx
-https://www.facebook.com/Studio-14-355228878679670
+>45 México 1 
+
+>Baja California 22710 Rosarito, Mexico
+
+<reservations@studio14.com.mx>
+
