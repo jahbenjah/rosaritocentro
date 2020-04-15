@@ -4,7 +4,7 @@ layout: negocio
 slogan: Comida francesa
 web: https://bistrolecousteau.com/
 descripcion: 
-categoria: Restaurante
+categoria: restaurante
 imagen: /assets/img/portfolio/bistro.jpeg
 ---
 
