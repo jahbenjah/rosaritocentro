@@ -10,7 +10,7 @@ imagenes: ["/assets/img/portfolio/LA QUERENCIA.jpg", "/assets/img/portfolio/LA Q
 
 
 BajaMed by Miguel Ángel Guerrero
-La Querencia ...La Original comida Baja Mediterránea
+
+>La Querencia ...La Original comida Baja Mediterránea
 
 
-http://www.laquerenciatj.com/
