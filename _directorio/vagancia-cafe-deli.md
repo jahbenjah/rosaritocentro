@@ -6,7 +6,7 @@ web: https://facebook.com/Vagancia-cafedeli-106081327654259
 categoria: Restaurant
 descripcion: Cafe & Deli
 categoria: cafe
-imagen: /assets/img/portfolio/vagancia.jpg
+imagen: "/assets/img/portfolio/VAGANCIA.jpg"
 ---
 
 Cafeteria ubicada en Playas de Rosarito. Variedad de bebidas, exclusivamente seleccionadas para brindarte un mejor servicio.
