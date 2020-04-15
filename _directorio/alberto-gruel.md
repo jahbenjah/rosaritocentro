@@ -12,4 +12,4 @@ Instructor de fotografía desde 1984, actualmente clases niveles intermedio y av
 
 Instructor en cursos y talleres especializados en: Fotografía tradicional blanco y negro química (de rollo) y técnicas de revelado e impresión en laboratorio cuarto oscuro, retrato, efectos especiales en cámara, macro fotografía.
 
-fotoarte.geb@gmail.com
+<fotoarte.geb@gmail.com>
