@@ -8,7 +8,7 @@ categoria: hotel
 imagen: "/assets/img/portfolio/OCEANA ROSARITO INN.jpg"
 ---
 
-Rosarito Inn Condominium Hotels & Suites is right on the beach in the heart of Rosarito with beautiful fully furnished suites.
+Rosarito Inn Condominium Hotels & Suites is right on the beach in the heart of Rosarito Centro, with beautiful fully furnished suites.
 
 http://rosaritoinn.com/
 reservaciones@rosaritoinn.com
