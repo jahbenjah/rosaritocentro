@@ -25,6 +25,8 @@ Todos los días hay especiales con lo más fresco del mar y del mercado. Además
   >Miércoles a Domingo
   
    >12 p.m a 10 p.m
+   
+   >Continuamos abieto mayormente para llevar. 
 
 
 [Facebook](https://www.facebook.com/BistroLeCousteau)
