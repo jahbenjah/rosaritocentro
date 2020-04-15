@@ -6,7 +6,7 @@ web: https://www.facebook.com/Studio-14-355228878679670
 categoria: hoteles
 descripcion: Hotel
 categoria: hotel
-imagen: /assets/img/portfolio/studio-14.jpeg
+imagenes: /assets/img/portfolio/studio-14.jpeg
 ---
 
 Studio 14 está diseñado para brindarte comodidad en su estadía, estamos en Playas de Rosarito, frente a los Estudios Fox, muy conocidos por firmar la película Titanic, a pocos minutos de Rosarito Centro, donde se encuentran bares como Papas & Beers

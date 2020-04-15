@@ -41,7 +41,7 @@ layout: default
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-{{ negocio.categoria }}">
         <div class="portfolio-wrap">
-          <img src="{{ negocio.imagen }}" class="img-fluid" alt="">
+          <img src="{{ negocio.imagenes | firts }}" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4> {{ negocio.title }}</h4>
             <p> {{ negocio.descripcion }}</p>

@@ -5,7 +5,7 @@ slogan: La Original comida Baja Mediterránea
 web: http://www.laquerenciatj.com/
 descripcion: BajaMed by Miguel Ángel Guerrero
 categoria: restaurante
-imagen: "/assets/img/portfolio/LA QUERENCIA.jpg"
+imagenes: "/assets/img/portfolio/LA QUERENCIA.jpg"
 ---
 
 

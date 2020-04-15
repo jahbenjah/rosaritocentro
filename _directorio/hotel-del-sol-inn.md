@@ -5,7 +5,7 @@ slogan:
 web: https://del-sol-inn.com/
 descripcion: 
 categoria: hotel
-imagen: "/assets/img/portfolio/HOTEL DEL SOL INN.jpg"
+imagenes: "/assets/img/portfolio/HOTEL DEL SOL INN.jpg"
 ---
 
 Blvd Benito Juárez 32

@@ -5,7 +5,7 @@ slogan:
 web: https://www.facebook.com/ChevedelBarrioRosarito
 descripcion: 
 categoria: restaurante/bar
-imagen: "/assets/img/portfolio/CHEVE DEL BARRIO.jpg"
+imagenes: "/assets/img/portfolio/CHEVE DEL BARRIO.jpg"
 ---
 
 A beautiful sport/bar/resturant. 

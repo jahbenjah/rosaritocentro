@@ -5,7 +5,7 @@ slogan:
 web: http://www.oceanagrillandcafe.com/
 descripcion: 
 categoria: restaurante
-imagen: "/assets/img/portfolio/Oceana Grill & Cafe.png"
+imagenes: "/assets/img/portfolio/Oceana Grill & Cafe.png"
 ---
 
 We have fusion of Mexican and American cuisine Located at Oceana Plaza in beautiful Rosarito Beach. We are part of the Rosarito Inn family.

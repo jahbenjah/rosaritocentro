@@ -5,7 +5,7 @@ slogan: Comida Japonesa
 web: https://www.facebook.com/ikedaofjapanrosarito
 categoria: restaurante
 descripcion: Especialista en comida japonesa
-imagen: /assets/img/portfolio/ikeda.jpg
+imagenes: /assets/img/portfolio/ikeda.jpg
 ---
 
 Único restaurante japones en Rosarito Centro, ofrecemos a nuestros clientes auténtica 

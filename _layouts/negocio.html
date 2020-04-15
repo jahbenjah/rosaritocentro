@@ -35,7 +35,9 @@
                     <div class="col-lg-6">
                         <h2 class="portfolio-title">{{ page.title | escape }}</h2>
                         <div class="owl-carousel portfolio-details-carousel">
-                            <img src="{{ page.imagen }}" class="img-fluid" alt="{{ page.title}}">
+                            {% for imagen in page.imagenes %}
+                             <img src="{{ imagen }}" class="img-fluid" alt="{{ page.title}}">
+                            {% endfor %}
                         </div>
                     </div>
 

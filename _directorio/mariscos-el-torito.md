@@ -1,12 +1,12 @@
 ---
 title : Marisco El Torito
 layout: negocio
-imagen: "assets/img/portfolio/ikeda.jpg"
+imagenes: "assets/img/portfolio/ikeda.jpg"
 slogan: los Mariscos más frescos y el mejor salón de Rosarito
 web: https://facebook.com/El-Torito-Bar-La-Casa-Fel%C3%ADz-109660095842800/
 categoria: restaurante
 descripcion: Restaurant especialista en Mariscos
-imagen: /assets/img/portfolio/mariscos-el-torito.jpeg
+imagenes: /assets/img/portfolio/mariscos-el-torito.jpeg
 ---
 
 Marisco El Torito ubicado en Rosarito Centro, tiene las puertas abiertas desde el primero de agosto del año 1989
