@@ -9,7 +9,7 @@ categoria: cafe
 imagen: /assets/img/portfolio/vagancia.jpg
 ---
 
-Somos una cafeteria ubicado en Playas de Rosarito. Tenemos variedad de bebidas, exclusivamente seleccionados para brindarles un mejor servicio
+Cafeteria ubicada en Playas de Rosarito. Variedad de bebidas, exclusivamente seleccionadas para brindarte un mejor servicio.
 
 Blvd Benito Juárez 79
 Machado Sur, 22703 Rosarito B.C. 
