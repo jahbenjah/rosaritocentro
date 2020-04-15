@@ -7,6 +7,9 @@ descripcion: Bajamed cocina
 categoria: restaurante
 imagenes: ["/assets/img/portfolio/EL TALLER.jpg"]
 ---
+
+Continuamos abierto, contamos con servicio de [Uber Eats](https://www.ubereats.com/mx/tijuana/food-delivery/el-taller-baja-med/Y-DuQl5USmWEsg6ioR7EVA)
+
 >Av. Rio Yaqui, Blvd Agua Caliente 2969-B
 
 >22040 Tijuana, B.C.
@@ -15,6 +18,8 @@ imagenes: ["/assets/img/portfolio/EL TALLER.jpg"]
 
 >Horario de Servicio 
 
->MARTES A JUEVES      VIERNES Y SABADO      DOMINGO
+>Martes a Jueves 1 p.m – 11 p.m             
 
->1 p.m – 11 p.m	      1 p.m – 12 a.m  		  1 p.m – 10 p.m
+>Viernes a Sabado	1 p.m – 12 a.m  		  
+
+>Domingo 1 p.m – 10 p.m
