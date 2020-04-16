@@ -16,8 +16,6 @@ Pasta y Basta abrió sus puertas en el verano de 2015, un año después el chef 
 
 >Horario de Srvicio
 
->Martes a Sabado 2 p.m a 9:30 p.m
-
->Domingo 2 p.m a 8:30 pm
+>Martes a Domingo 12:00 p.m a 8:30 p.m
 
 [Facebook](https://www.facebook.com/ChefChristianGritti)
