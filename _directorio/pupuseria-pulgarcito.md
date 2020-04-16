@@ -10,7 +10,7 @@ imagenes: [/assets/img/portfolio/El Pulgarcito.jpg]
 
 Comida casera con el sabor original de El Salvador 
 
->Emiliano Zapata 3 
+>Emiliano Zapata 1
 
 >Machado Sur, 22703 Rosarito B.C. 
 
