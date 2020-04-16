@@ -2,9 +2,9 @@
 title : Marisco El Torito
 layout: negocio
 imagenes: "assets/img/portfolio/ikeda.jpg"
-slogan: los Mariscos más frescos y el mejor salón de Rosarito
+slogan: Los Mariscos más frescos de Rosarito Centro
 web: https://facebook.com/El-Torito-Bar-La-Casa-Fel%C3%ADz-109660095842800/
-categoria: restaurante
+categoria: bar
 descripcion: Restaurant especialista en Mariscos
 imagenes: [/assets/img/portfolio/mariscos-el-torito.jpeg]
 ---
