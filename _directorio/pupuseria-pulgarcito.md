@@ -5,7 +5,7 @@ slogan: Comida del El Salvador
 web: https://facebook.com/marlon.hernandez.585112?ref=br_rs
 categoria: restaurante
 descripcion: Comida casera con el sabor original de El Salvador 
-imagenes: [/assets/img/portfolio/pulgarcito.jpeg]
+imagenes: [/assets/img/portfolio/El Pulgarcito.jpg]
 ---
 
 Comida casera con el sabor original de El Salvador 
