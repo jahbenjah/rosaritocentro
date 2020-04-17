@@ -4,8 +4,17 @@ layout: negocio
 slogan: Deliciosos platillos Bajamed.
 web: https://www.facebook.com/eltallerbajamed
 descripcion: Bajamed cocina
-categoria: restaurante
+categoria: restaurant
 imagenes: ["/assets/img/portfolio/EL TALLER.jpg"]
+calle: Blvd Agua Caliente 2969-B
+estado: Baja California
+municipio: Tijuana
+codigo: 22040
+latitude: 32.339848
+longitude: -117.055794
+telefono: 664 685 2396
+cocina: mexicana
+rango: $$
 ---
 
 Continuamos abierto, contamos con servicio de [Uber Eats](https://www.ubereats.com/mx/tijuana/food-delivery/el-taller-baja-med/Y-DuQl5USmWEsg6ioR7EVA)

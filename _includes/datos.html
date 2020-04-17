@@ -1,0 +1,69 @@
+
+ {%- if page.categoria  == 'restaurant' -%}
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "{{ page.categoria | escape }}",
+      "image": [
+         "https://rosaritocentro.com{{ page.imagenes | first }}"
+       ],
+      "@id": "{{ page.web | escape }}",
+      "name": "{{ page.title | escape }}",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "{{ page.calle | escape }},",
+        "addressLocality": "{{ page.estado | escape }},",
+        "addressRegion": "{{ page.municipio | escape }},",
+        "postalCode": "{{ page.codigo | escape }},",
+        "addressCountry": "MX"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": {{ page.latitude | escape }},
+        "longitude": {{ page.longitude | escape }}
+      },
+      "url": "{{ page.web | escape }}",
+      "telephone": "{{ page.telefono | escape }}",
+      "servesCuisine": "{{ page.cocina | escape }}",
+      "priceRange": "{{ page.rango | escape }}"
+      {%- if page.categoria  == 'espeara' -%}
+      ,"openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday"
+          ],
+          "opens": "11:30",
+          "closes": "22:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "11:30",
+          "closes": "23:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": "Saturday",
+          "opens": "16:00",
+          "closes": "23:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": "Sunday",
+          "opens": "16:00",
+          "closes": "22:00"
+        }
+      ],
+      "menu": "http://www.example.com/menu",
+      "acceptsReservations": "True"
+      {%- endif -%}
+      
+    }
+</script>
+{%- endif -%}
