@@ -5,7 +5,7 @@ slogan: Comida del El Salvador
 web: https://facebook.com/marlon.hernandez.585112?ref=br_rs
 categoria: restaurant
 descripcion: Comida casera con el sabor original de El Salvador 
-imagenes: [/assets/img/portfolio/El Pulgarcito.jpg]
+imagenes: [/assets/img/portfolio/El Pulgarcito 2.png]
 calle: Emiliano Zapata 1
 estado: Baja California
 municipio: Rosarito
