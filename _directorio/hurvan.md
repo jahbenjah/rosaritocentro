@@ -6,6 +6,7 @@ web: https://www.facebook.com/HURVAN1/
 descripcion: 
 categoria: moda
 imagenes: ["/assets/img/portfolio/hurvan.jpeg"]
+---
 
 Ana Ruth
 
