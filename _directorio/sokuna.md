@@ -3,7 +3,7 @@ title : Sokuna
 layout: negocio
 slogan: Cosina de Asia
 web: https://www.facebook.com/Sokuna-Cocina-De-Asia-459264741096769
-descripcion: cocina vietmamita
+descripcion: cocina de asia
 categoria: restaurant
 imagenes: ["/assets/img/portfolio/sokuna.jpg"]
 calle: Blvd. Benito Juárez 1207
