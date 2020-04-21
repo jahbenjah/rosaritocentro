@@ -1,5 +1,5 @@
 ---
-title : Licenciado
+title : Licenciado Jose Manuel Puig
 layout: negocio
 slogan: auxiliar del sistema judicialdel estado de baja california
 web: https://www.facebook.com/jose.puigcardenas
