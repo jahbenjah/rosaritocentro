@@ -1,7 +1,7 @@
 ---
 title : Licenciado Jose Manuel Puig
 layout: negocio
-slogan: auxiliar del sistema judicialdel estado de baja california
+slogan: AUXILIAR DE SISTEMA JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 web: https://www.facebook.com/jose.puigcardenas
 descripcion: 
 categoria: servicios
