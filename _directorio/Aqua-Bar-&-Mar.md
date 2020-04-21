@@ -1,7 +1,7 @@
 ---
 title : Aqua Bar & Mar
 layout: negocio
-slogan: 
+slogan: Mexican/America Restaurant/Bar
 web: 
 descripcion: Mexican/America Restaurant/Bar
 categoria: bar
