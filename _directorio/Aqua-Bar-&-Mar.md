@@ -1,10 +1,10 @@
 ---
 title : Aqua Bar & Mar
 layout: negocio
-slogan: Mexican/America Restaurant/Bar
+slogan: Mexican/American Restaurant/Bar
 web: 
-descripcion: Mexican/America Restaurant/Bar
-categoria: bar
+descripcion: Mexican/American Restaurant/Bar
+categoria: Bar
 imagenes: ["/assets/img/portfolio/aquast.jpeg", "/assets/img/portfolio/aqua.jpeg", "/assets/img/portfolio/aquatogo.jpeg", "/assets/img/portfolio/aquatogomn.jpeg", "/assets/img/portfolio/aquatogous.jpeg"]
 calle: Blvd. Benito Juárez 1207-1
 estado: Baja California
