@@ -1,5 +1,5 @@
 ---
-title : Aqua Bar & Mar
+title : Acua Bar & Mar
 layout: negocio
 slogan: Mexican/American Restaurant/Bar
 web: 
