@@ -1,7 +1,11 @@
 ---
-layout: post
-title:  "Honda Accord"
-image: ["/assets/img/portfolio/HondaRobado.jpeg", "/assets/img/portfolio/HR.jpeg", "/assets/img/portfolio/HA.jpeg"]
+title : Honda Accord Robado
+layout: negocio
+slogan: Auto Robado
+web: https://www.facebook.com/HURVAN1
+categoria: servicios
+descripcion: 
+imagenes: ["/assets/img/portfolio/HondaRobado.jpeg", "/assets/img/portfolio/HR.jpeg", "/assets/img/portfolio/HA.jpeg"]
 ---
 
 Auto robado 
