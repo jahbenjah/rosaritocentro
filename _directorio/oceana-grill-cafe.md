@@ -25,7 +25,7 @@ We have fusion of Mexican and American cuisine Located at Oceana Plaza in beauti
 
 >Horario de Servicio 
 
->7:00 AM – 5:00 PM
+>8 a.m – 4 p.m
 
 >661 612 5774
 
