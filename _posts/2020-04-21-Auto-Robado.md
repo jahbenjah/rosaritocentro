@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Honda Accord"
-image: ["/assets/img/portfolio/HondaRobado.jpeg", "/assets/img/portfolio/HR.jpeg", "/assets/img/portfolio/HA.jpeg"]
+image: "/assets/img/portfolio/HondaRobado.jpeg"
 permalink: /:categories/:title/
 ---
 
