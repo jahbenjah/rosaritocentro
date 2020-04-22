@@ -1,6 +1,6 @@
 ---
 title : Honda Accord Robado
-layout: negocio
+layout: 
 slogan: Auto Robado
 web: https://www.facebook.com/HURVAN1
 descripcion: 
