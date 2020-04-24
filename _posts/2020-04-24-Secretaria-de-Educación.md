@@ -3,7 +3,7 @@ layout: post
 title:  "Secretaria de Educación"
 image: "/assets/img/blog/sepbc.jpg"
 permalink: /:categories/:title/
-categories: [Edicacion]
+categories: [Educacion]
 ---
 
  En este vídeo podrás encontrar paso a paso las indicaciones para acceder a las actividades que la Secretaria de Educacion tiene para ti. 
