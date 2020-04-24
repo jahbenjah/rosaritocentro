@@ -2,7 +2,7 @@
 <div class="sidebar-item categories">
     <ul>
         {% for category in site.categories %}
-        <li><a href="#">{{ category[0] }} <span>(25)</span></a></li>
+        <li><a href="#">{{ category[0] }} <span>({{category[1].size}})</span></a></li>
         {% endfor %}
     </ul>
 </div>

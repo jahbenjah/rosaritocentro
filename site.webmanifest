@@ -1,6 +1,6 @@
 {
-    "name": "Bistró Le Cousteau",
-    "short_name": "Bistró",
+    "name": "Rosarito Centro",
+    "short_name": "Rosarito",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -8,13 +8,13 @@
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-256x256.png",
-            "sizes": "256x256",
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
             "type": "image/png"
         }
     ],
-    "start_url": "/",
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
-    "display": "standalone"
+    "display": "standalone",
+    "start_url":"/"
 }
