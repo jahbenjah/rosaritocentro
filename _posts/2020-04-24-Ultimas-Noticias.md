@@ -3,6 +3,7 @@ layout: post
 title:  "Ultimas Noticias"
 image: "/assets/img/blog/zonkeys.jpg"
 permalink: /:categories/:title/
+categories: [Salud]
 ---
 
 A partir del 24 de abril iniciará operaciones como hospital para pacientes con COVID-19 el Auditorio de los ZONKEYS de #Tijuana 

@@ -1,0 +1,8 @@
+<h3 class="sidebar-title">Categorias</h3>
+<div class="sidebar-item categories">
+    <ul>
+        {% for category in site.categories %}
+        <li><a href="#">{{ category[0] }} <span>(25)</span></a></li>
+        {% endfor %}
+    </ul>
+</div>
