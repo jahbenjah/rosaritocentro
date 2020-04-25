@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Papas & Beer"
-image: "/assets/img/blog/papas.png"
+image: "/assets/img/blog/papasnbeer.jpg"
 permalink: /:categories/:title/
 categories: 
 ---
