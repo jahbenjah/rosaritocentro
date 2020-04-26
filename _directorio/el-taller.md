@@ -33,11 +33,12 @@ Continuamos abierto, contamos con servicio de [Uber Eats](https://www.ubereats.c
 
 >Domingo 1 p.m – 10 p.m
 
+
+
+
+
 <div class="embed-responsive embed-responsive-16by9">
   
   <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Feltallerbajamed%2Fvideos%2F2314754272163023%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
   
   
-<div class="embed-responsive embed-responsive-16by9">
-  
-  <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Feltallerbajamed%2Fvideos%2F667061594079317%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
