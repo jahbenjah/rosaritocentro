@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mensaje Motochalan"
-image: "/assets/img/blog/motochalan.jpg"
+image: "/assets/img/portfolio/Logo_MotoChalan.png"
 permalink: /:categories/:title/
 categories: [Servicio]
 ---
