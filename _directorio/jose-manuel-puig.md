@@ -5,7 +5,7 @@ slogan: AUXILIAR DE SISTEMA JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 web: https://www.facebook.com/jose.puigcardenas
 descripcion: 
 categoria: servicios
-imagenes: [/assets/img/portfolio/srpuig.jpg]
+imagenes: [/assets/img/portfolio/Logo-Puig.png]
 ---
 
 Servicios de traducción – Translation Services
