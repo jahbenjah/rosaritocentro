@@ -11,7 +11,7 @@ categories: [Servicio]
 
 
 
-<<div id="fb-root"></div>
+
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0"></script>
 
 <div class="fb-video" data-href="https://www.facebook.com/eltallerbajamed/videos/2314754272163023/" data-show-text="false" data-width=""><blockquote cite="https://developers.facebook.com/eltallerbajamed/videos/2314754272163023/" class="fb-xfbml-parse-ignore"><a href="https://developers.facebook.com/eltallerbajamed/videos/2314754272163023/">Carta BajaMed en El Taller</a><p>Sabemos que extrañas los platillos de BajaMed by Miguel Ángel Guerrero y por eso decidimos traer algunos al taller para que sigas disfrutando de ellos 😁
