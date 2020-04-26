@@ -11,6 +11,8 @@ categories: [Servicio]
 
 
 
-<div class="embed-responsive embed-responsive-16by9">
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0"></script>
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Feltallerbajamed%2Fvideos%2F2314754272163023%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+<div class="fb-video" data-href="https://www.facebook.com/eltallerbajamed/videos/667061594079317/" data-show-text="false" data-width=""><blockquote cite="https://developers.facebook.com/eltallerbajamed/videos/667061594079317/" class="fb-xfbml-parse-ignore"><a href="https://developers.facebook.com/eltallerbajamed/videos/667061594079317/">¡Disfruta de la cocina BajaMed en tu casa!</a><p>¡Disfruta de la cocina BajaMed en tu casa!</p>Posted by <a href="https://www.facebook.com/eltallerbajamed/">El Taller BajaMed</a> on Wednesday, April 15, 2020</blockquote></div>
