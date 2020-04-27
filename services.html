@@ -17,60 +17,18 @@ layout: default
   </div>
 </section><!-- End Breadcrumbs -->
 
-<!-- ======= Services Section ======= -->
 <section id="services" class="services">
   <div class="container">
-
     <div class="row">
-      <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-        <div class="icon-box">
-          <div class="icon"><i class="bx bxl-dribbble"></i></div>
-          <h4><a href="">Desarrollo de páginas Web</a></h4>
-          <p>Diseñamos tu Pagina Web. Estructuramos el sitio perfecto</p>
-        </div>
-      </div>
-
-      <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
-        <div class="icon-box">
-          <div class="icon"><i class="bx bx-file"></i></div>
-          <h4><a href="">Manejo de redes sociales</a></h4>
-          <p>Deja que nosostros nos encargemos de tus Redes Sociales</p>
-        </div>
-      </div>
-
-      <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
-        <div class="icon-box">
-          <div class="icon"><i class="bx bx-tachometer"></i></div>
-          <h4><a href="">Terminal punto de venta</a></h4>
-          <p>Integra tecnologia a tu negocio. Tenemos las herramientas necesarias para facilitar, crecer y popularizar tu negocio</p>
-        </div>
-      </div>
-
+      {% for servicio in site.servicios %}
       <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
         <div class="icon-box">
-          <div class="icon"><i class="bx bx-world"></i></div>
-          <h4><a href="">Correo empresarial</a></h4>
-          <p>Obten tu correo electronico con referencia a tus servicios</p>
+          <div class="icon"><i class="bx bxl-{{ servicio.icon }}"></i></div>
+          <h4><a href="{{ servicio.url }}">{{ servicio.title}}</a></h4>
+          <p> {{servicio.descripcion }}</p>
         </div>
       </div>
-
-      <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
-        <div class="icon-box">
-          <div class="icon"><i class="bx bx-slideshow"></i></div>
-          <h4><a href="">Publicidad</a></h4>
-          <p>Necesitas ayuda? Nosotros te ayudamos con publicidad para tus servicios y promociones en la mejor pagina web del Rosarito Centro</p>
-        </div>
-      </div>
-
-      <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
-        <div class="icon-box">
-          <div class="icon"><i class="bx bx-arch"></i></div>
-          <h4><a href="">Marketing</a></h4>
-          <p>Promuebe tu negocio, contamos con las herramientas necesarias para ti</p>
-        </div>
-      </div>
-
+      {% endfor %}
     </div>
-
   </div>
-</section><!-- End Services Section -->
+</section>

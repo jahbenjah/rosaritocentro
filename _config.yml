@@ -45,4 +45,6 @@ exclude:
 collections:
   directorio:
     output: true
+  servicios:
+    output: true
  
