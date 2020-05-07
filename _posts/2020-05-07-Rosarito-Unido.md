@@ -12,12 +12,6 @@ Un pequeño mensaje para ustedes nuestros clientes y amigos, cuando esta etapa p
 #losextrañamos
 #colegasUnidos 
 
+<div class="embed-responsive embed-responsive-16by9">
 
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v7.0"></script>
-
-<div class="fb-video" data-href="https://www.facebook.com/anitaruth.lizarraga/videos/2725837484305608/" data-show-text="false" data-width=""><blockquote cite="https://developers.facebook.com/anitaruth.lizarraga/videos/2725837484305608/" class="fb-xfbml-parse-ignore"><a href="https://developers.facebook.com/anitaruth.lizarraga/videos/2725837484305608/"></a><p>Un pequeño mensaje para ustedes nuestros clientes y amigos, cuando esta etapa pase, los esperamos en cada uno de nuestros locales, con aun más alegría y dándoles la atención que ustedes se merecen.
-
-#Rosarito #losextrañamos
-#colegasUnidos 
-Ayúdenme compartiendo por favor...</p>Posted by <a href="https://www.facebook.com/anitaruth.lizarraga">Ana Ruth</a> on Thursday, May 7, 2020</blockquote></div>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fanitaruth.lizarraga%2Fvideos%2F2725837484305608%2F&show_text=0&width=560" width="560" height="308" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
