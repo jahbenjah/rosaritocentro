@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rosarito Unido"
-image: "/assets/img/portfolio/hurvan.jpeg"
+image: "/assets/img/alberto-gruel/PanomuelleHRosarito.jpg"
 permalink: /:categories/:title/
 categories: [Servicio]
 ---
