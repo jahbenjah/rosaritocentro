@@ -5,7 +5,7 @@ icon: dribbble
 descripcion: Integra tecnologia a tu negocio. Tenemos las herramientas necesarias para facilitar, crecer y popularizar tu negocio
 ---
 
-![POS](\assets\img\slide\pos.png)
+<img src="\assets\img\slide\pos.png" class="img-fluid" alt="Responsive image">
 
 **Punto de venta POS**
 * Integra Punto de Venta a tu negocio.

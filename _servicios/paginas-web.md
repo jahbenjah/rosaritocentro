@@ -5,7 +5,7 @@ icon: dribbble
 descripcion: Diseñamos tu Pagina Web. Estructuramos el sitio perfecto
 ---
 
-![Desarrollo web](\assets\img\slide\desarrollo-web.jpg)
+<img src="\assets\img\slide\desarrollo-web.jpg" class="img-fluid" alt="Responsive image">
 
 **Diseño web**
 * Diseño web profesional, nuestro diseñado web hará de tu sitio más efectivo y atractivo para tu negocio. Tenemos un paquete ideal para tu empresa.

@@ -5,7 +5,7 @@ icon: dribbble
 descripcion: Deja que nosostros nos encagemos de tus redes sociales
 ---
 
-![Redes Sociales](\assets\img\slide\Manejo-de-redes-sociales.jpg)
+<img src="\assets\img\slide\Manejo-de-redes-sociales.jpg" class="img-fluid" alt="Responsive image">
 
 **Dejalo con nosotros**
 * Conoce cuáles son las redes sociales con referencia para tu negocio. Crea perfiles empresariales,  genera contenido que impacte en tus clientes y seguidores.  

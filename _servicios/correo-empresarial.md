@@ -4,7 +4,7 @@ title: Correo Empresarial
 icon: dribbble
 descripcion: Obten tu correo electronico con referencia a tus servicios
 ---
-![Correo empresarial](\assets\img\slide\correo-empresarial.jpg)
+<img src="\assets\img\slide\correo-empresarial.jpg" class="img-fluid" alt="Responsive image">
 
 **Correo empresarial para tu negocio**
 * Mejora la imagen de tu negocio usando correos electrónicos con tu propio nombre de dominio.
