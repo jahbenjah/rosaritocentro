@@ -4,7 +4,7 @@ layout: negocio
 slogan: 
 web: http://www.oceanagrillandcafe.com/
 descripcion: 
-categoria: restaurant
+categoria: Restaurante
 imagenes: ["/assets/img/portfolio/Oceana Grill & Cafe.png"]
 calle: Blvd Benito Juárez 907-9A
 estado: Baja California

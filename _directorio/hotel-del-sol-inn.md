@@ -4,7 +4,7 @@ layout: negocio
 slogan: 
 web: https://del-sol-inn.com/
 descripcion: 
-categoria: hotel
+categoria: Hotel
 imagenes: ["/assets/img/portfolio/HOTEL DEL SOL INN.jpg"]
 ---
 

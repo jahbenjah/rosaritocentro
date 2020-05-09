@@ -4,7 +4,7 @@ layout: negocio
 slogan: Auténtica cocina italiana
 web: https://pastaybastarosarito.com/es/inicio/
 descripcion: Especialista en pasta
-categoria: restaurant
+categoria: Restaurante
 imagenes: [/assets/img/portfolio/pasta-y-basta-logo3.png]
 calle: Km 28.5 Boulevard Artesanal Popotola
 estado: Baja California

@@ -4,7 +4,7 @@ layout: negocio
 slogan: La Original comida Baja Mediterránea
 web: http://www.laquerenciatj.com/
 descripcion: BajaMed by Miguel Ángel Guerrero
-categoria: restaurant
+categoria: Restaurante
 imagenes: ["/assets/img/portfolio/LA QUERENCIA.jpg", "/assets/img/portfolio/LA QUERENCIA ANUNCIO COVID19.jpg"]
 calle: Blvd. Benito Juárez 184
 estado: Baja California

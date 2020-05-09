@@ -4,7 +4,7 @@ layout: negocio
 slogan: 
 web: https://www.facebook.com/laesperanzabajamed
 descripcion: 
-categoria: restaurant 
+categoria: Restaurante
 imagenes: ["/assets/img/portfolio/LA ESPERANZA.jpg", "/assets/img/portfolio/LA ESPERANZA ANUNCIO COVID19.jpg"]
 calle: Carretera Ensenada Tecate km. 73.5 
 estado: Baja California

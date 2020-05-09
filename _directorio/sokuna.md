@@ -4,7 +4,7 @@ layout: negocio
 slogan: Cosina de Asia
 web: https://www.facebook.com/Sokuna-Cocina-De-Asia-459264741096769
 descripcion: cocina de asia
-categoria: restaurant
+categoria: Restaurante
 imagenes: ["/assets/img/portfolio/sokuna.jpg"]
 calle: Blvd. Benito Juárez 1207
 estado: Baja California 

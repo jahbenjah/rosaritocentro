@@ -3,7 +3,7 @@ title : Ikeda of Japan
 layout: negocio
 slogan: Comida Japonesa
 web: https://www.facebook.com/ikedaofjapanrosarito
-categoria: restaurant
+categoria: Restaurante
 descripcion: Especialista en comida japonesa
 imagenes: [/assets/img/portfolio/ikeda.jpg]
 calle: Blvd. Benito Juárez 890-1A

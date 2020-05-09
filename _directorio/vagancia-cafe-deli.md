@@ -5,7 +5,7 @@ slogan: Cafetería
 web: https://www.facebook.com/vaganciacoffeedeli
 categoria: restaurant
 descripcion: Cafe & Deli
-categoria: cafe
+categoria: Café
 imagenes: ["/assets/img/portfolio/VAGANCIA.jpg"]
 calle: Blvd Benito Juárez 79
 estado: Baja California

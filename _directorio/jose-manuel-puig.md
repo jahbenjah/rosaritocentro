@@ -4,7 +4,7 @@ layout: negocio
 slogan: AUXILIAR DE SISTEMA JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 web: https://www.facebook.com/jose.puigcardenas
 descripcion: 
-categoria: servicios
+categoria: Servicios
 imagenes: [/assets/img/portfolio/Logo-Puig.png]
 ---
 

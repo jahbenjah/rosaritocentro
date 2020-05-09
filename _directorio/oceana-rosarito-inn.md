@@ -4,7 +4,7 @@ layout: negocio
 slogan: Oceana Rosarito Inn
 web: http://rosaritoinn.com/
 descripcion: 
-categoria: hotel
+categoria: Hotel
 imagenes: ["/assets/img/portfolio/OCEANA ROSARITO INN.jpg"]
 ---
 

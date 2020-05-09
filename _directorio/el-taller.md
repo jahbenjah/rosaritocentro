@@ -4,7 +4,7 @@ layout: negocio
 slogan: Deliciosos platillos Bajamed.
 web: https://www.facebook.com/eltallerbajamed
 descripcion: Bajamed cocina
-categoria: restaurant
+categoria: Restaurante
 imagenes: ["/assets/img/portfolio/EL TALLER.jpg", "/assets/img/portfolio/eltaller1.jpg", "/assets/img/portfolio/eltaller2.jpg", "/assets/img/portfolio/eltaller20.jpg"]
 calle: Blvd Agua Caliente 2969-B
 estado: Baja California

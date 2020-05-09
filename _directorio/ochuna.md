@@ -4,7 +4,7 @@ layout: negocio
 slogan: Comida Mediterranea
 web: https://http://ochunarosarito.com.mx/
 descripcion: 
-categoria: Restaurant
+categoria: Restaurante
 imagenes: ["/assets/img/portfolio/ochuna.jpg", "/assets/img/portfolio/ochuna closed.jpg"]
 calle: Blvd. Benito Juárez 2701
 estado: Baja California

@@ -3,7 +3,7 @@ title : Casa Alba
 layout: negocio
 slogan: Moda Mexicana
 web: https://www.facebook.com/casaalbamodamexicana
-categoria: moda
+categoria: Moda
 descripcion: Dedicada al diseño, fabricación y venta de ropa con la más alta calidad.
 imagenes: ["/assets/img/portfolio/CASA ALBA (2).jpg"]
 ---

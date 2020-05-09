@@ -4,7 +4,7 @@ layout: negocio
 slogan: Steak House 
 web: http://www.elnidorosarito.com.mx/
 descripcion: 
-categoria: restaurant
+categoria: Restaurante
 imagenes: ["/assets/img/portfolio/el nido.png"]
 calle: Blvd. Benito Juárez 184
 estado: Baja California

@@ -4,7 +4,7 @@ layout: negocio
 slogan: Servicio IPTV
 web: https://www.facebook.com/TvPrivad0
 descripcion: ROGRAMACIÓN PREMIUM
-categoria: servicios
+categoria: Servicios
 imagenes: ["/assets/img/portfolio/Tv Privado.png"]
 ---
 SERVICIO IPTV CON LA MEJOR PROGRAMACIÓN PREMIUM CANALES DE Y MÁS!.

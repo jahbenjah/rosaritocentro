@@ -4,7 +4,7 @@ layout: negocio
 slogan: Comida francesa
 web: https://bistrolecousteau.com/
 descripcion: 
-categoria: Restaurantes
+categoria: Restaurante
 imagenes: ["/assets/img/portfolio/bistro.jpeg"]
 calle: Blvd. Benito Juárez 184
 estado: Baja California

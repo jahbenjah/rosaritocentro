@@ -4,7 +4,7 @@ layout: negocio
 slogan: Cafeteria Familiar
 web: https://www.facebook.com/cafeparatresrosarito
 descripcion: Cafeteria Familiar
-categoria: Cafe
+categoria: Café
 imagenes: ["/assets/img/portfolio/cafeparatres.jpeg", "/assets/img/portfolio/cafeparatresmenu.jpg", "/assets/img/portfolio/cafeparatresmenu1.jpg"]
 calle: Blvd. Guerrero 752
 estado: Baja California

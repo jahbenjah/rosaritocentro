@@ -3,7 +3,7 @@ title : Studio 14
 layout: negocio
 slogan: Studio 14 está diseñado para brindarle comodidad en su estadía
 web: https://www.facebook.com/Studio-14-355228878679670
-categoria: hoteles
+categoria: Hotel
 descripcion: Hotel
 categoria: hotel
 imagenes: ["/assets/img/portfolio/STUDIO 14.jpg"]

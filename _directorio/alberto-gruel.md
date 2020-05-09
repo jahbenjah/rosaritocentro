@@ -4,7 +4,7 @@ layout: negocio
 slogan: Fotógrafo Alberto Gruel
 web: https://www.facebook.com/FotoArteAlbertoGruel/
 descripcion: Instructor de fotografía desde 1984
-categoria: servicios
+categoria: Servicios
 imagenes: [/assets/img/portfolio/alberto-gruel.png]
 ---
 
