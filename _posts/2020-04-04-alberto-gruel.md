@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Alberto Gruel"
-image: "/assets/img/alberto-gruel/IMG_4690 - copiared2.jpg"
+image: "/assets/img/alberto-gruel/imagenagr.jpg"
 permalink: /:categories/:title/
 ---
 
