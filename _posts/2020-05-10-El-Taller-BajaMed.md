@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Conciente a Mamá"
+title:  "Consiente a Mamá"
 image: "/assets/img/blog/Eltallerbajamed.jpg"
 permalink: /:categories/:title/
 categories: [Servicio]
@@ -12,7 +12,7 @@ La comida de BajaMed by Miguel Ángel Guerrero llega a El Taller para que puedas
 
 Llamanos 664 686 3383 ó mandanos un [mensaje](https://www.facebook.com/eltallerbajamed)
 
-Feliz dia Mamá
+Feliz día Mamá
 
 <div class="embed-responsive embed-responsive-16by9">
 
