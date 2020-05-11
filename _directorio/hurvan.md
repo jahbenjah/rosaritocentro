@@ -4,7 +4,7 @@ layout: negocio
 slogan: HURVAN COLOR, CABELLO & ESTILO
 web: https://www.facebook.com/HURVAN1/
 descripcion: 
-categoria: Moda
+categoria: Servicios
 imagenes: ["/assets/img/portfolio/hurvan.jpeg"]
 ---
 
