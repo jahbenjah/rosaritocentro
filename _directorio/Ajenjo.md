@@ -5,7 +5,7 @@ slogan: Comida Internacional
 web: https://ajenjo.com.mx
 descripcion: 
 categoria: Restaurante
-imagenes: ["/assets/img/portfolio/ajenjo.jpg"]
+imagenes: ["/assets/img/portfolio/ajenjo.jpg", "/assets/img/portfolio/Ajenjobaranddining.jpg"]
 calle: Blvd. Popotla 3114
 estado: Baja California
 municipio: Rosarito
@@ -17,5 +17,17 @@ cocina: mediterranea
 rango: $$
 ---
 
->Inspired Cuisine
->The inspired cuisine at Ajenjo combines traditional Mexican and French recipes with our chef’s Cordon Bleu-inspired cooking techniques. Come and enjoy the rustic Baja chic Ajenjo ambiance. We only utilize this unique area’s freshest ingredients from land and sea. We serve specialty cocktails and have an extensive selection of wine from the Baja’s wine valleys and elsewhere.
+>Cocina inspirada
+
+>La cocina inspirada a ajenjo combina recetas tradicionales mexicanas y francesas con las técnicas de cocina inspiradas en Cordon Bleu de nuestro chef. Venga y disfrute del ambiente rústico de baja elegancia ajenjo. Sólo utilizamos los ingredientes más frescos de esta área única de la tierra y el mar. Servimos cócteles especiales y tenemos una extensa selección de vinos de los valles de los vinos de baja California y de otros lugares.
+
+ >* Blvd. Popotla 3114
+ >* Playa Encantada, 22710 Rosarito, B.C.
+ >* 661 120 1540
+ >* Horario de Servicio
+ >* Lunes a Domingo  
+ >* 12 p.m a 10 p.m
+
+ >* Revisa nuestro [Menú](https://ajenjo.com.mx/menus/?lang=es), pídelo para llevar.  
+ >* Cuando pase esta contingencia no olvides visitarnos. Has tu [reservación aquí](https://ajenjo.com.mx/reservaciones/?lang=es) o mandanos un mensaje en [Facebook](https://www.facebook.com/ajenjo.latitud). Te estaremos esperando.
+
