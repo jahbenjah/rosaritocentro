@@ -30,5 +30,7 @@ rango: $$
  >* 12 p.m a 10 p.m
    
  >* Continuamos abierto mayormente para llevar. 
- >* Mandanos un mensaje en [Facebook](https://www.facebook.com/BistroLeCousteau/) te podemos tomar tu orden. 
+ >* Mandanos un mensaje en [Facebook](https://www.facebook.com/BistroLeCousteau/), revisa nuestro [Menú](https://bistrolecousteau.com/#menu-list) y pidelo para llevar. 
  >* Si prefieres quedarte en casa, contamos con servicio de [Uber Eats](https://www.ubereats.com/tijuana/food-delivery/restaurant-bistro-le-cousteau/D99q_rUsQ2u8mKKzM2dtYA#_)
+ >* Cuando pase esta contingencia no olvides visitarnos. Haz tu [reservación aquí](https://bistrolecousteau.com/#contact) o mandanos un [mensaje](https://www.facebook.com/BistroLeCousteau). 
+ Te estaremos esperando.
