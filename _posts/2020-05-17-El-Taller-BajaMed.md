@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "BajaMed en El Taller"
-image: "/assets/img/portfolio/ELTALLER20%.jpg"
+image: "/assets/img/blog/taller20porciento.jpg"
 permalink: /:categories/:title/
 categories: [Servicio]
 ---
