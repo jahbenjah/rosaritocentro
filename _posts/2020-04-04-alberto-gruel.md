@@ -153,3 +153,5 @@ En febrero de 2017 inició su proyecto de fotografía documental “La vida y co
 DESDE 2016 instructor de fotografía digital y tradicional química blanco y negro con prácticas en cuarto oscuro en IMAC Rosarito en los niveles Basico, Intermedio y Avanzado  
 
 Rosarito BC a Octubre 30 12 mediodia 2019 (Actualizado y documentado)
+
+<img src="\assets\img\alberto-gruel\DSC_9128red.jpg" class="img-fluid" alt="Responsive image">
