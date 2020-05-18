@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Publicidad
+title:  Diseño Grafico
 icon: dribbble
 descripcion:
 ---
