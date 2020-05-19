@@ -11,17 +11,18 @@
 
 :root {
   --main-color: brown;
-  --second-color:  #256d7b;
-  --third-color:#D6C185;
-  --four-color:#545ff5;
-  --main-bg-color:#444444;
-  --arena-color: #c6a664;
+  --second-color:  #286a69;
+  --third-color:#eacd21;
+  --four-color:#8dc6bf;
+  --main-bg-color:#545454;
+  --arena-color: #fcbc65;
   --blanco:#fff;
-  --footer-color : #2271b3;
-  --footer-bg-color:#00aae4;
-  --blog-bg-color:#bababa;
-  --blog-sidebar:#212121;
-  --blog-footer:#cecece;
+  --footer-color : #213059;
+  --footer-bg-color:#8dc6bf;
+  --blog-bg-color:#eee5d6;
+  --blog-sidebar:#605a5f;
+  --blog-footer:#e6e2c9;
+  --footer-top:#286a69;
 
 }
 
@@ -2089,7 +2090,7 @@ section {
 }
 
 #footer .footer-top {
-  background: #5dc1b9;
+  background: var(--footer-top);;
   border-top: 1px solid var(--footer-bg-color);;
   border-bottom: 1px solid var(--footer-bg-color);;
   padding: 60px 0 30px 0;
