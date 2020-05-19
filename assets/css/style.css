@@ -17,6 +17,7 @@
   --main-bg-color:#444444;
   --arena-color: #c6a664;
   --blanco:#fff;
+  --footer-color : #2271b3;
  
 }
 
@@ -815,7 +816,7 @@ section {
 }
 
 .clients .owl-dot.active {
-  background-color: var(--arena-color); !important;
+  background-color: var(--arena-color) !important;
 }
 
 /*--------------------------------------------------------------
@@ -1164,7 +1165,7 @@ section {
 }
 
 .portfolio-details .portfolio-details-carousel .owl-dot.active {
-  background-color: var(--arena-color); !important;
+  background-color: var(--arena-color) !important;
 }
 
 .portfolio-details .portfolio-info {
@@ -2030,7 +2031,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #2271b3;
+  background: var(--footer-color);
   padding: 0 0 30px 0;
   color: var(--blanco);
   font-size: 14px;
@@ -2038,7 +2039,7 @@ section {
 
 #footer .footer-newsletter {
   padding: 50px 0;
-  background: #2271b3;
+  background: var(--footer-color);
 }
 
 #footer .footer-newsletter h4 {
