@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Terminal punto de venta
+title:  Terminal Punto de Venta
 icon: dribbble
-descripcion: Integra tecnologia a tu negocio. Tenemos las herramientas necesarias para facilitar, crecer y popularizar tu negocio
+descripcion: Integra tecnologia a tu negocio. Tenemos las herramientas necesarias para desarrollar, facilitar, crecer y popularizar tu negocio
 ---
 
 <img src="\assets\img\slide\pos.png" class="img-fluid" alt="Responsive image">

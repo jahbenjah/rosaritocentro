@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Desarrollo de páginas Web
+title:  Desarrollo de Páginas Web
 icon: dribbble
-descripcion: Diseñamos tu Pagina Web. Estructuramos el sitio perfecto
+descripcion: Desarrollamos, diseñamos y posicionamos tu Página Web. Estructuramos tu sitio perfecto
 ---
 
 <img src="\assets\img\slide\desarrollo-web.jpg" class="img-fluid" alt="Responsive image">
