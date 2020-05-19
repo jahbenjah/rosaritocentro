@@ -11,7 +11,7 @@
 
 :root {
   --main-color: brown;
-  --second-color: brown;
+  --second-color:  #256d7b;
   --third-color:#D6C185;
   --four-color:#545ff5;
   --main-bg-color:#444444;
@@ -143,7 +143,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo h1 a, #header .logo h1 a:hover {
-  color: #256d7b;
+  color: var(--second-color);
   text-decoration: none;
 }
 
@@ -172,7 +172,7 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu a {
   display: block;
   position: relative;
-  color: #256d7b;
+  color: var(--second-color);
   padding: 13px 0 15px 25px;
   transition: 0.3s;
   font-size: 14px;
@@ -305,7 +305,7 @@ h1, h2, h3, h4, h5, h6 {
 .mobile-nav a {
   display: block;
   position: relative;
-  color: #256d7b;
+  color: var(--second-color);
   padding: 10px 20px;
   font-weight: 500;
   outline: none;
@@ -471,7 +471,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1;
   width: auto;
   height: auto;
-  color: #256d7b;
+  color: var(--second-color);
 }
 
 #hero .carousel-indicators li {
@@ -597,7 +597,7 @@ section {
 .breadcrumbs h2 {
   font-size: 28px;
   font-weight: 700;
-  color: #256d7b;
+  color: var(--second-color);
 }
 
 .breadcrumbs ol {
@@ -650,12 +650,12 @@ section {
 }
 
 .featured .icon-box h3 a {
-  color: #256d7b;
+  color: var(--second-color);
   transition: 0.3s;
 }
 
 .featured .icon-box p {
-  color: #256d7b;
+  color: var(--second-color);
   line-height: 24px;
   font-size: 14px;
   margin-bottom: 0;
@@ -675,7 +675,7 @@ section {
 .about .content h3 {
   font-weight: 600;
   font-size: 26px;
-  color: #256d7b;
+  color: var(--second-color);
 }
 
 .about .content ul {
@@ -746,7 +746,7 @@ section {
 }
 
 .services .icon-box h4 a {
-  color: #256d7b;
+  color: var(--second-color);
 }
 
 .services .icon-box p {
@@ -839,7 +839,7 @@ section {
   line-height: 24px;
   display: block;
   font-weight: 700;
-  color: #256d7b;
+  color: var(--second-color);
   margin-left: 50px;
 }
 
@@ -926,7 +926,7 @@ section {
 .skills .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #256d7b;
+  color: var(--second-color);
   font-family: "Poppins", sans-serif;
   margin-bottom: 20px;
 }
@@ -963,7 +963,7 @@ section {
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #256d7b;
+  color: var(--second-color);
 }
 
 .skills .progress .skill .val {
@@ -1264,7 +1264,7 @@ section {
 }
 
 .pricing .buy-btn {
-  background: #256d7b;
+  background: var(--second-color);
   display: inline-block;
   padding: 8px 30px;
   border-radius: 20px;
@@ -1527,7 +1527,7 @@ section {
 }
 
 .blog .entry .entry-title a {
-  color: #256d7b;
+  color: var(--second-color);
   transition: 0.3s;
 }
 
@@ -1634,7 +1634,7 @@ section {
   top: 0;
   bottom: 0;
   width: 3px;
-  background-color: #256d7b;
+  background-color: var(--second-color);
   margin-top: 20px;
   margin-bottom: 20px;
 }
@@ -1765,7 +1765,7 @@ section {
 
 .blog .blog-comments .comment h5 .reply {
   padding-left: 10px;
-  color: #256d7b;
+  color: var(--second-color);
 }
 
 .blog .blog-comments .comment time {
@@ -1829,7 +1829,7 @@ section {
   border-radius: 50px;
   padding: 10px 30px;
   border: 0;
-  background-color: #256d7b;
+  background-color: var(--second-color);
 }
 
 .blog .blog-comments .reply-form .btn-primary:hover {
@@ -1893,7 +1893,7 @@ section {
   font-weight: 700;
   padding: 0 0 0 0;
   margin: 0 0 15px 0;
-  color: #256d7b;
+  color: var(--second-color);
   position: relative;
 }
 
@@ -1925,7 +1925,7 @@ section {
   font-size: 16px;
   padding: 0 25px;
   margin: -1px;
-  background: #256d7b;
+  background: var(--second-color);
   color: var(--blanco);
   transition: 0.3s;
   border-radius: 50px;
@@ -2113,7 +2113,7 @@ section {
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #256d7b;
+  background: var(--second-color);
   color: var(--blanco);
   line-height: 1;
   padding: 8px 0;
