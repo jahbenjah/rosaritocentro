@@ -59,13 +59,13 @@ h1, h2, h3, h4, h5, h6 {
   height: 40px;
   border-radius: 4px;
   background: var(--arena-color);
-  color: #fff;
+  color: var(--blanco);
   transition: all 0.4s;
 }
 
 .back-to-top i:hover {
   background: var(--third-color);
-  color: #fff;
+  color: var(--blanco);
 }
 
 /*--------------------------------------------------------------
@@ -78,12 +78,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #topbar .contact-info {
-  color: #fff;
+  color: var(--blanco);
 }
 
 #topbar .contact-info a {
   line-height: 1;
-  color: #fff;
+  color: var(--blanco);
   transition: 0.3s;
 }
 
@@ -101,7 +101,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #topbar .social-links a {
-  color: #fff;
+  color: var(--blanco);
   padding: 4px 0 4px 16px;
   display: inline-block;
   line-height: 1px;
@@ -125,7 +125,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 997;
   transition: all 0.5s;
   padding: 10px 0;
-  background: #fff;
+  background: var(--blanco);
   box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
   position: relative;
 }
@@ -193,7 +193,7 @@ h1, h2, h3, h4, h5, h6 {
   opacity: 0;
   visibility: hidden;
   padding: 10px 0;
-  background: #fff;
+  background: var(--blanco);
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
   transition: ease all 0.3s;
 }
@@ -288,7 +288,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 15px;
   z-index: 9999;
   overflow-y: auto;
-  background: #fff;
+  background: var(--blanco);
   transition: ease-in-out 0.2s;
   opacity: 0;
   visibility: hidden;
@@ -364,7 +364,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-active .mobile-nav-toggle i {
-  color: #fff;
+  color: var(--blanco);
 }
 
 /*--------------------------------------------------------------
@@ -501,7 +501,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.5s;
   line-height: 1;
   margin: 10px;
-  color: #fff;
+  color: var(--blanco);
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
   border: 2px solid var(--arena-color);
@@ -632,7 +632,7 @@ section {
   padding: 40px 30px;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.15);
   border-radius: 10px;
-  background: #fff;
+  background: var(--blanco);
   transition: all ease-in-out 0.3s;
 }
 
@@ -666,7 +666,7 @@ section {
 }
 
 .featured .icon-box:hover i, .featured .icon-box:hover h3 a, .featured .icon-box:hover p {
-  color: #fff;
+  color: var(--blanco);
 }
 
 /*--------------------------------------------------------------
@@ -722,7 +722,7 @@ section {
 }
 
 .services .icon-box .icon i {
-  color: #fff;
+  color: var(--blanco);
   font-size: 28px;
 }
 
@@ -761,7 +761,7 @@ section {
 }
 
 .services .icon-box:hover .icon {
-  background: #fff;
+  background: var(--blanco);
 }
 
 .services .icon-box:hover .icon i {
@@ -773,7 +773,7 @@ section {
 }
 
 .services .icon-box:hover h4 a, .services .icon-box:hover p {
-  color: #fff;
+  color: var(--blanco);
 }
 
 /*--------------------------------------------------------------
@@ -872,13 +872,13 @@ section {
   padding: 40px;
   box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.08);
   position: relative;
-  background: #fff;
+  background: var(--blanco);
 }
 
 .testimonials .testimonial-item .testimonial-img {
   width: 90px;
   border-radius: 50px;
-  border: 6px solid #fff;
+  border: 6px solid var(--blanco);
   float: left;
   margin: 0 10px 0 0;
 }
@@ -1015,7 +1015,7 @@ section {
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
   background: var(--arena-color);
-  color: #fff;
+  color: var(--blanco);
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -1067,8 +1067,8 @@ section {
   position: absolute;
   top: 35px;
   left: 35px;
-  border-top: 3px solid #fff;
-  border-left: 3px solid #fff;
+  border-top: 3px solid var(--blanco);
+  border-left: 3px solid var(--blanco);
   transition: all 0.5s ease 0s;
   z-index: 9994;
 }
@@ -1081,15 +1081,15 @@ section {
   position: absolute;
   bottom: 35px;
   right: 35px;
-  border-bottom: 3px solid #fff;
-  border-right: 3px solid #fff;
+  border-bottom: 3px solid var(--blanco);
+  border-right: 3px solid var(--blanco);
   transition: all 0.5s ease 0s;
   z-index: 9994;
 }
 
 .portfolio .portfolio-wrap .portfolio-info h4 {
   font-size: 20px;
-  color: #fff;
+  color: var(--blanco);
   font-weight: 600;
 }
 
@@ -1107,7 +1107,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a {
-  color: #fff;
+  color: var(--blanco);
   margin: 0 2px;
   font-size: 28px;
   display: inline-block;
@@ -1209,7 +1209,7 @@ section {
   padding: 40px;
   margin-bottom: 30px;
   box-shadow: 0px 0px 30px rgba(73, 78, 92, 0.15);
-  background: #fff;
+  background: var(--blanco);
   text-align: center;
 }
 
@@ -1268,7 +1268,7 @@ section {
   display: inline-block;
   padding: 8px 30px;
   border-radius: 20px;
-  color: #fff;
+  color: var(--blanco);
   transition: none;
   font-size: 14px;
   font-weight: 400;
@@ -1322,7 +1322,7 @@ section {
   margin-bottom: 20px;
   box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
   padding: 30px 20px;
-  background: #fff;
+  background: var(--blanco);
 }
 
 .team .member img {
@@ -1415,7 +1415,7 @@ section {
 
 .contact .php-email-form .error-message {
   display: none;
-  color: #fff;
+  color: var(--blanco);
   background: #ed3c0d;
   text-align: center;
   padding: 15px;
@@ -1424,7 +1424,7 @@ section {
 
 .contact .php-email-form .sent-message {
   display: none;
-  color: #fff;
+  color: var(--blanco);
   background: #18d26e;
   text-align: center;
   padding: 15px;
@@ -1433,7 +1433,7 @@ section {
 
 .contact .php-email-form .loading {
   display: none;
-  background: #fff;
+  background: var(--blanco);
   text-align: center;
   padding: 15px;
 }
@@ -1474,7 +1474,7 @@ section {
   border: 0;
   border-radius: 50px;
   padding: 10px 24px;
-  color: #fff;
+  color: var(--blanco);
   transition: 0.4s;
 }
 
@@ -1576,7 +1576,7 @@ section {
 .blog .entry .entry-content .read-more a {
   display: inline-block;
   background: var(--arena-color);
-  color: #fff;
+  color: var(--blanco);
   padding: 6px 20px 8px 20px;
   transition: 0.3s;
   font-size: 14px;
@@ -1868,11 +1868,11 @@ section {
 }
 
 .blog .blog-pagination li.active a, .blog .blog-pagination li:hover a {
-  color: #fff;
+  color: var(--blanco);
 }
 
 .blog .blog-pagination li.disabled {
-  background: #fff;
+  background: var(--blanco);
   border: 1px solid white;
 }
 
@@ -1902,7 +1902,7 @@ section {
 }
 
 .blog .sidebar .search-form form {
-  background: #fff;
+  background: var(--blanco);
   border: 1px solid #ddd;
   padding: 3px 10px;
   position: relative;
@@ -1926,7 +1926,7 @@ section {
   padding: 0 25px;
   margin: -1px;
   background: #256d7b;
-  color: #fff;
+  color: var(--blanco);
   transition: 0.3s;
   border-radius: 50px;
 }
@@ -2015,7 +2015,7 @@ section {
 }
 
 .blog .sidebar .tags ul a:hover {
-  color: #fff;
+  color: var(--blanco);
   border-color: var(--arena-color);
   background: var(--arena-color);
 }
@@ -2032,7 +2032,7 @@ section {
 #footer {
   background: #2271b3;
   padding: 0 0 30px 0;
-  color: #fff;
+  color: var(--blanco);
   font-size: 14px;
 }
 
@@ -2051,7 +2051,7 @@ section {
 
 #footer .footer-newsletter form {
   margin-top: 30px;
-  background: #fff;
+  background: var(--blanco);
   padding: 6px 10px;
   position: relative;
   border-radius: 50px;
@@ -2074,7 +2074,7 @@ section {
   padding: 0 30px;
   margin: 3px;
   background: var(--arena-color);
-  color: #fff;
+  color: var(--blanco);
   transition: 0.3s;
   border-radius: 50px;
 }
@@ -2107,14 +2107,14 @@ section {
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Raleway", sans-serif;
-  color: #fff;
+  color: var(--blanco);
 }
 
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
   background: #256d7b;
-  color: #fff;
+  color: var(--blanco);
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
@@ -2127,14 +2127,14 @@ section {
 
 #footer .footer-top .social-links a:hover {
   background: var(--arena-color);
-  color: #fff;
+  color: var(--blanco);
   text-decoration: none;
 }
 
 #footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #fff;
+  color: var(--blanco);
   text-transform: uppercase;
   position: relative;
   padding-bottom: 12px;
@@ -2168,7 +2168,7 @@ section {
 }
 
 #footer .footer-top .footer-links ul a {
-  color: #fff;
+  color: var(--blanco);
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
@@ -2195,5 +2195,5 @@ section {
   padding-top: 10px;
   text-align: center;
   font-size: 13px;
-  color: #fff;
+  color: var(--blanco);
 }
