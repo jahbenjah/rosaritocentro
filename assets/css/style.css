@@ -20,6 +20,9 @@
   --footer-color : #2271b3;
   --footer-bg-color:#00aae4;
   --blog-bg-color:#bababa;
+  --blog-sidebar:#212121;
+  --blog-footer:#cecece;
+
 }
 
 
@@ -1230,7 +1233,7 @@ section {
 }
 
 .pricing h4 span {
-  color: #var(--blog-bg-color);;
+  color: var(--blog-bg-color);
   font-size: 18px;
   display: block;
 }
@@ -1539,7 +1542,7 @@ section {
 
 .blog .entry .entry-meta {
   margin-bottom: 15px;
-  color: #var(--blog-bg-color);;
+  color: var(--blog-bg-color);;
 }
 
 .blog .entry .entry-meta ul {
@@ -1652,7 +1655,7 @@ section {
 }
 
 .blog .entry .entry-footer a {
-  color: #cecece;
+  color: var(--blog-footer);
   transition: 0.3s;
 }
 
@@ -1723,7 +1726,7 @@ section {
 }
 
 .blog .blog-author .social-links a {
-  color: #var(--blog-bg-color);;
+  color: var(--blog-bg-color);;
 }
 
 .blog .blog-author p {
@@ -1774,7 +1777,7 @@ section {
   margin-left: 65px;
   display: block;
   font-size: 14px;
-  color: #var(--blog-bg-color);;
+  color: var(--blog-bg-color);;
   margin-bottom: 5px;
 }
 
@@ -1879,7 +1882,7 @@ section {
 }
 
 .blog .blog-pagination li.disabled i {
-  color: #f1f1f1;
+  color: var(--blanco);
   padding: 10px 16px;
   display: inline-block;
 }
@@ -1956,7 +1959,7 @@ section {
 
 .blog .sidebar .categories ul a span {
   padding-left: 5px;
-  color: #var(--blog-bg-color);;
+  color: var(--blog-bg-color);;
   font-size: 14px;
 }
 
@@ -1976,7 +1979,7 @@ section {
 }
 
 .blog .sidebar .recent-posts h4 a {
-  color: #212121;
+  color: var(--blog-sidebar);
   transition: 0.3s;
 }
 
@@ -1989,7 +1992,7 @@ section {
   margin-left: 95px;
   font-style: italic;
   font-size: 14px;
-  color: #var(--blog-bg-color);;
+  color: var(--blog-bg-color);;
 }
 
 .blog .sidebar .tags {
