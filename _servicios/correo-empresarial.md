@@ -2,13 +2,13 @@
 layout: post
 title: Correo Empresarial  
 icon: dribbble
-descripcion: Obten tu correo electronico con referencia a tus servicios
+descripcion: Obten tu correo electronico empresarial con nombre de tu dominio. Conoce los beneficios
 ---
 <img src="\assets\img\slide\correo-empresarial.jpg" class="img-fluid" alt="Responsive image">
 
 **Correo empresarial para tu negocio**
-* Mejora la imagen de tu negocio usando correos electrónicos con tu propio nombre de dominio.
-* Correo electrónico para tu negocio y personal.
+* Mejora la imagen de tu empresa usando correos electrónicos con tu propio nombre de dominio.
+* Correo electrónico para tu empresa y personal.
 * Correo electrónico profesional para tu negocio disponible en tus dispositivos.
  
 **Protección contra SPAM** 
@@ -31,11 +31,9 @@ descripcion: Obten tu correo electronico con referencia a tus servicios
 
 **Soporte**
 * Contáctanos si tienes algún problema. 
-* Crea el control, Tendrás control total de los correos electrónicos de tu personal.
+* Crea el control, Tendrás control total como administrador al habilitar y deshabilitar cuentas para tu personal de trabajo.
 
-**Precios**
-* Paquetes de correos electrónicos 
-* 5 cuentas de correo electrónico profesional con referencia a tu dominio.
-
-**¡Empecemos!**
+**¡Comencemos!**
+* 5 Cuentas de correo electrónico profesional con nombre de tu dominio.
 * Es necesario contar con un nombre de dominio propio. ¿Ya tienes el tuyo? 
+

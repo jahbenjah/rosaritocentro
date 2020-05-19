@@ -2,7 +2,7 @@
 layout: post
 title:  Diseño Grafico
 icon: dribbble
-descripcion: Diseña, crea. Soluciones graficas para tu negocio. 
+descripcion: Diseñamos y creamos soluciones graficas para tu empresa. Dale una buena imagen a tus servicios. 
 ---
 
 <img src="\assets\img\slide\Publicidad.jpg" class="img-fluid" alt="Responsive image">
