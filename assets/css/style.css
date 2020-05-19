@@ -18,7 +18,8 @@
   --arena-color: #c6a664;
   --blanco:#fff;
   --footer-color : #2271b3;
- 
+  --footer-bg-color:#00aae4;
+  --blog-bg-color:#bababa;
 }
 
 
@@ -1095,7 +1096,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-info p {
-  color: #ffffff;
+  color: var(--blanco);
   font-size: 14px;
   text-transform: uppercase;
   padding: 0;
@@ -1229,7 +1230,7 @@ section {
 }
 
 .pricing h4 span {
-  color: #bababa;
+  color: #var(--blog-bg-color);;
   font-size: 18px;
   display: block;
 }
@@ -1538,7 +1539,7 @@ section {
 
 .blog .entry .entry-meta {
   margin-bottom: 15px;
-  color: #bababa;
+  color: #var(--blog-bg-color);;
 }
 
 .blog .entry .entry-meta ul {
@@ -1722,7 +1723,7 @@ section {
 }
 
 .blog .blog-author .social-links a {
-  color: #bababa;
+  color: #var(--blog-bg-color);;
 }
 
 .blog .blog-author p {
@@ -1773,7 +1774,7 @@ section {
   margin-left: 65px;
   display: block;
   font-size: 14px;
-  color: #bababa;
+  color: #var(--blog-bg-color);;
   margin-bottom: 5px;
 }
 
@@ -1955,7 +1956,7 @@ section {
 
 .blog .sidebar .categories ul a span {
   padding-left: 5px;
-  color: #bababa;
+  color: #var(--blog-bg-color);;
   font-size: 14px;
 }
 
@@ -1988,7 +1989,7 @@ section {
   margin-left: 95px;
   font-style: italic;
   font-size: 14px;
-  color: #bababa;
+  color: #var(--blog-bg-color);;
 }
 
 .blog .sidebar .tags {
@@ -2086,8 +2087,8 @@ section {
 
 #footer .footer-top {
   background: #5dc1b9;
-  border-top: 1px solid #00aae4;
-  border-bottom: 1px solid #00aae4;
+  border-top: 1px solid var(--footer-bg-color);;
+  border-bottom: 1px solid var(--footer-bg-color);;
   padding: 60px 0 30px 0;
 }
 
