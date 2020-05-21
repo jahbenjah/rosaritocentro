@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Marketing y Publicidad
+title:  Marketing
 icon: dribbble
 descripcion: Promueve tus servicios. Nosotros te ayudamos con publicidad, contamos con las herramientas necesarias para ti
 ---
