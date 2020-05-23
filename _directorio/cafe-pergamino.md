@@ -29,4 +29,4 @@ Café Pergamino
  >* Continuamos abierto. 
  >* Mandanos un mensaje en [Facebook](https://www.facebook.com/Caf%C3%A9-Pergamino-105484457711456)
  >* Cuando pase esta contingencia no olvides visitarnos. 
- Te estaremos esperando.
+ >* Te estaremos esperando.
