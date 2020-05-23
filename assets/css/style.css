@@ -11,19 +11,20 @@
 
 :root {
   --main-color: brown;
+  --main-bg-color:#545454;
   --second-color:  #286a69;
   --third-color:#eacd21;
   --four-color:#8dc6bf;
-  --main-bg-color:#545454;
   --arena-color: #fcbc65;
   --blanco:#fff;
-  --footer-color : #213059;
-  --footer-bg-color:#8dc6bf;
   --blog-bg-color:#eee5d6;
   --blog-sidebar:#605a5f;
   --blog-footer:#e6e2c9;
+  
+  --footer-color : #0097a7;
+  --footer-bg-color:#303030;
   --footer-top:#286a69;
-
+  --top-bar-bg-color: #303030;
 }
 
 
@@ -78,7 +79,7 @@ h1, h2, h3, h4, h5, h6 {
 # Top Bar
 --------------------------------------------------------------*/
 #topbar {
-  background:var(--four-color);
+  background:var(--top-bar-bg-color);
   padding: 10px 0;
   font-size: 14px;
 }
@@ -2044,7 +2045,7 @@ section {
 
 #footer .footer-newsletter {
   padding: 50px 0;
-  background: var(--footer-color);
+  background: var(--footer-bg-color);
 }
 
 #footer .footer-newsletter h4 {
@@ -2086,7 +2087,7 @@ section {
 }
 
 #footer .footer-newsletter form input[type="submit"]:hover {
-  background: var(--third-color);
+  background: var(--footer-bg-color);
 }
 
 #footer .footer-top {
