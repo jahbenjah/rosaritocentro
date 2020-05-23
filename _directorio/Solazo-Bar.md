@@ -5,7 +5,7 @@ slogan: Un bar autentico para gente autentica
 web: https://solazobar.wixsite.com/solazobar
 descripcion: Un bar autentico para gente autentica
 categoria: Bar
-imagenes: ["/assets/img/portfolio/solazobar.png", "/assets/img/portfolio/solazobaranunciocovid19.png"]
+imagenes: ["/assets/img/portfolio/solazobar.png", "/assets/img/portfolio/solazobaranunciocovid19.jpg"]
 calle: Blvd. Benito Juárez 137
 estado: Baja California
 municipio: Rosarito
