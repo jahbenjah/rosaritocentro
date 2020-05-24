@@ -27,7 +27,7 @@ rango: $$
 >* ESTAMOS ESPERANDO TU LLAMADA
 haz tu pedido para llevar y en 10 minutos tenemos lista tu comida.
 Este sábado aprovecha a tu familia y consientela con una rica comida!
- >* Mandanos un mensaje en [Facebook](https://www.facebook.com/La-Estancia-Restaurant-Bar-181505635801596), revisa nuestro [Menú](https://bistrolecousteau.com/#menu-list) y pidelo para llevar. 
+ >* Mandanos un mensaje en [Facebook](https://www.facebook.com/La-Estancia-Restaurant-Bar-181505635801596), revisa nuestro Menú y pidelo para llevar. 
 
  >* Cuando pase esta contingencia no olvides visitarnos. 
  >* Te estaremos esperando.
