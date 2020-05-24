@@ -57,5 +57,5 @@ defaults:
       lazy: true
       image:
         path: /assets/img/rosaritocentro/rosarito.jpg
-        height: 347
-        width: 663
+        height: 5000
+        width: 3705
