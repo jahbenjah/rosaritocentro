@@ -48,3 +48,14 @@ collections:
   servicios:
     output: true
  
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      lang: "es"
+      lazy: true
+      image:
+        path: /assets/img/rosaritocentro/rosarito.jpg
+        height: 3705
+        width: 5000
