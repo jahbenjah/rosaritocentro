@@ -3,7 +3,7 @@ layout: post
 title:  "Castillo del Diablo 🏰 - Museo Gótico en #PlayasdeRosarito"
 image: "/assets/img/blog/museo gotico.jpg"
 permalink: /:categories/:title/
-categories: Comunicados
+categories: [Comunicados]
 ---
 
 Este museo se encuentra sobre la carretera libre Rosarito - Ensenada entre los límites de estos dos municipios de Baja California.

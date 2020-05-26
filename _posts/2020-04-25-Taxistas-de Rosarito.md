@@ -3,7 +3,7 @@ layout: post
 title:  "Taxistas de Rosarito"
 image: "/assets/img/blog/ctm.jpg"
 permalink: /:categories/:title/
-categories: Salud
+categories: [Salud]
 ---
 
 Taxistas de #Rosarito todos los días están limpiando y desinfectado sus unidades ante esta contingencia sanitaria, esto con el objetivo de que los usuarios se sientan con la confianza al momento de subir a alguna unidad del transporte publico.

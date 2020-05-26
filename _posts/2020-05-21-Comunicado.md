@@ -3,7 +3,7 @@ layout: post
 title:  "Bloquean 5 accesos viales en Playas de Rosarito"
 image: "/assets/img/alberto-gruel/panoramaalbertog.jpg"
 permalink: /:categories/:title/
-categories: Comunicados
+categories: [Comunicados]
 ---
 
 ⚠️Aviso Importante para #Rosarito
