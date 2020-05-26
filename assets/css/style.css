@@ -24,6 +24,7 @@
   --footer-color : #0097a7;
   --footer-bg-color:#303030;
   --footer-top:#286a69;
+  --footer-container: #303030;
   --top-bar-bg-color: #303030;
 }
 
@@ -2191,6 +2192,11 @@ section {
 
 #footer .footer-top .footer-contact p {
   line-height: 26px;
+}
+
+#footer .container
+{
+  background-color: var(--footer-container);
 }
 
 #footer .copyright {
