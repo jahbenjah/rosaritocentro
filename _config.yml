@@ -5,7 +5,6 @@ description: >-
   Rosarito Centro, el mejor sitio de Playas de Rosarito
 baseurl: ""
 url: "https://rosaritocentro.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: denicolasromero
 google_analytics: UA-130293099-3
 lang: es_mx
 
@@ -14,9 +13,11 @@ minima:
   # generate social links in footer
   social_links:
     twitter: jekyllrb
-    github:  jekyll
-    rss: rss
 
+social:
+  name: Rosarito Centro
+  links:
+    - https://www.facebook.com/RosaritoCentroBC/
 
 # Build settings
 plugins:
