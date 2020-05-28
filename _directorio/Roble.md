@@ -2,7 +2,7 @@
 title : Roble
 layout: negocio
 slogan: Roble de Raiz a la Mesa
-web: https://http://roble.mx//
+web: http://roble.mx//
 descripcion: Cafeteria
 categoria: Café
 imagenes: ["/assets/img/portfolio/roble.jpg"]
