@@ -19,3 +19,6 @@ Por su parte bomberos en coordinación con Cruz roja y rescatistas  realizaron m
 <img src="/assets/img/blog/mujerhiking.jpg" class="img-fluid" alt="Responsive image">
 
 <img src="/assets/img/blog/bomberos.jpg" class="img-fluid" alt="Responsive image">
+
+
+Información: [José P. Martínez](https://www.facebook.com/CNRDEPORTES)
