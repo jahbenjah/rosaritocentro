@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Secretaria de educación Pública da a conocer fecha de regreso a clases"
-image: "/assets/img/blog/SEP.jpg"
+image: "/assets/img/blog/sepnoscuidamostodos.jpg"
 permalink: /:categories/:title/
 categories: [Educacion]
 ---
