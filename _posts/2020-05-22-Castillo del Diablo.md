@@ -26,7 +26,7 @@ Artistas mexicanos son los que han contribuido en la elaboración de las cientos
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OABx5QVWqfg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Información: [José P. Martínez](https://www.facebook.com/CNRDEPORTES)
+
 
 
 
