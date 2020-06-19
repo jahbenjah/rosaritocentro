@@ -102,7 +102,7 @@ jQuery(document).ready(function ($) {
     console.log(str);
     $.ajax({
       type: "POST",
-      url: "http://localhost:7071/api/Contacto",
+      url: "https://formspree.io/mrgybdzl",
       data: str,
       success: function (msg) {
         // alert(msg);
