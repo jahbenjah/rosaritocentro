@@ -8,7 +8,6 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-
 :root {
   --main-color: brown;
   --main-bg-color:#545454;
@@ -21,13 +20,11 @@
   --blog-sidebar:#605a5f;
   --blog-footer:#e6e2c9;
   
-  --footer-color : #0097a7;
-  --footer-bg-color:#303030;
-  --footer-top:#286a69;
-  --footer-container: #303030;
+  --footer-color : #303030;
+  --footer-bg-color:#0097a7;
+  --footer-top:#006373;
   --top-bar-bg-color: #303030;
 }
-
 
 body {
   font-family: "Open Sans", sans-serif;
