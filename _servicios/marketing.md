@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Código QR
+title:  Marketing
 icon: dribbble
 descripcion: Promueve tus servicios. Nosotros te ayudamos con publicidad, contamos con las herramientas necesarias para ti
 ---
