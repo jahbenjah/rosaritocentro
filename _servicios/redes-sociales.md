@@ -16,7 +16,17 @@ descripcion: Deja que nosostros nos encagemos de tus redes sociales. Amplia tu r
 **Optimizas procesos**
 * Dedíca el tiempo que merece tu empresa e incremento de ventas, de tus redes sociales  nos encargamos nosotros.
 
+<img src="\assets\img\slide\marketing.jpg" class="img-fluid" alt="Responsive image">
 
+
+**Publicate**
+* Planificacion 
+* Creacion                    
+* Red media Social
+* Estrategia en Tiempos
+* Publicamos tus productos y servicios. Ve crecer tus ingresos. 
+*  Necesitas ayuda?  para tus servicios y promociones en la mejor pagina web del Rosarito Centro
+* Crea promociones, nosotros te ayudamos a incrementar tu audiencia.
 
 
 ​
