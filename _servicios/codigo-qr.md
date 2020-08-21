@@ -2,7 +2,7 @@
 layout: post
 title:  Código QR
 icon: dribbble
-descripcion: Promueve tus servicios. Nosotros te ayudamos con publicidad, contamos con las herramientas necesarias para ti
+descripcion: Genera tu Código QR, te damos un 20% de descuento ante esta contingencia COVID-19 
 ---
 
 <img src="/assets/img/Flayers/qr-codes-banner.jpg" class="img-fluid" alt="Responsive image">
@@ -26,7 +26,7 @@ descripcion: Promueve tus servicios. Nosotros te ayudamos con publicidad, contam
         <ul>
           <li><i class="icofont-check-circled"></i> El Menú mas Higienico al alcanse de tus Manos.</li>
           <li><i class="icofont-check-circled"></i> Código QR para cualquier Dispositivo .</li>
-          <li><i class="icofont-check-circled"></i> Tenemos un paquete ideal para ti.</li>
+          <li><i class="icofont-check-circled"></i> Tenemos un Paquete Ideal para ti.</li>
         </ul>
       </div>
     </div>
@@ -50,9 +50,9 @@ descripcion: Promueve tus servicios. Nosotros te ayudamos con publicidad, contam
             <h5 style="text-align:center;"><sup>$</sup>1,800.00 MXN</h5>
             <p style="text-align:center;"><span>&#9782;</span> Desarrollo de Código QR.</p>
             <p style="text-align:center;"><span>&#9782;</span> Diseño con Logotipo Integrado.</p>            
-            <p style="text-align:center;"><span>&#9782;</span> Integración a tu página web.</p>
+            <p style="text-align:center;"><span>&#9782;</span> Desarrollo con Colores Hexadecimales.</p>
             <p style="text-align:center;"><span>&#9782;</span> Escaneos Ilimitados.</p>
-            <p style="text-align:center;"><span>&#9782;</span> Actualización, 5 Cambios sin costo.</p>
+            <p style="text-align:center;"><span>&#9782;</span> Actualización, 5 Cambios sin Costo.</p>
             <hr width="25%" color="#6699FF" size="4">
             <h3 style="text-align:center;"><span>&#9782;</span> QR</h3>
         </div>
@@ -66,11 +66,11 @@ descripcion: Promueve tus servicios. Nosotros te ayudamos con publicidad, contam
             <p style="text-align:center;"><span>&#9782;</span> Desarrollo de Código QR.</p>
             <p style="text-align:center;"><span>&#9782;</span> Desarrollo con Colores Hexadecimales.</p>
             <p style="text-align:center;"><span>&#9782;</span> Diseño con Logotipo Integrado.</p>            
-            <p style="text-align:center;"><span>&#9782;</span> Integración a tu página web.</p>
+            <p style="text-align:center;"><span>&#9782;</span> Integración a tu Página Web.</p>
             <p style="text-align:center;"><span>&#9782;</span> Escaneos Ilimitados.</p>
-            <p style="text-align:center;"><span>&#9782;</span> Actualización, 5 Cambios sin costo.</p>
+            <p style="text-align:center;"><span>&#9782;</span> Actualización, 5 Cambios sin Costo.</p>
             <p style="text-align:center;"><span>&#9782;</span> 2 Carteles QR.</p>
-            <p style="text-align:center;"><span>&#9782;</span> 20 Estampillas para mesa.</p>
+            <p style="text-align:center;"><span>&#9782;</span> 20 Estampillas para Mesa.</p>
             <hr width="25%" color="#6699FF" size="4">
             <h3 style="text-align:center;"><span>&#9782;</span> QR</h3>    
         </div>
@@ -81,14 +81,14 @@ descripcion: Promueve tus servicios. Nosotros te ayudamos con publicidad, contam
             <hr width="25%" color="#6699FF" size="4">
             <h5 style="text-align:center;"><sup>$</sup>3,600.00 MXN</h5>
             <p style="text-align:center;"><span>&#9782;</span> Menú de Alimentos y Bebidas en Linea.</p>
-            <p style="text-align:center;"><span>&#9782;</span> Desarrollo de código QR.</p>
+            <p style="text-align:center;"><span>&#9782;</span> Desarrollo de Código QR.</p>
             <p style="text-align:center;"><span>&#9782;</span> Desarrollo con Colores Hexadecimales.</p>
             <p style="text-align:center;"><span>&#9782;</span> Diseño con Logotipo Integrado.</p>            
-            <p style="text-align:center;"><span>&#9782;</span> Integración a tu página web.</p>
+            <p style="text-align:center;"><span>&#9782;</span> Integración a tu Página Web.</p>
             <p style="text-align:center;"><span>&#9782;</span> Escaneos Ilimitados.</p>
-            <p style="text-align:center;"><span>&#9782;</span> Actualización, 5 Cambios sin costo.</p>
+            <p style="text-align:center;"><span>&#9782;</span> Actualización, 5 Cambios sin Costo.</p>
             <p style="text-align:center;"><span>&#9782;</span> 4 Carteles QR.</p>
-            <p style="text-align:center;"><span>&#9782;</span> 30 Estampillas para mesa.</p>
+            <p style="text-align:center;"><span>&#9782;</span> 30 Estampillas para Mesa.</p>
             <hr width="25%" color="#6699FF" size="4">
             <h3 style="text-align:center;"><span>&#9782;</span> QR</h3>   
         </div>
