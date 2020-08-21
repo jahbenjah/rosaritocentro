@@ -170,7 +170,7 @@ descripcion: Desarrollamos, diseñamos y posicionamos tu Página Web. Estructura
                         </div>
                     </div>
                     <div class="progress">
-                        <span class="skill">Photoshop <i class="val">85%</i></span>
+                        <span class="skill">Photoshop <i class="val">95%</i></span>
                         <div class="progress-bar-wrap">
                             <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0"
                                 aria-valuemax="100">
@@ -191,7 +191,7 @@ descripcion: Desarrollamos, diseñamos y posicionamos tu Página Web. Estructura
           <i class="icofont-simple-smile"></i>
           <span data-toggle="counter-up">232</span>
           <p><strong>Clientes Satisfechos</strong> </p>
-          <a href="contact.html">Conoce más &raquo;</a>
+          <a href="https://rosaritocentro.com/contact.html">Conoce más &raquo;</a>
         </div>
       </div>
       <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
@@ -199,7 +199,7 @@ descripcion: Desarrollamos, diseñamos y posicionamos tu Página Web. Estructura
           <i class="icofont-document-folder"></i>
           <span data-toggle="counter-up">521</span>
           <p><strong>Proyectos</strong> </p>
-          <a href="contact.html">Conoce más &raquo;</a>
+          <a href="https://rosaritocentro.com/contact.html">Conoce más &raquo;</a>
         </div>
       </div>
       <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
@@ -207,7 +207,7 @@ descripcion: Desarrollamos, diseñamos y posicionamos tu Página Web. Estructura
           <i class="icofont-live-support"></i>
           <span data-toggle="counter-up">1,463</span>
           <p><strong>Horas de Soporte</strong> </p>
-          <a href="contact.html">Conoce más &raquo;</a>
+          <a href="https://rosaritocentro.com/contact.html">Conoce más &raquo;</a>
         </div>
       </div>
       <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
@@ -215,11 +215,10 @@ descripcion: Desarrollamos, diseñamos y posicionamos tu Página Web. Estructura
           <i class="icofont-users-alt-5"></i>
           <span data-toggle="counter-up">15</span>
           <p><strong>Equipo Dedicado</strong> </p>
-          <a href="contact.html">Conoce más &raquo;</a>
+          <a href="https://rosaritocentro.com/contact.html">Conoce más &raquo;</a>
         </div>
       </div>
     </div>
 
   </div>
 </section><!-- End Counts Section -->
-
