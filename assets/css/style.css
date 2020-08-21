@@ -792,11 +792,11 @@ section {
 }
 
 .clients .owl-item img {
-  opacity: 0.5;
-  width: 80%;
+  opacity: 100;
+  width: 100%;
   transition: 0.3s;
-  -webkit-filter: grayscale(100);
-  filter: grayscale(100);
+  -webkit-filter: grayscale(0);
+  filter: grayscale(0);
 }
 
 .clients .owl-item img:hover {
@@ -816,11 +816,11 @@ section {
   width: 12px;
   height: 12px;
   border-radius: 50%;
-  background-color: #ddd !important;
+  background-color: #fc0e86 !important;
 }
 
 .clients .owl-dot.active {
-  background-color: var(--arena-color) !important;
+  background-color: #0097a7 !important;
 }
 
 /*--------------------------------------------------------------
