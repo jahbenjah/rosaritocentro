@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aplicará UABC el examen de selección de manera presencial a los aspirantes que lo realizaron en línea"
+title: "UABC"
 image: "/assets/img/blog/uabcco.jpg"
 permalink: /:categories/:title/
 categories: [Comunicados]
