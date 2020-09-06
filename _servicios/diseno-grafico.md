@@ -5,7 +5,7 @@ icon: dribbble
 descripcion: Diseñamos y creamos soluciones graficas para tu empresa. Dale una buena imagen a tus servicios. 
 ---
 
-<img src="\assets\img\slide\Publicidad.jpg" class="img-fluid" alt="Responsive image">
+<img src="/assets/img/Flayers/gpdesign.png" class="img-fluid" alt="Responsive image">
 
 Contamos con soluciones graficas para tu producto, empresa o negocio, branding e identidad,construcción y desarrollo de una marca asi como publicidad de redes sociales .
 
