@@ -58,6 +58,6 @@ defaults:
       lang: "es"
       lazy: true
       image:
-        path: /assets/img/rosaritocentro/rosarito.jpg
-        height: 3705
-        width: 5000
+        path: og-img.png
+        height: 
+        width: 
