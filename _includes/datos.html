@@ -1,6 +1,20 @@
 
  {%- if page.categoria  == 'restaurant' -%}
-<script type="application/ld+json">
+ <script type="application/ld+json">
+  {
+    "@context" : "http://schema.org",
+    "@type" : "Organization",
+    "name" : "Rosarito Centro",
+   "url" : "https://rosaritocentro.com",
+   "sameAs" : [
+     "https://www.facebook.com/RosaritoCentroBC/",
+     "https://www.instagram.com/rosaritocentro/",
+     "https://twitter.com/CentroRosarito",
+     "https://www.linkedin.com/in/rosaritocentro/"
+     ]
+  }
+  </script>
+ <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "{{ page.categoria | escape }}",
