@@ -66,7 +66,7 @@ descripcion: Desarrollamos, diseñamos y posicionamos tu Página Web. Estructura
         <div class="box featured wow fadeInUp">
             <h3 style="text-align:center;">Página Web Informativa</h3>
             <hr width="25%" color="#6699FF" size="4">
-            <h5 style="text-align:center;"><sup>$</sup>4,900.00 MXN</h5>
+            <h5 style="text-align:center;"><sup>$</sup>4,600.00 MXN</h5>
             <p style="text-align:center;"><span>&#10003;</span> Página de Inicio</p>
             <p style="text-align:center;"><span>&#10003;</span> Página de Contacto</p>
             <p style="text-align:center;"><span>&#10003;</span> 1 Formulario de Contacto</p>            
