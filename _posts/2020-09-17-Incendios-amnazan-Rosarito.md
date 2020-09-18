@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Acondiciona su garage como salón de clases."
+title: "El fuego llegó hace varias horas hasta Rosarito por la zona este desde Tijuana."
 image: "/assets/img/blog/incendio.jpg"
 permalink: /:categories/:title/
 categories: [Comunicados]
