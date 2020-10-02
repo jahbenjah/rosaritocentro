@@ -2,7 +2,7 @@
 title : TV Privado
 layout: negocio
 slogan: Servicio IPTV
-web: https://www.facebook.com/TvPrivad0
+web: https://privadotv.com/
 descripcion: ROGRAMACIÓN PREMIUM
 categoria: Servicios
 imagenes: ["/assets/img/portfolio/Tv Privado.png"]

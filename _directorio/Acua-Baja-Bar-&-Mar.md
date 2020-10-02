@@ -2,7 +2,7 @@
 title : Acua Baja Bar & Mar
 layout: negocio
 slogan: Mexican/American Restaurant/Bar
-web: https://www.facebook.com/acuabajabarymar
+web: https://acuabar.com/
 descripcion: Mexican/American Restaurant/Bar
 categoria: Bar
 imagenes: ["/assets/img/portfolio/logo ACUA BAJA BAR Y MAR.png", "/assets/img/portfolio/aqua.jpeg", "/assets/img/portfolio/aquatogo.jpeg", "/assets/img/portfolio/aquatogomn.jpeg", "/assets/img/portfolio/aquatogous.jpeg"]
