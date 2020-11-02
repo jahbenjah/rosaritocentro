@@ -1,17 +1,11 @@
 ---
 layout: post
-title: "Husky Siberiano"
+title: "Lo que tienes que saber sobre Husky Siberiano"
 image: "/assets/img/blog/lunna.jpg"
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---
 
-
-
-Husky Siberiano
-
-Sunday, July 16, 2017
-12:36 PM
 
 "Pros y contras de tener un Husky Siberiano"
 
