@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: servicios
 title:  Desarrollo de Páginas Web 
 icon: dribbble
 descripcion: Desarrollamos, diseñamos y posicionamos tu Página Web. Estructuramos tu sitio perfecto

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: servicios
 title: Correo Empresarial  
 icon: dribbble
 descripcion: Obten tu correo electronico empresarial con nombre de tu dominio. Conoce los beneficios

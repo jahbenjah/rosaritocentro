@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: servicios
 title:  Manejo de redes sociales
 icon: dribbble
 descripcion: Deja que nosostros nos encagemos de tus redes sociales. Amplia tu red de clientes

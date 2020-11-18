@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+
+<!-- ======= Breadcrumbs ======= -->
+<section id="breadcrumbs" class="breadcrumbs">
+    <div class="container">
+
+        <ol>
+            <li><a href="{{ "/index.html" | absolute_url }}">Inicio</a></li>
+            <li><a href="{{ "/services.html" | absolute_url }}">Servicios</a></li>
+        </ol>
+        <h2>{{ site.title }}</h2>
+
+    </div>
+</section><!-- End Breadcrumbs -->
+
+<!-- ======= Blog Section ======= -->
+<section id="blog" class="blog">
+    <div class="container">
+
+        <div class="row">
+
+            <div class="col-lg-12 entries">
+                <article class="entry entry-single">
+
+                    <div class="entry-img">
+                        <img loading="lazy" src="assets/img/blog-1.jpg" alt="" class="img-fluid">
+                    </div>
+
+                    <h2 class="entry-title">
+                        <a href="{{post.url}}"> {{ page.title}}</a>
+                    </h2>
+
+                    <div class="entry-content">
+
+                        {{ content }}
+
+                    </div>
+
+                    
+                </article><!-- End blog entry -->
+            </div>
+        </div>
+    </div>
+</section><!-- End Blog Section -->

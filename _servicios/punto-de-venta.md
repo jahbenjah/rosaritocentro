@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: servicios
 title:  Punto de Venta (SambaPos)
 icon: dribbble
 descripcion: Integra tecnologia a tu negocio. Tenemos las herramientas necesarias para desarrollar, facilitar, crecer y popularizar tu negocio

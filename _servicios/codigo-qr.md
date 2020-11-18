@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: servicios
 title:  Código QR
 icon: dribbble
 descripcion: Genera tu Código QR, te damos un 20% de descuento ante esta contingencia COVID-19 
