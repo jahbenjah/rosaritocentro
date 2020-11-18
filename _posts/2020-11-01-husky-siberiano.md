@@ -9,13 +9,15 @@ categories: [Comunicados]
 
 "Pros y contras de tener un Husky Siberiano"
 
+Es casi imposible resistirse al atractivo de un Husky Siberiano. Su aspecto de lobo combinado con sus hermosos ojos azules glaciales y su alegre actitud provocan el amor a primera vista. Sin embargo, ser el responsable de Husky Siberiano implica muchas más cosas que admirar su llamativo aspecto, y es necesario conocerlas antes de adoptar uno de estos perros para evitar posibles angustias.
+
 Quizá los Huskies Siberianos se te parezcan más a los lobos que cualquier otra raza. Pero los Huskies ni son lobos ni medio lobos, ni siquiera son genéticamente más parecidos a los lobos que cualquier otra otra raza de perros doméstica.
 
 Lo que sí debes saber es que los Huskies Siberianos no son una raza para todo el mundo; requieren experiencia y un profundo conocimiento de la raza. Es lamentable que muchos perros de esta raza terminen como perros callejeros, abandonados en refugios o, en el peor de los casos, abandonados o maltratados. Definitivamente, es obligatorio conocer los pros y los contras de tener un Husky Siberiano antes de adoptar uno de estos preciosos animales.
 
 "Pros de tener un Husky Siberiano"
 
-Los siguientes son los rasgos o características del Husky Siberiano que más atraen a la gente hacia esta hermosa raza. Aunque muchos Huskies terminan abandonados en refugios, también es cierto que hay muchos dueños que se sienten tan felices de tener estos perros que no saben ni cómo pagárselo.
+Lo siguiente, son los rasgos o características del Husky Siberiano que más atraen a la gente hacia esta hermosa raza. Aunque muchos Huskies terminan abandonados en refugios, también es cierto que hay muchos dueños que se sienten tan felices de tener estos perros que no saben ni cómo pagárselo.
 
 ✅Tienen muy buen carácter
 
@@ -79,7 +81,7 @@ Aunque los Huskies pueden no ladrar mucho, su tristes y melancólicos aullidos c
 
 ❌Sus hábitos de excavación
 
-superficie sea parecida a la de Marte, entonces quizá no te importen mucho los hábitos de excavación de los Huskies. Esta predisposición es innata de la raza y lo mejor es buscar una solución en lugar de regañarles constantemente.
+Si no te importa tener un patio o jardín cuya superficie sea parecida a la de Marte, entonces quizá no te importen mucho los hábitos de excavación de los Huskies. Esta predisposición es innata de la raza y lo mejor es buscar una solución en lugar de regañarles constantemente.
 
 ❌Son malos perros guardianes
 
