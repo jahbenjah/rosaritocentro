@@ -52,7 +52,7 @@ descripcion: Genera tu Código QR, te damos un 20% de descuento ante esta contin
             <p style="text-align:center;"><span>&#9782;</span> Diseño con Logotipo Integrado.</p>            
             <p style="text-align:center;"><span>&#9782;</span> Desarrollo con Colores Hexadecimales.</p>
             <p style="text-align:center;"><span>&#9782;</span> Escaneos Ilimitados.</p>
-            <p style="text-align:center;"><span>&#9782;</span> Actualización, 5 Cambios sin Costo.</p>
+            <p style="text-align:center;"><span>&#9782;</span> Actualización, 5 Cambios sin Costo en un periodo de 6 meses.</p>
             <hr width="25%" color="#6699FF" size="4">
             <h3 style="text-align:center;"><span>&#9782;</span> QR</h3>
         </div>
@@ -61,14 +61,14 @@ descripcion: Genera tu Código QR, te damos un 20% de descuento ante esta contin
         <div class="box featured wow fadeInUp">
             <h3 style="text-align:center;">Paquete 2</h3>
             <hr width="25%" color="#6699FF" size="4">
-            <h5 style="text-align:center;"><sup>$</sup>2,500.00 MXN</h5>
+            <h5 style="text-align:center;"><sup>$</sup>2,800.00 MXN</h5>
             <p style="text-align:center;"><span>&#9782;</span> Menú de Alimentos y Bebidas en Linea.</p>
             <p style="text-align:center;"><span>&#9782;</span> Desarrollo de Código QR.</p>
             <p style="text-align:center;"><span>&#9782;</span> Desarrollo con Colores Hexadecimales.</p>
             <p style="text-align:center;"><span>&#9782;</span> Diseño con Logotipo Integrado.</p>            
             <p style="text-align:center;"><span>&#9782;</span> Integración a tu Página Web.</p>
             <p style="text-align:center;"><span>&#9782;</span> Escaneos Ilimitados.</p>
-            <p style="text-align:center;"><span>&#9782;</span> Actualización, 5 Cambios sin Costo.</p>
+            <p style="text-align:center;"><span>&#9782;</span> Actualización, 5 Cambios sin Costo en un periodo de 6 meses.</p>
             <p style="text-align:center;"><span>&#9782;</span> 2 Carteles QR.</p>
             <p style="text-align:center;"><span>&#9782;</span> 20 Estampillas para Mesa.</p>
             <hr width="25%" color="#6699FF" size="4">
@@ -79,14 +79,14 @@ descripcion: Genera tu Código QR, te damos un 20% de descuento ante esta contin
         <div class="box featured wow fadeInUp">
             <h3 style="text-align:center;">Paquete 3</h3>
             <hr width="25%" color="#6699FF" size="4">
-            <h5 style="text-align:center;"><sup>$</sup>3,600.00 MXN</h5>
+            <h5 style="text-align:center;"><sup>$</sup>3,800.00 MXN</h5>
             <p style="text-align:center;"><span>&#9782;</span> Menú de Alimentos y Bebidas en Linea.</p>
             <p style="text-align:center;"><span>&#9782;</span> Desarrollo de Código QR.</p>
             <p style="text-align:center;"><span>&#9782;</span> Desarrollo con Colores Hexadecimales.</p>
             <p style="text-align:center;"><span>&#9782;</span> Diseño con Logotipo Integrado.</p>            
             <p style="text-align:center;"><span>&#9782;</span> Integración a tu Página Web.</p>
             <p style="text-align:center;"><span>&#9782;</span> Escaneos Ilimitados.</p>
-            <p style="text-align:center;"><span>&#9782;</span> Actualización, 5 Cambios sin Costo.</p>
+            <p style="text-align:center;"><span>&#9782;</span> Actualización, 5 Cambios sin Costo en un periodo de 6 meses.</p>
             <p style="text-align:center;"><span>&#9782;</span> 4 Carteles QR.</p>
             <p style="text-align:center;"><span>&#9782;</span> 30 Estampillas para Mesa.</p>
             <hr width="25%" color="#6699FF" size="4">
