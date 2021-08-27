@@ -1,0 +1,14 @@
+[28-Feb-2021 15:23:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home4/privado1/asesorsolarindependiente.com/assets/vendor/PHPMailer/src/PHPMailer.php:1888
+Stack trace:
+#0 /home4/privado1/asesorsolarindependiente.com/assets/vendor/PHPMailer/src/PHPMailer.php(1609): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Sun, 28 F...', 'Benjamin\r\n')
+#1 /home4/privado1/asesorsolarindependiente.com/assets/vendor/PHPMailer/src/PHPMailer.php(1442): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home4/privado1/asesorsolarindependiente.com/forms/enviarcorreo.php(20): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home4/privado1/asesorsolarindependiente.com/assets/vendor/PHPMailer/src/PHPMailer.php on line 1888
+[28-Feb-2021 15:24:56 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home4/privado1/asesorsolarindependiente.com/assets/vendor/PHPMailer/src/PHPMailer.php:1888
+Stack trace:
+#0 /home4/privado1/asesorsolarindependiente.com/assets/vendor/PHPMailer/src/PHPMailer.php(1609): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Sun, 28 F...', 'Benjamin\r\n')
+#1 /home4/privado1/asesorsolarindependiente.com/assets/vendor/PHPMailer/src/PHPMailer.php(1442): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home4/privado1/asesorsolarindependiente.com/forms/enviarcorreo.php(20): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home4/privado1/asesorsolarindependiente.com/assets/vendor/PHPMailer/src/PHPMailer.php on line 1888
