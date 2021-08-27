@@ -20,7 +20,7 @@ jobs:
     
     # Build the site
     - name: Build Site with Jekyll.
-      run: JEKYLL_ENV=production bundle exec jekyll build
+      run: JEKYLL_ENV=production jekyll build
     
     # Looks kind of complicated but just uploads the content of _site folder to the ftp server. It does not upload the _site folder itself.
     - name: Upload site to FTP.
