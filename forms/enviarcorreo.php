@@ -12,7 +12,7 @@ require("../assets/vendor/PHPMailer/src/SMTP.php");
  $mail->Port = 465; //465  or 587
  $mail->IsHTML(true);
  $mail->Username = "contacto@rosaritocentro.com";
- $mail->Password = "Rosaritocentro1";
+ $mail->Password = "RosaritoCentroBC";
  $mail->SetFrom("contacto@rosaritocentro.com");
  $mail->Subject = "Contacto Desde : Rosarito Centro";
  
