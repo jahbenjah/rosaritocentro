@@ -22,7 +22,7 @@ require("../assets/vendor/PHPMailer/src/SMTP.php");
  $message = $_POST['message'];
 
  
- $mail->Body = "Nombre: {$name}  <br> Correo Electrónico: {$email} <br> Asunto : {$subject} <br> Mensaje : {$message}";
+ $mail->Body = "Nombre: {$name}  <br> Correo Electronico: {$email} <br> Asunto : {$subject} <br> Mensaje : {$message}";
  $mail->AddAddress("contacto@rosaritocentro.com");
  if(!$mail->Send()) {
  echo "Mailer Error: " . $mail->ErrorInfo;
