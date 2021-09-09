@@ -9,6 +9,7 @@ categories: [Salud]
 ¿La variante delta aun mas contagiosa en niños?
 
 
+
 “Hay muchas razones para creer que (la variante delta) es más contagiosa para los niños que las variantes mayores, y eso significa que, a nivel social, estamos viendo un mayor número de casos en todos los grupos de edad, incluidos los niños”, Dijo Marc Lipsitch, epidemiólogo de enfermedades infecciosas en Harvard TH Escuela Chan de Salud Pública.
 
 **¿Habra mas casos?**

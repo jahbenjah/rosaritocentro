@@ -9,6 +9,7 @@ categories: [Educacion]
 ¿El regreso a clases es mas complicado de lo que se esperaba?
 
 
+
 Se ubicaron infectados en centros escolares de al menos seis estados en la primera semana del retorno a las aulas. A semanas del regreso a clases presenciales a nivel nacional, los retos y lecciones por aprender son vastos, ya que aunque los contagios al interior de las escuelas es tema prioritario, no se debe pensar en un nuevo cierre de los centros educativos, ya que el continuo aprendizaje y desarrollo socioemocional que otorgan las instituciones educativas a los menores es de igual prioridad, señalaron expertas en la materia.
 
 **Detectan alumnos infectados**
