@@ -7,6 +7,7 @@ categories: [Comunicados]
 ---
 ¿Es perjudicial no usar correctamente el modo efimero?
 
+
 El uso incorrecto de las redes sociales puede ser perjudicial para las personas que no toman con seriedad este tipo de temas. Es el caso del modo efimero qque acaba de lanzar las redes sociales mundialmente conocida como lo es WhatsApp, Messenger e Instagram.
 
 Esto desembarca a presentarse sextorsión y grooming. Este hecho puede poner en riesgo al usuario, haciéndolo vulnerable, por ejemplo, a la extorsión por motivos sexuales, como han advertido desde Panda Security en un comunicado. Según los datos facilitados a la Secretaría de Estado de Seguridad por parte de las Fuerzas y Cuerpos de Seguridad del Estado, este tipo de delito ha aumentado en un 46 % desde 2018.
