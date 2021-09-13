@@ -6,7 +6,7 @@ web: https://acuabar.com/
 descripcion: Mexican/American Restaurant/Bar
 categoria: Bar
 imagenes: ["/assets/img/portfolio/logo ACUA BAJA BAR Y MAR.png", "/assets/img/portfolio/aqua.jpeg", "/assets/img/portfolio/aquatogo.jpeg", "/assets/img/portfolio/aquatogomn.jpeg", "/assets/img/portfolio/aquatogous.jpeg"]
-calle: Blvd. Benito Juárez 1207-1
+calle: Blvd. Benito Juárez 1207-1 
 estado: Baja California
 municipio: Rosarito
 codigo: 22710
