@@ -5,7 +5,10 @@ image: "/assets/img/blog/acosovirtual.jpg"
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---
+
 ¿Es perjudicial no usar correctamente el modo efimero?
+
+
 
 El uso incorrecto de las redes sociales puede ser perjudicial para las personas que no toman con seriedad este tipo de temas. Es el caso del modo efimero qque acaba de lanzar las redes sociales mundialmente conocida como lo es WhatsApp, Messenger e Instagram.
 
