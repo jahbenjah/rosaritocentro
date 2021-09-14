@@ -18,6 +18,8 @@ categories: [Salud]
 
  “Tendremos este problema de una gran cantidad de infecciones en los niños, la gran mayoría de ellas leves en sus efectos, pero una proporción de ellas más graves”, dijo Lipsitch durante una sesión informativa virtual.
 
+<div class="embed-responsive embed-responsive-16by9">
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0LGSJlo8Lk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
