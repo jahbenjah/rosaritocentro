@@ -76,8 +76,7 @@ descripcion: Obten tu correo electronico empresarial con nombre de tu dominio. C
           <li><i class="icofont-check-circled"></i> Crea el control, Tendrás control total como administrador al habilitar y deshabilitar cuentas para tu personal de trabajo.</li>
         </ul>
       </div>
-    </div>
-    
+    </div>    
   </div>
 
 <div class="container">
@@ -89,6 +88,23 @@ descripcion: Obten tu correo electronico empresarial con nombre de tu dominio. C
   </div>
 </div>
 <div class="container">
+  <div class="row justify-content-center">
+      <div class="col-lg-4">
+        <div class="box featured wow fadeInUp">
+            <h3 style="text-align:center;">Plan Básico</h3>
+            <hr width="25%" color="#6699FF" size="4">
+            <h5 style="text-align:center;"><sup>$</sup>1,500.00 MXN</h5>
+            <p style="text-align:center;"><span>&#10003;</span> 10 correos electrónicos.</p>
+            <p style="text-align:center;"><span>&#10003;</span> Incluye dominio segun su disponibilidad.</p>
+            <p style="text-align:center;"><span>&#10003;</span> Correo electrónico profesional para tu negocio disponible en tus dispostivos.</p>
+            <p style="text-align:center;"><span>&#10003;</span> Correos electrónicos ilimitados</p>
+            <p style="text-align:center;"><span>&#10003;</span> Incluye dominio según su disponibilidad</p>            
+            <hr width="25%" color="#6699FF" size="4">
+            <h6 style="text-align:center;">Plan Anual</h6>
+            <h5 style="text-align:center;">$ 1,500 MXN</h5>
+            <h3 style="text-align:center;"><span>&#10003;</span> @@@ </h3>      
+        </div>
+    </div>
     <div class="col-lg-4">
         <div class="box featured wow fadeInUp">
             <h3 style="text-align:center;">Plan Avanzado</h3>
@@ -102,23 +118,7 @@ descripcion: Obten tu correo electronico empresarial con nombre de tu dominio. C
             <hr width="25%" color="#6699FF" size="4">
             <h6 style="text-align:center;">Plan Anual</h6>
             <h5 style="text-align:center;">$ 2,500 MXN</h5>
-            <h3 style="text-align:center;"><span>&#10003;</span> @ </h3>
-        </div>
-    </div>
-    <div class="col-lg-4">
-        <div class="box featured wow fadeInUp">
-            <h3 style="text-align:center;">Plan Básico</h3>
-            <hr width="25%" color="#6699FF" size="4">
-            <h5 style="text-align:center;"><sup>$</sup>1,500.00 MXN</h5>
-            <p style="text-align:center;"><span>&#10003;</span> 10 correos electrónicos.</p>
-            <p style="text-align:center;"><span>&#10003;</span> Incluye dominio segun su disponibilidad.</p>
-            <p style="text-align:center;"><span>&#10003;</span> Correo electrónico profesional para tu negocio disponible en tus dispostivos.</p>
-            <p style="text-align:center;"><span>&#10003;</span> Correos electrónicos ilimitados</p>
-            <p style="text-align:center;"><span>&#10003;</span> Incluye dominio según su disponibilidad</p>            
-            <hr width="25%" color="#6699FF" size="4">
-            <h6 style="text-align:center;">Plan Anual</h6>
-            <h5 style="text-align:center;">$ 1,500 MXN</h5>
-            <h3 style="text-align:center;"><span>&#10003;</span> @ </h3>      
+            <h3 style="text-align:center;"><span>&#10003;</span> @@@ </h3>
         </div>
     </div>
   </div>  
