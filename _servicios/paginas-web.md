@@ -66,15 +66,16 @@ descripcion: Desarrollamos, diseñamos y posicionamos tu Página Web. Estructura
         <div class="box featured wow fadeInUp">
             <h3 style="text-align:center;">Página Web Informativa</h3>
             <hr width="25%" color="#6699FF" size="4">
-            <h5 style="text-align:center;"><sup>$</sup>4,800.00 MXN</h5>
+            <h5 style="text-align:center;"><sup>$</sup>5,800.00 MXN</h5>
             <p style="text-align:center;"><span>&#10003;</span> Página de Inicio</p>
             <p style="text-align:center;"><span>&#10003;</span> Página de Contacto</p>
             <p style="text-align:center;"><span>&#10003;</span> 1 Formulario de Contacto</p>            
-            <p style="text-align:center;"><span>&#10003;</span> 1 Cuentas de Correo</p>
+            <p style="text-align:center;"><span>&#10003;</span> 3 Cuentas de Correo</p>
             <p style="text-align:center;"><span>&#10003;</span> Certificado SSL Gratis</p>
             <p style="text-align:center;"><span>&#10003;</span> Web Hosting y Dominio Gratis</p>
             <p style="text-align:center;"><span>&#10003;</span> Integración con Redes Sociales</p>
             <hr width="25%" color="#6699FF" size="4">
+            <p style="text-align:center;"><span>&#10003;</span>¿Requieres de un plan de administracion y mantenimiento constante?</p>
             <h6 style="text-align:center;">Plan Mensual</h6>
             <h5 style="text-align:center;">$ 1,800 / Mes</h5>
             <h6 style="text-align:center;">Pago Inicial $4,000.00 MXN</h6>
@@ -85,17 +86,18 @@ descripcion: Desarrollamos, diseñamos y posicionamos tu Página Web. Estructura
         <div class="box featured wow fadeInUp">
             <h3 style="text-align:center;">Página Web Profesional</h3>
             <hr width="25%" color="#6699FF" size="4">
-            <h5 style="text-align:center;"><sup>$</sup>5,800.00 MXN</h5>
+            <h5 style="text-align:center;"><sup>$</sup>6,800.00 MXN</h5>
             <p style="text-align:center;"><span>&#10003;</span> Página de Inicio</p>
             <p style="text-align:center;"><span>&#10003;</span> Página Quienes Somos</p>
             <p style="text-align:center;"><span>&#10003;</span> Página Servicios</p>
             <p style="text-align:center;"><span>&#10003;</span> Página de Contacto</p>
             <p style="text-align:center;"><span>&#10003;</span> 1 Formulario de Contacto</p>            
-            <p style="text-align:center;"><span>&#10003;</span> 3 Cuentas de Correo</p>
+            <p style="text-align:center;"><span>&#10003;</span> 5 Cuentas de Correo</p>
             <p style="text-align:center;"><span>&#10003;</span> Certificado SSL Gratis</p>
             <p style="text-align:center;"><span>&#10003;</span> Web Hosting y Dominio Gratis</p>
             <p style="text-align:center;"><span>&#10003;</span> Integración con Redes Sociales</p>
             <hr width="25%" color="#6699FF" size="4">
+            <p style="text-align:center;"><span>&#10003;</span>¿Requieres de un plan de administracion y mantenimiento constante?</p>
             <h6 style="text-align:center;">Plan Mensual</h6>
             <h5 style="text-align:center;">$ 2,800 / Mes</h5>
             <h6 style="text-align:center;">Pago Inicial $4,500.00 MXN</h6>
@@ -119,6 +121,7 @@ descripcion: Desarrollamos, diseñamos y posicionamos tu Página Web. Estructura
             <p style="text-align:center;"><span>&#10003;</span> Web Hosting y Dominio Gratis</p>
             <p style="text-align:center;"><span>&#10003;</span> Integración con Redes Sociales</p>
             <hr width="25%" color="#6699FF" size="4">
+            <p style="text-align:center;"><span>&#10003;</span>¿Requieres de un plan de administracion y mantenimiento constante?</p>
             <h6 style="text-align:center;">Plan Mensual</h6>
             <h5 style="text-align:center;">$ 3,800 / Mes</h5>
             <h6 style="text-align:center;">Pago Inicial $6,000.00 MXN</h6>
