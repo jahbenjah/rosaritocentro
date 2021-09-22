@@ -14,6 +14,6 @@ Cerrado Temporalmente
 
 >Machado Sur,22703 Rosarito, B.C.
 
->661 120 4533
+><a href="tel:+526611204533">661 120 4533</a>
 
 
