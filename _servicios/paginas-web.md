@@ -123,7 +123,7 @@ descripcion: Desarrollamos, diseñamos y posicionamos tu Página Web. Estructura
             <p style="text-align:center;"><span>&#10003;</span> Web Hosting y Dominio Gratis</p>
             <p style="text-align:center;"><span>&#10003;</span> Integración con Redes Sociales</p>
             <hr width="25%" color="#6699FF" size="4">
-            <p style="text-align:center;"><span>¿Requieres de un plan de administracion y mantenimiento constante?</span></p>
+            <p style="text-align:center;"><span>¿Requieres de un plan de administración y mantenimiento constante?</span></p>
             <hr width="25%" color="#6699FF" size="4">
             <h6 style="text-align:center;">Plan Mensual</h6>
             <h5 style="text-align:center;">$ 3,800 / Mes</h5>
