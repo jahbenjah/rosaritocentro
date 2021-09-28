@@ -2,7 +2,7 @@
 title : Popotla Restaurant & Bar
 layout: negocio
 slogan: El mejor Restaurant de cocina mexicana y de toda la Baja con una espectacular vista al Mar.
-web: http://www.popotla.mx
+web: http://www.popotlarestaurantbar.com/
 descripcion: Toda la Baja con una espectacular vista al Mar.
 categoria: Bar
 imagenes: ["/assets/img/portfolio/popotlarestbar.jpg"]
@@ -19,4 +19,4 @@ rango: $$
 
 >* Km 34 Carretera Tijuana - Ensenada
 >* Popotla, 22710, Rosarito B.C.
->* 661 612 1501
+>* <a href="tel:+526616121505">661 612 15 05</a>

@@ -21,7 +21,7 @@ rango: $$
 
 >* Ave Francisco Villa 316
 >* Colonia Obrera, 22703 Rosarito, B.C.
->* 661 613 0695
+>* <a href="tel:+526616130695">661 613 06 95</a>
 >* Horario de Servicio
 >* Lunes a Domingo  
 >* 8 a.m a 8 p.m

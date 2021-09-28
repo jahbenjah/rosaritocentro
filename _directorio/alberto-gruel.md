@@ -12,6 +12,6 @@ Instructor de fotografía desde 1984, actualmente clases niveles intermedio y av
 
 Instructor en cursos y talleres especializados en: Fotografía tradicional blanco y negro química (de rollo) y técnicas de revelado e impresión en laboratorio cuarto oscuro, retrato, efectos especiales en cámara, macro fotografía.
 
-661 125 9191
+>*<a href="tel:+526611259191">661 125 91 91</a> 
  
 <fotoarte.geb@gmail.com>

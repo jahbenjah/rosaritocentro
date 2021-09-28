@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Fenomeno de iluminacion en el cielo en momentos de sismos"
+title: "Fenómeno de iluminacion en el cielo en momentos de sismos"
 image: "/assets/img/blog/luces-terremoto.jpg"
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---
 
-¿Que fenomeno es el cual ilumina el cielo?
+¿Qué fenómeno es el cual ilumina el cielo?
 
 
 Al igual que en el sismo de hace exactamente cuatro años en México, pudieron observarse en el cielo destellos de tonos verdes y azules durante el temblor que azotó la noche del martes a la República Mexicana. Pero, ¿qué son exactamente? Si bien no hay un consenso definitivo, algunos investigadores han acuñado el término 'luces de terremoto'.

@@ -23,7 +23,7 @@ Continuamos abierto, contamos con servicio de [Uber Eats](https://www.ubereats.c
 
 >22040 Tijuana, B.C.
 
->664 685 2396
+>* <a href="tel:+526646852396">664 685 23 96</a>
 
 >Horario de Servicio 
 

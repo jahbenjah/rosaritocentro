@@ -23,7 +23,7 @@ Ven y pide para llevar tu Café Favorito.
 
 >Constitución, 22707 Rosarito B.C
 
->661 130 1060
+>* <a href="tel:+526611301060"> 661 130 10 60</a>
 
 >Horario de Servicio
 

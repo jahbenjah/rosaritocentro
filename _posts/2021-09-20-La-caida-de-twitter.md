@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "La caida de twitter"
+title: "La caída de twitter"
 image: "/assets/img/blog/caida-twitter.jpg"
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---
 
-La reciente caida de la app de Twitter
+La reciente caída de la app de Twitter
 
 
 

@@ -10,9 +10,9 @@ descripcion: Promueve tus servicios. Nosotros te ayudamos con publicidad, contam
 
 **Publicate**
 * Planificacion 
-* Creacion                    
+* Creación                    
 * Red media Social
 * Estrategia en Tiempos
 * Publicamos tus productos y servicios. Ve crecer tus ingresos. 
-*  Necesitas ayuda?  para tus servicios y promociones en la mejor pagina web del Rosarito Centro
+* Necesitas ayuda?  para tus servicios y promociones en la mejor pagina web del Rosarito Centro
 * Crea promociones, nosotros te ayudamos a incrementar tu audiencia.

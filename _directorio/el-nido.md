@@ -21,7 +21,7 @@ rango: $$
 
  >Zona Centro, 22710 Rosarito, B.C.
 
- >661 612 1430
+ >* <a href="tel:+526616121430">661 612 14 30</a>
 
  >Cerrado Temporalmente
 

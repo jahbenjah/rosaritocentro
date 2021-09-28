@@ -21,4 +21,6 @@ rango: $$
 
 Un bar autentico para gente autentica, Ven y comprueba porque somos los número uno en Rosarito.
 
+>* <a href="tel:+526611218618">661 121 86 18</a>
+
 [Facebook](https://www.facebook.com/Solazo-Bar-580544149078620)

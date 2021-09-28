@@ -21,3 +21,4 @@ rango: $$
 
 >* Blvd. Benito Juárez 
 >* Zona Centro, 22710 Rosarito, B.C.
+>* <a href="tel:+526611041042">661 104 10 42</a>

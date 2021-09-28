@@ -23,4 +23,4 @@ rango: $$
 
 >Valle de Guadalupe, 22750 Ensenada, B.C.
 
->646 155 2785
+>* <a href="tel:+526461552785">646 155 27 85</a>

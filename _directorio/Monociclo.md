@@ -19,7 +19,7 @@ rango: $$
 
  >* Blvd Benito Juárez 29
  >* Zona Centro, 22710 Rosarito, B.C.
- >* 661 104 1654
+ >* <a href="tel:+526611041654">661 104 16 54</a>
  >* Horario de Servicio
  >* Lunes a Domingo  
  >* 8 a.m a 10 p.m

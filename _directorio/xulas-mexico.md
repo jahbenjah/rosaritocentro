@@ -11,3 +11,5 @@ imagenes: ["/assets/img/portfolio/Xulas.png"]
  Xulas Mexico - Tratamientos personalizados para tu cabello y piel. Productos sustentables, organicos y veganos.
 
 Descripción: Te ofrecemos soluciones cosméticas y cosmédicas para condiciones dermocapilares, dando diagnosticos gratuitos para que obtengas el tratamiento ideal para tu cabello, con una conciencia ecologica de amplio espectro.
+
+>*  <a href="tel:+5215541106484">+52 1 55 4110 64 84</a>
