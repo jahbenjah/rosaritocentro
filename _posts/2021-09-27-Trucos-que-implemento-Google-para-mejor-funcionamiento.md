@@ -39,7 +39,7 @@ En ese caso debes poner el comando filetype seguido de dos puntos y el formato e
 
 Un ejemplo de ello sería segunda universo filetype: pdf
 
-<img src="/assets/img/blog/google-truco.jpg" class="img-fluid" alt="Responsive image">
+<img src="/assets/img/blog/google-truco.jpg" class="img-fluid" alt="Trucos">
 
 
 
