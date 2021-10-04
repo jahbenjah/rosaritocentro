@@ -1,6 +1,6 @@
 # Site settings
 title: Rosarito Centro
-email: contactp@rosaritocentro.com
+email: contacto@rosaritocentro.com
 description: >- 
   Tu mejor opción en Desarrollo Web, Marketing Digital y Diseño Gráfico.
 baseurl: ""
@@ -21,6 +21,7 @@ social:
     - https://www.instagram.com/rosaritocentro/
     - https://twitter.com/CentroRosarito
     - https://www.linkedin.com/in/rosaritocentro/
+    - https://www.youtube.com/channel/UCWexmtM12ZHXjHvuQAxeXsQ
 
 # Build settings
 plugins:
