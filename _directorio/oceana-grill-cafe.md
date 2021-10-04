@@ -27,6 +27,6 @@ We have fusion of Mexican and American cuisine Located at Oceana Plaza in beauti
 
 >8 a.m – 4 p.m
 
->661 612 5774
+>* <a href="tel:+526616125774">661 612 57 74</a>
 
 <oceanagrill@rosaritoinn.com>

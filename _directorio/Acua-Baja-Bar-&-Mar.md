@@ -28,9 +28,10 @@ Tenemos servicios a domicilio y desayunos y comidas del día a un precio muy acc
 
 >* Blvd. Benito Juárez 1207-1
 >* Zona Centro, 22710 Rosarito, B.C.
->* 661 112 2342
 >* Horario de Servicio
 >* Lunes a Domingo 24 hrs
+
+><a href="tel:+526611206066">661 120 60 66</a>
 
    
 

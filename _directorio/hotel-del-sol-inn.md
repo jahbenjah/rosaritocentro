@@ -16,8 +16,9 @@ imagenes: ["/assets/img/portfolio/HOTEL DEL SOL INN.jpg"]
 
 >Zona Centro, Playas de Rosarito B.C. 22710
 
->661 612 2553, 661 612 2554
+>*  <a href="tel:+526616122553">661 612 25 53</a>
+>*  <a href="tel:+526616122554">661 612 25 54</a> 
 
->USA 619 308 7265
+>* USA: <a href="tel:6193087265">619 308 72 65</a> 
 
 <reservacioneshoteldelsolinn@hotmail.com>

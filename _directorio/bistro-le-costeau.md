@@ -24,7 +24,7 @@ rango: $$
 
  >* Blvd. Benito Juárez 184
  >* Zona Centro, 22710 Rosarito, B.C.
- >* 661 612 2655
+ >*<a href="tel:+526616122655"> 661 612 26 55</a>
  >* Horario de Servicio
  >* Miércoles a Domingo  
  >* 12 p.m a 10 p.m

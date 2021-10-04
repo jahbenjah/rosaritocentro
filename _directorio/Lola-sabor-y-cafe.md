@@ -23,7 +23,7 @@ Lola es el gusto de compartir una historia con cada taza de café. Es sentirse c
 
 >* Abeto 133 
 >* Zona Centro, 22710 Rosarito, B.C.
->* 661 612 1080
+>* <a href="tel:+526616121080">661 612 10 80</a>
 
 >* Horarios de servicio
 >* 8 a.m. a 10 p.m. 

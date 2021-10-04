@@ -24,7 +24,7 @@ rango: $$
 
 * Gral. Guadalupe Victoria 317
 * Lienzo Charro, 22703 Rosarito, B.C
-* 661 100 2246
+* <a href="tel:+526611002246">661 100 22 46</a>
 * Horario de servicio 
 * Martes, Miércoles y Jueves de 10 a m a 8 p.m⁣⁣⁣⁣⁣⁣⁣
 * Viernes, Sábado y Domingo de 9 a.m a 8 p.m⁣⁣⁣⁣⁣ 

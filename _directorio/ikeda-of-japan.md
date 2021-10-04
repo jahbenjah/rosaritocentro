@@ -28,4 +28,4 @@ tradición e innovación en nuestros platillos durante 12 años.
 
 >Zona Centro, 22710 Rosarito, B.C.
 
->661 850 3916
+>* <a href="tel:+526618503916">661 850 39 16</a> 

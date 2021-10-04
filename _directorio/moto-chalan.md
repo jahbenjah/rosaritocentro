@@ -12,7 +12,7 @@ Moto chalán  disponible para llevarte lo que se les antoje, quedémonos en casa
 
 >Horario temporal 10 a.m - 7 p.m 
 
->Pedidos: 661 113 0339
+>* Pedidos: <a href="tel:+526611130339">661 113 03 39</a>
 
 [Whatsapp](https://wa.me/5216611303054)
 

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "La nueva actualizacion de IOS"
+title: "La nueva actualización de IOS"
 image: "/assets/img/blog/ios-15.jpg"
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---
 
 
-¿De que tratara la nueva actualizacion del IOS?
+¿De que tratara la nueva actualización del IOS?
 
 
 Apple lanzará **iOS 15**, su esperado sistema operativo para iPhone y iPad, el **20 de septiembre**. La fecha de lanzamiento de iOS 15 fue confirmada en un comunicado de prensa de Apple sobre la nueva línea de iPhones que saldrán a la venta el viernes. Como es habitual, la nueva versión de iOS estará disponible para descarga gratuita cuando se lance. 

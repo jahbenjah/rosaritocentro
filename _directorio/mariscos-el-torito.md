@@ -22,7 +22,7 @@ cumplimos 32 años, 25 años como bar y ahora como restaurante.
 
 >Zona Centro, 22710 Rosarito, B.C.
 
->661 612 2662
+>* <a href="tel:+526616122662">661 612 26 62</a>
 
 >Horario de Servicio
 

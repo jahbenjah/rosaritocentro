@@ -27,4 +27,6 @@ Pasta y Basta abrió sus puertas en el verano de 2015, un año después el chef 
 
 >Martes a Domingo 12:30 p.m a 8:30 p.m
 
+>* <a href="tel:+526616122655">661 612 26 55</a>
+
 [Facebook](https://www.facebook.com/ChefChristianGritti)

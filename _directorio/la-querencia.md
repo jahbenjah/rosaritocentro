@@ -21,5 +21,6 @@ rango: $$
 BajaMed by Miguel Ángel Guerrero
 
 >La Querencia ...La Original comida Baja Mediterránea
+>* <a href="tel:+526616122655">661 612 26 55</a>
 
 

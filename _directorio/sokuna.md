@@ -21,7 +21,7 @@ rango: $$
 
   >Zona Centro, 22710 Rosarito, B.C.
 
-  >661 612 5231
+  >* <a href="tel:+526616125231">661 612 52 31</a>
   
   >* Horario de servicio
   >* 1 p.m a 7 p.m 

@@ -6,7 +6,7 @@ permalink: /:categories/:title/
 categories: [Comunicados]
 ---
 
-¿Que hace este nuevo robot?
+¿Qué hace este nuevo robot?
 
 
 

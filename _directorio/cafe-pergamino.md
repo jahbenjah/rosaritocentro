@@ -21,7 +21,7 @@ Café Pergamino
  
  >* Quinta del Mar 
  >* Zona Centro, 22710 Rosarito, B.C.
- >* 661 145 1332
+ >*  <a href="tel:+526611451332"> 661 145 13 32</a>
  >* Horario de Servicio
  >* Lunes a Domingo  
  >* 11 a.m a 8 p.m

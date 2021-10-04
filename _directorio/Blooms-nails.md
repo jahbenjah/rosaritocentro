@@ -14,6 +14,6 @@ imagenes: ["/assets/img/portfolio/bloomnails.jpg"]
 
 >Constitución, 22710 Rosarito, B.C.
 
->661 111 1865
+>* <a href="tel:+526611111865"> 661 111 18 65</a>
 
 Tambien nos puedes mandar [mensaje](https://www.facebook.com/melissa.gtz.14) en Facebook

@@ -11,4 +11,4 @@ imagenes: ["/assets/img/portfolio/beautyandnails.jpg"]
 
 >Uñas, Pedicure, Manicure, Alaciados Express, Pestañas, Microblading, Extenciones De Cabello
 
->661 110 8025
+>*<a href="tel:+526611108025"> 661 110 80 25</a> 

@@ -18,7 +18,7 @@ Ana Ruth
 
 >Eduardo Crosthwhite, 22710 Rosarito, B.C.
 
->661 119 7934
+>* <a href="tel:+526611197934">661 119 79 34</a>
 
 >Horario de servicio
 

@@ -24,7 +24,7 @@ Delis Drink´s
 
  >* Páramo 139 Int 3
  >* Parcela 39, 22710 Rosarito, B.C.
- >* 661 593 1575
+ >* <a href="tel:+526615931575">661 593 15 75</a>
  >* Horario de Servicio
  >* Lunes a Domingo  
  >* 7:30 a.m a 5:00 p.m

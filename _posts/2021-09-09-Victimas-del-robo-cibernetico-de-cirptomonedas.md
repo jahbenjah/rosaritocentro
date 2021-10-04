@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Victimas del robo cibernetico de cirptomonedas"
+title: "Victimas del robo cibernético de criptomonedas"
 image: "/assets/img/blog/robo-criptomonedas.jpg"
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---
 
-El robo cibernetico masivo de Criptomonedas.
+El robo cibernético masivo de Criptomonedas.
 
 
 

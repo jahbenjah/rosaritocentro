@@ -23,10 +23,10 @@ rango: $$
 
  >* Blvd. Popotla 3114
  >* Playa Encantada, 22710 Rosarito, B.C.
- >* 661 120 1540
  >* Horario de Servicio
  >* Lunes a Domingo  
  >* 12 p.m a 10 p.m
+ >* <a href="tel:+526611201540">661 120 15 40</a>
 
  >* Revisa nuestro [Menú](https://ajenjo.com.mx/menus/?lang=es), pídelo para llevar.  
  >* Cuando pase esta contingencia no olvides visitarnos. Haz tu [reservación aquí](https://ajenjo.com.mx/reservaciones/?lang=es) o mandanos un mensaje en [Facebook](https://www.facebook.com/ajenjo.latitud). Te estaremos esperando.

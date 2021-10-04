@@ -26,7 +26,7 @@ Cafeteria ubicada en Rosarito Centro.
 
 >Machado Sur, 22703 Rosarito B.C. 
 
->661 850 2930
+>* <a href="tel:+526618502930">661 850 29 30</a>
 
 >Horario de Servicio 
 

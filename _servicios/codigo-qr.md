@@ -54,7 +54,7 @@ descripcion: Genera tu Código QR, te damos un 20% de descuento ante esta contin
             <p style="text-align:center;"><span>&#9782;</span> Escaneos Ilimitados.</p>
             <p style="text-align:center;"><span>&#9782;</span> Actualización, 5 Cambios sin Costo en un periodo de 6 meses.</p>
             <hr width="25%" color="#6699FF" size="4">
-            <p><span> Nota: Requiere tener un dominio, ya que es necesario para definir y dar inicio a su diseño, de no sere así se puede cotizar.</span> </p>
+            <p><span> Nota: Requiere tener un dominio, ya que es necesario para definir y dar inicio a su diseño, de no ser así se puede cotizar.</span> </p>
             <hr width="25%" color="#6699FF" size="4">
             <h3 style="text-align:center;"><span>&#9782;</span> QR</h3>
         </div>
@@ -74,7 +74,7 @@ descripcion: Genera tu Código QR, te damos un 20% de descuento ante esta contin
             <p style="text-align:center;"><span>&#9782;</span> 2 Carteles QR.</p>
             <p style="text-align:center;"><span>&#9782;</span> 20 Estampillas para Mesa.</p>
             <hr width="25%" color="#6699FF" size="4">            
-            <p><span> Nota: Requiere tener un dominio, ya que es necesario para definir y dar inicio a su diseño, de no sere así se puede cotizar.</span> </p>
+            <p><span> Nota: Requiere tener un dominio, ya que es necesario para definir y dar inicio a su diseño, de no ser así se puede cotizar.</span> </p>
             <hr width="25%" color="#6699FF" size="4">
             <h3 style="text-align:center;"><span>&#9782;</span> QR</h3>    
         </div>
@@ -94,7 +94,7 @@ descripcion: Genera tu Código QR, te damos un 20% de descuento ante esta contin
             <p style="text-align:center;"><span>&#9782;</span> 4 Carteles QR.</p>
             <p style="text-align:center;"><span>&#9782;</span> 30 Estampillas para Mesa.</p>
             <hr width="25%" color="#6699FF" size="4">            
-            <p><span> Nota: Requiere tener un dominio, ya que es necesario para definir y dar inicio a su diseño, de no sere así se puede cotizar.</span> </p>
+            <p><span> Nota: Requiere tener un dominio, ya que es necesario para definir y dar inicio a su diseño, de no ser así se puede cotizar.</span> </p>
             <hr width="25%" color="#6699FF" size="4">
             <h3 style="text-align:center;"><span>&#9782;</span> QR</h3>   
         </div>

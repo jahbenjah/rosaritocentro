@@ -21,6 +21,6 @@ Blvd. Benito Juárez 2701
 
 >Villa Floresta,  22710 Rosarito, B.C.+
 
->661 612 0027
+>* <a href="tel:+526616120027">661 612 00 27</a>
 
 <ochuna@ochunarestaurant.com>

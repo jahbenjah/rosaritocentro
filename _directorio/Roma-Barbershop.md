@@ -10,7 +10,8 @@ imagenes: ["/assets/img/portfolio/romabarbershop.jpg"]
 
 * Mario Moreno
 * Barbershop
-* 661 613 9100 y 664 279 4997
+* <a href="tel:+526616139100">661 613 91 00</a>
+* <a href="tel:+526642794997">664 279 49 97</a>
 
 
 <div class="embed-responsive embed-responsive-16by9">

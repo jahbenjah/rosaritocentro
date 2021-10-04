@@ -16,7 +16,7 @@ imagenes: ["/assets/img/portfolio/cynthianails.jpg"]
 
 >Lienzo Charro, 22710 Rosarito, B.C.
 
->661 110 2293
+>* <a href="tel:+526611102293"> 661 110 22 93</a>
 
 
 

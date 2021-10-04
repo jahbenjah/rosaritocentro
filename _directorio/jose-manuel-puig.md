@@ -28,9 +28,9 @@ Servicios de traducción – Translation Services
 
 >PLAYAS DE ROSARITO,  B. C., 22710
 
->TEL: (661) 612 4747 FAX: (661) 612 4556 
+>TEL: <a href="tel:+526616124747">661 612 47 47</a> FAX: <a href="tel:+526616124556">661 612 45 56 </a> 
 
->PH. IN THE US: (619) 730 0654
+>PH. IN THE US: <a href="tel:6197300654">619 730 06 54 </a>
 
 >E – MAIL: <chemanelpuig@gmail.com>
 

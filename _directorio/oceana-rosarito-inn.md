@@ -14,6 +14,6 @@ Rosarito Inn Condominium Hotels & Suites is right on the beach in the heart of R
 
 >Zona Centro, Playas de Rosarito B.C. 22710
 
->+1 888 849 4500
+>* <a href="tel:+18888494500">+1 888 849 4500</a>
 
 <reservaciones@rosaritoinn.com>
