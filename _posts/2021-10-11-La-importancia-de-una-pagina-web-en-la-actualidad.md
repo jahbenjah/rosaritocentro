@@ -6,7 +6,7 @@ permalink: /:categories/:title/
 categories: [Comunicados]
 ---
 
-Conoce la importancia de una página web en la actualidad
+Conoce la importancia de una página web en la actualidad.
 
 
 

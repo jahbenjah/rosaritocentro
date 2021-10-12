@@ -6,7 +6,7 @@ permalink: /:categories/:title/
 categories: [Comunicados]
 ---
 
-La magnitud del terremoto que sacudió a Guerrero fue de magnitud de 7,1
+La magnitud del terremoto que sacudió a Guerrero fue de magnitud de 7,1.
 
 
 El sismo, que se registró a las 20:47 hora local (01.47 GMT), tuvo tal intensidad que el temblor se sintió también en Ciudad de México, donde residentes atemorizados salieron a las calles tras escuchar la alerta sísmica. 

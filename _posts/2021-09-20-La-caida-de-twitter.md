@@ -6,7 +6,7 @@ permalink: /:categories/:title/
 categories: [Comunicados]
 ---
 
-La reciente caída de la app de Twitter
+La reciente caída de la app de Twitter.
 
 
 

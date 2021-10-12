@@ -6,7 +6,7 @@ permalink: /:categories/:title/
 categories: [Comunicados]
 ---
 
-El novedoso lanzamiento del Apple Watch
+El novedoso lanzamiento del Apple Watch.
 
 
 

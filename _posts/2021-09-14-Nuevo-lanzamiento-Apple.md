@@ -6,7 +6,7 @@ permalink: /:categories/:title/
 categories: [Comunicados]
 ---
 
-El nuevo lanzamiento de Apple podra desbancar a los mejores celulares del mercado
+El nuevo lanzamiento de Apple podra desbancar a los mejores celulares del mercado.
 
 
 

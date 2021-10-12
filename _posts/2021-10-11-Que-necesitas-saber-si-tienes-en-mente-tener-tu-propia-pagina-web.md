@@ -12,7 +12,7 @@ Conoce los 6 puntos claves para tener tu propia página web.
 
 ✅ **Establecer una meta**
 
-Antes de lanzar tu página web, ten en cuenta que es lo quieres hacer realmente con el sitio web, a quien va dirigido, si estas ofreciendo algun producto en general.
+Antes de lanzar tu página web, ten en cuenta que es lo quieres hacer realmente, a quien va dirigido, si estas ofreciendo algun producto en general.
 Cualquiera que sea tu meta, los siguientes pasos desempeñarán un papel importante en ayudarte a alcanzarla, por lo que es esencial que tengas bien definida tu meta antes de continuar.
 
 ✅ **Crearle un nombre**
@@ -25,7 +25,7 @@ El contar con un web hosting es muy importante, ya que tendras que registrar tu 
 
 ✅ **El diseño**
 
-Detras de todos los sitios web existen alguien quien implemento la diversidad de colores, contenedores, las animaciones que hace que se vea mas interactiva. Paro lo que es el diseño de la página web, no es necesario que seas un profesional para elaborarlo ya que en la plataforma de internet existen millones de cursos donde puedes aprender. Pero en dado caso que seas pésimo en este punto existen diversidad de agencias que pueden ayudarte con ese tipo de cosas.
+Detras de todas las paginas web existe alguien quien implemento la diversidad de colores, contenedores, las animaciones que hace que se vea mas interactiva. Paro lo que es el diseño de la página web, no es necesario que seas un profesional para elaborarlo ya que en la plataforma de internet existen millones de cursos donde puedes aprender. Pero en dado caso que seas pésimo en este punto existen diversidad de agencias que pueden ayudarte con ese tipo de cosas.
 
 ✅ **El contenido**
 
