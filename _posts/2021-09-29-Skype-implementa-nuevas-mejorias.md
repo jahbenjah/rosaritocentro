@@ -6,7 +6,7 @@ permalink: /:categories/:title/
 categories: [Comunicados]
 ---
 
-Personalización de temas de color y mejoras de opciones de visualización en videollamadas 
+Personalización de temas de color y mejoras de opciones de visualización en videollamadas.
 
 
 Una nueva oleada de cambios llegará al clásico programa de videollamadas Skype con el que se espera cambiar muchas de las características actuales del software, así lo reveló Microsoft en su comunicado oficial.

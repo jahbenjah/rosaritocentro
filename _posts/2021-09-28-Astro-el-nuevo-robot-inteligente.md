@@ -6,7 +6,7 @@ permalink: /:categories/:title/
 categories: [Comunicados]
 ---
 
-El nuevo lanzamiento del robot de Amazon
+El nuevo lanzamiento del robot de Amazon.
 
 
 Amazon ha anunciado este martes 28 de septiembre novedades en su catálogo de dispositivos propios, entre las que destacan su nuevo robot para el hogar llamado Astro, que patrulla la casa de forma autónoma y está dotado de cámaras, periscopio y pantalla, y el nuevo Amazon Glow para poder hacer videollamadas con niños, dotado con proyector para juegos.

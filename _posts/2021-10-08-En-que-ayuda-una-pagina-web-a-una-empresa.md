@@ -6,7 +6,7 @@ permalink: /:categories/:title/
 categories: [Comunicados]
 ---
 
-Descubre en lo que te puede beneficiar una pagina web
+Descubre en lo que te puede beneficiar una pagina web.
 
 
 Existen muchos motivos por los que tener una página web puede ayudar significativamente a una empresa. Cada persona tiene su percepción sobre cómo le puede ayudar una página web a su negocio. A continuación tienes algunos motivos de el por qué es importante tener una página web para tu empresa y como te puede ayudar en diferentes ambitos.
