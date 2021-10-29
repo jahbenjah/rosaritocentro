@@ -3,9 +3,9 @@
     <div class="container d-flex">
 
         <div class="logo mr-auto">
-            <h1 class="text-light"><a href="{{ "/index.html" | absolute_url }}"><span>Rosarito Centro</span></a></h1>
+            <!--<h1 class="text-light"><a href="{{ "/index.html" | absolute_url }}"><span>Rosarito Centro</span></a></h1>-->
             <!-- Uncomment below if you prefer to use an image logo -->
-            <!-- <a href="{{ "/index.html" | absolute_url }}"><img loading="lazy" src="/assets/img/rosaritocentro/logo_negro.png" alt="Rosarito Centro" class="img-fluid"></a>-->
+             <a href="{{ "/index.html" | absolute_url }}"><img loading="lazy" src="/assets/img/rosaritocentro/logo_negro.png" alt="Rosarito Centro" class="img-fluid"></a>
         </div>
 
         <nav class="nav-menu d-none d-lg-block">
@@ -29,7 +29,20 @@
                     </ul>
                 </li> -->
 
-                <li><a href="{{ "/services.html" | absolute_url }}">Servicios</a></li>
+               <!--<li><a href="{{ "/services.html" | absolute_url }}">Servicios</a></li>-->
+                <li class="drop-down"><a href="services.html">Servicios</a>
+                    <ul>
+                        <li><a href="/servicios/codigo-qr.html">Codigo QR</a></li>
+                        <li><a href="/servicios/correo-empresarial.html">Correo Empresarial</a></li>
+                        <li><a href="/servicios/diseno-grafico">Diseño Grafico</a></li>
+                        <li><a href="/servicios/marketing.html">Marketing</a></li>
+                        <li><a href="/servicios/paginas-web.html">Desarrollo de Paginas Web</a></li>
+                        <li><a href="/servicios/punto-de-venta.html">Punto de Venta</a></li>
+                        <li><a href="/servicios/redes-sociales">Manejos de Redes Sociales</a></li>
+
+                    </ul>
+                </li>
+
                 <li><a href="{{ "/directorio.html" | absolute_url }}">Directorio</a></li>
                 <li><a href="{{ "/blog.html" | absolute_url }}">Blog</a></li>
                 <li><a href="{{ "/contact.html" | absolute_url }}">Contacto</a></li>
