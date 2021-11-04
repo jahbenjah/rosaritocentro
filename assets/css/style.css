@@ -28,7 +28,7 @@
 
 body {
   font-family: "Open Sans", sans-serif;
-  color: var(--main-bg-color);
+  color:var(--footer-color);
 }
 
 a {
@@ -41,7 +41,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: "Acme", sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -594,7 +594,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 20px 0 20px 0;
-  background: #f7f7f7;
+  background: var(--blog-bg-color);
   border-bottom: 1px solid #ededed;
   margin-bottom: 40px;
 }
@@ -602,7 +602,7 @@ section {
 .breadcrumbs h2 {
   font-size: 28px;
   font-weight: 700;
-  color: var(--second-color);
+  color: var(--footer-top);
 }
 
 .breadcrumbs ol {
