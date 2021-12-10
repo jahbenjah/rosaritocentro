@@ -115,4 +115,18 @@
 <!-- End Footer -->
 
 <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+
+<script>
+  jQuery(document).ready(function($){
+  $(document).snowFlurry({
+  maxSize: 5,
+  numberOfFlakes: 50,
+  minSpeed: 10,
+  maxSpeed: 15,
+  color: '#fff',
+  timeout: 0
+  });
+  });
+</script>
+
 {%- include scripts.html -%}
