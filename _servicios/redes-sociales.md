@@ -5,7 +5,7 @@ icon: dribbble
 descripcion: Deja que nosostros nos encagemos de tus redes sociales. Amplia tu red de clientes
 ---
 
-<img src="\assets\img\slide\Manejo-de-redes-sociales.jpg" class="img-fluid" alt="Responsive image">
+<img src="\assets\img\slide\manejo-redes.jpg" class="img-fluid" alt="Responsive image">
 
 <section id="pricing" class="section-bg">
   <div class="container">

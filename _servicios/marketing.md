@@ -5,7 +5,7 @@ icon: dribbble
 descripcion: Promueve tus servicios. Nosotros te ayudamos con publicidad, contamos con las herramientas necesarias para ti
 ---
 
-<img src="\assets\img\slide\marketing.jpg" class="img-fluid" alt="Responsive image">
+<img src="\assets\img\slide\marketing-digital.jpg" class="img-fluid" alt="Responsive image">
 
 
 **Publicate**
@@ -14,5 +14,5 @@ descripcion: Promueve tus servicios. Nosotros te ayudamos con publicidad, contam
 * Red media Social
 * Estrategia en Tiempos
 * Publicamos tus productos y servicios. Ve crecer tus ingresos. 
-* Necesitas ayuda?  para tus servicios y promociones en la mejor pagina web del Rosarito Centro
+* ¿Necesitas ayuda?  Para tus servicios y promociones en la mejor pagina web de Rosarito Centro
 * Crea promociones, nosotros te ayudamos a incrementar tu audiencia.
