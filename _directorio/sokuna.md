@@ -5,7 +5,7 @@ slogan: Cosina de Asia
 web: https://www.facebook.com/Sokuna-Cocina-De-Asia-459264741096769
 descripcion: cocina de asia
 categoria: Restaurante
-imagenes: ["/assets/img/portfolio/sokuna.jpg", "/assets/img/portfolio/sokunamenu.jpeg", "/assets/img/portfolio/sokunamenu1.jpeg", "/assets/img/portfolio/sokunamenu2.jpeg", "/assets/img/portfolio/sokunamenu3.jpeg" ]
+imagenes: ["/assets/img/portfolio/NUEVOS-LOGOS/sokuna.png"]
 calle: Blvd. Benito Juárez 1207
 estado: Baja California 
 municipio: Rosarito

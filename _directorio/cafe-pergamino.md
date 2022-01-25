@@ -5,7 +5,7 @@ slogan: Cafetería
 web: https://www.facebook.com/Caf%C3%A9-Pergamino-105484457711456
 descripcion: pergamino Café
 categoria: Café
-imagenes: ["/assets/img/portfolio/pergaminocafe.png", "/assets/img/portfolio/pergamino.jpg"]
+imagenes: ["/assets/img/portfolio/NUEVOS-LOGOS/cafe-pergamino.jpg"]
 calle: Quinta del Mar 
 estado: Baja California
 municipio: Rosarito

@@ -5,7 +5,7 @@ slogan: Comida Internacional
 web: https://ajenjo.com.mx
 descripcion: 
 categoria: Restaurante
-imagenes: ["/assets/img/portfolio/ajenjo.jpg","/assets/img/portfolio/Ajenjobaranddining.jpg"]
+imagenes: ["/assets/img/portfolio/NUEVOS-LOGOS/Ajenjo.jpg"]
 calle: Blvd. Popotla 3114
 estado: Baja California
 municipio: Rosarito

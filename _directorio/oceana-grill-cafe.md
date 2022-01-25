@@ -5,7 +5,7 @@ slogan:
 web: http://www.oceanagrillandcafe.com/
 descripcion: 
 categoria: Restaurante
-imagenes: ["/assets/img/portfolio/Oceana Grill & Cafe.png"]
+imagenes: ["/assets/img/portfolio/NUEVOS-LOGOS/oceana-grill.jpeg"]
 calle: Blvd Benito Juárez 907-9A
 estado: Baja California
 municipio: Rosarito

@@ -5,7 +5,7 @@ slogan: Tienda en Linea
 web: https://xulasmexico.com/
 descripcion: Xulas México - Tratamientos personalizados para tu cabello y piel.
 categoria: Servicios
-imagenes: ["/assets/img/portfolio/Xulas.png"]
+imagenes: ["/assets/img/portfolio/NUEVOS-LOGOS/xulas-mexico.jpg"]
 ---
 
  Xulas Mexico - Tratamientos personalizados para tu cabello y piel. Productos sustentables, organicos y veganos.

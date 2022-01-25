@@ -5,7 +5,7 @@ slogan:
 web: https://del-sol-inn.com/
 descripcion: 
 categoria: Hotel
-imagenes: ["/assets/img/portfolio/HOTEL DEL SOL INN.jpg"]
+imagenes: ["/assets/img/portfolio/NUEVOS-LOGOS/hotel-del-sol-inn.jpeg"]
 ---
 
 >Habitaciones sencillas, dobles y familiares.

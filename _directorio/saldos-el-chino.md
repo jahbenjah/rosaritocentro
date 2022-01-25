@@ -5,7 +5,7 @@ slogan: Muebles
 web: https://www.facebook.com/Saldos-El-Chino-500667630075346
 categoria: Bazar
 descripcion: Tienda de saldos y mas.
-imagenes: [/assets/img/portfolio/saldos-el-chino.jpg]
+imagenes: [/assets/img/portfolio/NUEVOS-LOGOS/saldos-chino.jpeg]
 ---
 
 Cerrado Temporalmente

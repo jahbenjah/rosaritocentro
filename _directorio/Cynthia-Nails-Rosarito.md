@@ -5,7 +5,7 @@ slogan: Cynthia Nails Rosarito
 web: https://www.facebook.com/cynthianailsrosarito/
 descripcion: Nail Salon
 categoria: Servicios
-imagenes: ["/assets/img/portfolio/cynthianails.jpg"]
+imagenes: ["/assets/img/portfolio/NUEVOS-LOGOS/cynthia-nails.jpg"]
 ---
 
 

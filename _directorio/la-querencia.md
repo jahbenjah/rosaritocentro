@@ -5,7 +5,7 @@ slogan: La Original comida Baja Mediterránea
 web: http://www.laquerenciatj.com/
 descripcion: BajaMed by Miguel Ángel Guerrero
 categoria: Restaurante
-imagenes: ["/assets/img/portfolio/LA QUERENCIA.jpg", "/assets/img/portfolio/LA QUERENCIA ANUNCIO COVID19.jpg"]
+imagenes: ["/assets/img/portfolio/NUEVOS-LOGOS/la-querencia.jpg"]
 calle: Blvd. Benito Juárez 184
 estado: Baja California
 municipio: Rosarito

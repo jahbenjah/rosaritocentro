@@ -5,7 +5,7 @@ slogan: ¡Te llevamos todo lo que se te antoje!
 web: https://www.facebook.com/moto-chal%C3%A1n-157367301016510
 descripcion: ¡Te llevamos todo lo que se te antoje!
 categoria: Servicios
-imagenes: ["/assets/img/portfolio/Logo_MotoChalan.png", "/assets/img/portfolio/motochalantel.jpeg"]
+imagenes: ["/assets/img/portfolio/NUEVOS-LOGOS/motochalan.jpg"]
 ---
 
 Moto chalán  disponible para llevarte lo que se les antoje, quedémonos en casa.
