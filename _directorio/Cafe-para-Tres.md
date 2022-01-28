@@ -17,18 +17,24 @@ cocina:
 rango: $$
 ---
 
-Ven y pide para llevar tu Café Favorito.
+**Descripcion:** 
+<br>
+Cafe para tres es una cafeteria que te brinda una diversidad de platillos y bebidas, refiriendonos a postres, crepas, pastelillos, expresos, lates etc. ¡Visitalos!
 
->Blvd Guerrero 752 
+**Direccion:** Blvd Guerrero 752, Constitución, 22707 Rosarito B.C
 
->Constitución, 22707 Rosarito B.C
+**Numero Telefonico:** <a href="tel:+526611301060"> 661 130 10 60</a>
+<br>
 
->* <a href="tel:+526611301060"> 661 130 10 60</a>
+**Horario de Servicio:**
+<br>
+> Lunes 8:00 AM A 9:00 PM
+<br>
+> Martes 8:00 AM A 10:00 PM
+<br>
+> Miercoles a Viernes 8:00 A 9:00 PM
+<br>
+> Sabado A Domingo 9:00 AM A 9:00 PM
 
->Horario de Servicio
-
->Lunes a Sábado 1 p.m - 9 p.m 
-
->Domingo de 2 p.m - 9 p.m
 
 Has tu pedido en [Uber Eats](https://www.ubereats.com/mx/tijuana/food-delivery/cafe-para-tres/2LMPlHQ0SPKYmavdkTD0ZA)

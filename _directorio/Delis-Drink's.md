@@ -1,3 +1,4 @@
+<!--
 ---
 title : Delis Drink's
 layout: negocio
@@ -33,7 +34,7 @@ Mándanos tu orden vía [WhatsApp](https://wa.me/5216615931575?text=Una bebida D
 
 Visita nuestras redes sociales [Facebook](https://www.facebook.com/DeslisDrinks), [Instagram](https://www.instagram.com/delis_drinks)
 
-
+-->
 
 
 

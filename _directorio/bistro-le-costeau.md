@@ -16,19 +16,20 @@ telefono: 661 612 2655
 cocina: francesa
 rango: $$
 ---
+**Descripcion:**
+<br>
+Bistró Le Cousteau abrió sus puertas en al año 2000, haciendo honor al oceanógrafo francés Jacques Cousteau, protector de ballenas y ecosistema del Mar de Cortes, fue así que se le llamo Bistró Le Cousteau.
+<br>
+El restaurante cuenta con un amplio menú de comida internacional, básicamente francesa.Todos los días hay especiales con lo más fresco del mar y del mercado. Además de contar con un rincón Italiano y horno para Pizzas a la Leña.
 
-> Bistró Le Cousteau abrió sus puertas en al año 2000, haciendo honor al oceanógrafo francés Jacques Cousteau, protector de ballenas y ecosistema del Mar de Cortes, fue así que se le llamo Bistró Le Cousteau.
 
-> El restaurante cuenta con un amplio menú de comida internacional, básicamente francesa.Todos los días hay especiales con lo más fresco del mar y del mercado. Además de contar con un rincón Italiano y horno para Pizzas a la Leña.
+ **Dirección:** Blvd. Benito Juárez 184, Zona Centro, 22710 Rosarito, B.C.
 
+ **Numero Telefonico:** <a href="tel:+526616122655"> 661 612 26 55</a>
 
- >* Blvd. Benito Juárez 184
- >* Zona Centro, 22710 Rosarito, B.C.
- >*<a href="tel:+526616122655"> 661 612 26 55</a>
- >* Horario de Servicio
- >* Miércoles a Domingo  
- >* 12 p.m a 10 p.m
-   
+ **Horario de Servicio:**
+ Miércoles a Domingo 12:00 PM A 10:00 PM 
+ 
  >* Continuamos abierto mayormente para llevar. 
  >* Mandanos un mensaje en [Facebook](https://www.facebook.com/BistroLeCousteau/), revisa nuestro [Menú](https://bistrolecousteau.com/#menu-list) y pidelo para llevar. 
  >* Si prefieres quedarte en casa, contamos con servicio de [Uber Eats](https://www.ubereats.com/tijuana/food-delivery/restaurant-bistro-le-cousteau/D99q_rUsQ2u8mKKzM2dtYA#_)

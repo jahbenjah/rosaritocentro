@@ -1,3 +1,4 @@
+<!--
 ---
 title : El taller
 layout: negocio
@@ -32,6 +33,8 @@ Continuamos abierto, contamos con servicio de [Uber Eats](https://www.ubereats.c
 >Viernes a Sabado	1 p.m – 12 a.m  		  
 
 >Domingo 1 p.m – 10 p.m
+
+-->
 
 
 

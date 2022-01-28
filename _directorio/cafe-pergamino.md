@@ -17,16 +17,17 @@ cocina: cafeteria
 rango: $$
 ---
 
-Café Pergamino
+**Descripcion:**
+<br>
+Café Pergamino es es una cafeteria que te ofrece una variedad de bebidas, postres, entre ellos estan las crepas, lattes, sandwich, roles de canela recien horneados.
  
- >* Quinta del Mar 
- >* Zona Centro, 22710 Rosarito, B.C.
- >*  <a href="tel:+526611451332"> 661 145 13 32</a>
- >* Horario de Servicio
- >* Lunes a Domingo  
- >* 11 a.m a 8 p.m
-   
- >* Continuamos abierto. 
+ **Direccion:** 
+ Blvd. Benito Juarez, 22710, Zona Centro, Rosarito B.C.
+
+ **Numero Telefonico:** <a href="tel:+526611451332"> 661 145 13 32</a>
+ <br>
+
+ **Horario de Servicio**
+ >* Lunes a Domingo 8:00 AM a 10:00 PM
  >* Mandanos un mensaje en [Facebook](https://www.facebook.com/Caf%C3%A9-Pergamino-105484457711456)
- >* Cuando pase esta contingencia no olvides visitarnos. 
  >* Te estaremos esperando.
