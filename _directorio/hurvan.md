@@ -8,19 +8,17 @@ categoria: Servicios
 imagenes: ["/assets/img/portfolio/hurvan.jpeg"]
 ---
 
-Ana Ruth
+**Descripcion**
+<br>
+Hurvan te ofrece el servicio de Estetica y Barberia, de excelente calidad, cuentan con experiencia. ¡Visitalos!
 
->Estetica y Barberia
+**Direccion:** Ave. 5 de Mayo, 22703, Rosarito B.C.
 
->HURVAN Color, Cabello & Estilo
+**Numero telefonico:** <a href="tel:+526611197934">661 119 79 34</a>
 
->Calle 5 de Mayo,
-
->Eduardo Crosthwhite, 22710 Rosarito, B.C.
-
->* <a href="tel:+526611197934">661 119 79 34</a>
-
->Horario de servicio
-
->Lunes a Sabado 10 a.m. - 7 p.m 
+**Horario de servicio**
+<br>
+Lunes a Sabado 10:00 AM a 7:00 PM
+<br>
+Domingo CERRADO 
 

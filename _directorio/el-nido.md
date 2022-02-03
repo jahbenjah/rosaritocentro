@@ -17,14 +17,21 @@ cocina: mexicana
 rango: $$
 ---
 
- >Blvd. Benito Juárez 67
+**Descripcion**
+<br>
+Restaurante El Nido te ofrece una variedad de platilos de alta calidad, contando un excelente servicio.
+Desde 1971, es uno de los restaurantes más importantes de la región; especialistas en llevar las mejores carnes del carbón a tu mesa.
 
- >Zona Centro, 22710 Rosarito, B.C.
+**Direccion:** Blvd. Benito Juárez 67, Zona Centro, 22710 Rosarito, B.C.
 
- >* <a href="tel:+526616121430">661 612 14 30</a>
+**Numero telefonico:** <a href="tel:+526616121430">661 612 14 30</a> 
 
- >Cerrado Temporalmente
+**Horario:**
+Lunes, Martes y Jueves 8:00 AM a 11:00 PM
+<br>
+Miercoles, Viernes, Sabado, Domingo 8:00 AM a 10:00 PM
+
+**Correo electronico:** <elnidorosarito@yahoo.com.mx>
 
 [Facebook](https://www.facebook.com/ElNidoSteakHouse)
 
-<elnidorosarito@yahoo.com.mx>

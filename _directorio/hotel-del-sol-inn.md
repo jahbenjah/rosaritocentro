@@ -2,23 +2,22 @@
 title : Hotel de Sol Inn
 layout: negocio
 slogan: 
-web: https://del-sol-inn.com/
+web: https://www.facebook.com/delsolin/?ref=page_internal
 descripcion: 
 categoria: Hotel
 imagenes: ["/assets/img/portfolio/NUEVOS-LOGOS/hotel-del-sol-inn.jpeg"]
 ---
 
->Habitaciones sencillas, dobles y familiares.
+**Descripcion**
+<br>
+Hotel del Sol Inn El hotel se encuentra situado en el puro centro de la ciudad de Rosarito queda A una cuadra de los bares y aria para divertirse.
+Habitaciones sencillas, dobles y familiares. TV con cable, AC, estacionamiento y seguridad.
 
->TV con cable, AC, estacionamiento y seguridad.
 
->Blvd Benito Juárez 32
+**Direccion:** Blvd Benito Juárez 32, Zona Centro, Playas de Rosarito B.C. 22710
 
->Zona Centro, Playas de Rosarito B.C. 22710
+**Numero telefonico:** <a href="tel:+526616122552">661 612 25 52</a>
 
->*  <a href="tel:+526616122553">661 612 25 53</a>
->*  <a href="tel:+526616122554">661 612 25 54</a> 
+**Numero telefonico:** USA <a href="tel:6193087265">619 308 72 65</a> 
 
->* USA: <a href="tel:6193087265">619 308 72 65</a> 
-
-<reservacioneshoteldelsolinn@hotmail.com>
+**Correo electronico:** <reservacioneshoteldelsolinn@hotmail.com>

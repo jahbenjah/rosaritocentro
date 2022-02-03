@@ -7,31 +7,28 @@ descripcion:
 categoria: Servicios
 imagenes: [/assets/img/portfolio/NUEVOS-LOGOS/jose-manuel.jpeg]
 ---
+**Descripcion** 
+<br>
+Licenciado Jose Manuel Puig ofrece el Servicios de traducción – Translation Services
+<br> 
+Apostillas – Apostilles
+<br>
+Doble Nacionalidad – Double Nationality
+<br>
+Trámites de Migración Mexicana – Mexican Immigration Services
+<br>
+Servicios Legales – Bilingual Legal Services
+<br>
+Trámites de todo tipo -  We help you with all your government processes
+<br>
+40 años  de experiencia y servicio – 40 years of experience and service.
 
-Servicios de traducción – Translation Services
+**Direccion:** Calle José Haroz Aguilar 2500-5, Fracc. Villa Turística – Frente a la puerta trasera del Palacio Municipal, Playas de Rosarito,  B. C., 22710
 
->Apostillas – Apostilles
+**Telefono:** <a href="tel:+526616124747">661 612 47 47</a> **Fax:** <a href="tel:+526616124556">661 612 45 56 </a> 
 
->Doble Nacionalidad – Double Nationality
+**Phone. in the US:** <a href="tel:6197300654">619 730 06 54 </a>
 
->Trámites de Migración Mexicana – Mexican Immigration Services
+**Email:** <chemanelpuig@gmail.com>
 
->Servicios Legales – Bilingual Legal Services
-
->Trámites de todo tipo -  We help you with all your government processes
-
->40 años  de experiencia y servicio – 40 years of experience and service.
-
->CALLE JOSÉ HAROZ AGUILAR 2500-5
-
->FRACC. VILLA TURÍSTICA – FRENTE A LA PUERTA TRASERA DEL PALACIO MUNICIPAL
-
->PLAYAS DE ROSARITO,  B. C., 22710
-
->TEL: <a href="tel:+526616124747">661 612 47 47</a> FAX: <a href="tel:+526616124556">661 612 45 56 </a> 
-
->PH. IN THE US: <a href="tel:6197300654">619 730 06 54 </a>
-
->E – MAIL: <chemanelpuig@gmail.com>
-
->P. O. BOX 439030, SUITE 259, SAN YSIDRO, CA., 92143   
+**P. O. BOX** 439030, SUITE 259, SAN YSIDRO, CA., 92143   

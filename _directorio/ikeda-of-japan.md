@@ -17,15 +17,17 @@ cocina: japonesa
 rango: $$
 ---
 
->Único restaurante japones en Rosarito Centro, ofrecemos a nuestros clientes auténtica 
-tradición e innovación en nuestros platillos durante 12 años.
+**Descripcion**
+<br>
+Único restaurante japones en Rosarito Centro, ofrecemos a nuestros clientes auténtica 
+tradición e innovación en nuestros platillos durante 12 años. Ikeda of Japan Sushi es una empresa dedicada a la elaboración de comida japonesa en todo su entorno culinario. Somos el único restaurante en Rosarito con servicio Teppanyaki.
 
->Horario de Servicio 
+**Horario de servicio**
+<br>
+Martes A Domingo 12:00 PM A 10:00 PM
+<br>
+Lunes CERRADO
 
->12:00 PM - 10:00 PM
+**Direccion:** Blvd. Benito Juárez 809 Encino/Eucalipto, Rosarito Zona Centro, 22710 Rosarito, B.C.
 
->Blvd. Benito Juárez 890-1A
-
->Zona Centro, 22710 Rosarito, B.C.
-
->* <a href="tel:+526618503916">661 850 39 16</a> 
+**Numero telefonico:** <a href="tel:+526618503916">661 850 39 16</a> 

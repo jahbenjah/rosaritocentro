@@ -17,10 +17,12 @@ cocina: mediterranea
 rango: $$
 ---
 
->¡Vive la auténtica experiencia BajaMed en el Valle de Guadalupe! El Chef Miguel Ángel Guerrero te invita...
+**Descripcion**
+<br>
+A ESPERANZA BAJAMED es uno de los restaurantes del Chef Miguel Ángel Guerrero quién es el único creador de la cocina BajaMed.
+Su pasión por la pesca, la caza y el campo se imprimen en cada platillo que sirve.
+La única y auténtica cocina BajaMed, reconocida a nivel Internacional es la de el Chef Miguel Ángel Guerrero.
 
->km. 73.5 Carretera Ensenada Tecate 3 
+**Direccion:** Km. 73.5 Carretera No. 3 Ensenada-Tecate, Valle de Guadalupe, 22830, Ensenada, B.C. 
 
->Valle de Guadalupe, 22750 Ensenada, B.C.
-
->* <a href="tel:+526461552785">646 155 27 85</a>
+**Numero telefonico:** <a href="tel:+526461552785">646 155 27 85</a>

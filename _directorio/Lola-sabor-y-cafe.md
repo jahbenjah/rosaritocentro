@@ -2,10 +2,10 @@
 title : Lola Sabor y Café Bistro
 layout: negocio
 slogan: Lola es el gusto de compartir una historia con cada taza de café.
-web: https://www.facebook.com/LolaSaborYCafeBistro
+web: https://www.facebook.com/LolaSaboryCafe/about
 descripcion: Lola es el gusto de compartir una historia con cada taza de café.
 categoria: Café
-imagenes: ["/assets/img/portfolio/lola.png", "/assets/img/portfolio/lolascerrado.jpg"]
+imagenes: ["/assets/img/portfolio/lola.png"]
 calle: Abeto 133 
 estado: Baja California
 municipio: Rosarito
@@ -17,21 +17,17 @@ cocina:
 rango: $$
 ---
 
-
-
+**Descripcion**
+<br>
 Lola es el gusto de compartir una historia con cada taza de café. Es sentirse como en casa, acompañado siempre de tus personas favoritas.
 
->* Abeto 133 
->* Zona Centro, 22710 Rosarito, B.C.
->* <a href="tel:+526616121080">661 612 10 80</a>
+**Direccion:** Abeto 133, Zona Centro, 22710, Rosarito, B.C.
 
->* Horarios de servicio
->* 8 a.m. a 10 p.m. 
+**Numero telefonico:** <a href="tel:+526616121080">661 612 10 80</a>
 
+**Horarios de servicio**
+8:00 AM A 10:00 PM 
 
+<!--div class="embed-responsive embed-responsive-16by9">
 
-
-
-<div class="embed-responsive embed-responsive-16by9">
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FLolaSaboryCafe%2Fvideos%2F1078435862311577%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FLolaSaboryCafe%2Fvideos%2F1078435862311577%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe-->

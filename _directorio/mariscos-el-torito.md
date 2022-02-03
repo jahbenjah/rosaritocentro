@@ -9,10 +9,11 @@ descripcion: Restaurant especialista en Mariscos
 imagenes: ["/assets/img/portfolio/NUEVOS-LOGOS/mariscos-torito.jpg"]
 ---
 
+**Descripcion**
+<br>
 Mariscos El Torito ubicado en Rosarito Centro, tiene las puertas abiertas desde el primero de agosto del año 1989
 cumplimos 32 años, 25 años como bar y ahora como restaurante.
-
->Con los Mariscos más frescos de la región y el mejor sazón de Rosarito Centro.
+Con los Mariscos más frescos de la región y el mejor sazón de Rosarito Centro.
 
 >Ven y disfruta de nuestra cocina, te encantara.
 
