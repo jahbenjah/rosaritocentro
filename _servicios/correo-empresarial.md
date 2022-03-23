@@ -40,7 +40,7 @@ descripcion: Obten tu correo electronico empresarial con nombre de tu dominio. C
         <p class="font-italic">  
         </p>
         <ul>
-          <li><i class="icofont-check-circled"></i> Ofrecemos servicios de correos electrónicos con la mejor estabilidad</li>
+          <li><i class="icofont-check-circled"></i> Ofrecemos servicios de correos electrónicos con la mejor estabilidad.</li>
         </ul>
       </div>
       <div class="col-lg-6 pt-4 pt-lg-0 content">
@@ -97,8 +97,8 @@ descripcion: Obten tu correo electronico empresarial con nombre de tu dominio. C
             <p style="text-align:center;"><span>&#10003;</span> 10 correos electrónicos.</p>
             <p style="text-align:center;"><span>&#10003;</span> Incluye dominio segun su disponibilidad.</p>
             <p style="text-align:center;"><span>&#10003;</span> Correo electrónico profesional para tu negocio disponible en tus dispostivos.</p>
-            <p style="text-align:center;"><span>&#10003;</span> Correos electrónicos ilimitados</p>
-            <p style="text-align:center;"><span>&#10003;</span> Incluye dominio según su disponibilidad</p>            
+            <p style="text-align:center;"><span>&#10003;</span> Correos electrónicos ilimitados.</p>
+            <p style="text-align:center;"><span>&#10003;</span> Incluye dominio según su disponibilidad.</p>            
             <hr width="25%" color="#6699FF" size="4">
             <h6 style="text-align:center;">Plan Anual</h6>
             <h5 style="text-align:center;">$ 1,500 MXN</h5>
