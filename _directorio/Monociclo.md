@@ -17,14 +17,18 @@ cocina: cafeteria
 rango: $$
 ---
 
- >* Blvd Benito Juárez 29
- >* Zona Centro, 22710 Rosarito, B.C.
- >* <a href="tel:+526611041654">661 104 16 54</a>
- >* Horario de Servicio
- >* Lunes a Domingo  
- >* 8 a.m a 10 p.m
-   
- >* Continuamos abierto. 
- >* Mandanos un mensaje en [Facebook](https://www.facebook.com/MonocicloLibrosyCafe)
- >* Cuando pase esta contingencia no olvides visitarnos. 
- >* Te estaremos esperando.
+**Descripcion:** 
+<br>
+Monociclo te ofrece el servicio de cafeteria, y restaurante siendo un lugar muy acogedor ideal para salir de tu zona de confort, con un excelente servicio al cliente. ¡Visitalos!
+
+**Direccion:** Blvd Benito Juárez 29, Zona Centro, 22703 Rosarito, B.C.
+
+**Numero telefonico:** <a href="tel:+526611041654">661 104 16 54</a>
+
+**Horario de servicio**
+ Lunes a Viernes  
+ 7:00 AM A 10:00 PM
+<br>
+Sabado y Domingo 8:00 A 10:00 PM
+
+>* Mandanos un mensaje en [Facebook](https://www.facebook.com/MonocicloLibrosyCafe)

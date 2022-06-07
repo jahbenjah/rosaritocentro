@@ -13,23 +13,17 @@ imagenes: ["/assets/img/portfolio/NUEVOS-LOGOS/mariscos-torito.jpg"]
 <br>
 Mariscos El Torito ubicado en Rosarito Centro, tiene las puertas abiertas desde el primero de agosto del año 1989
 cumplimos 32 años, 25 años como bar y ahora como restaurante.
-Con los Mariscos más frescos de la región y el mejor sazón de Rosarito Centro.
+Con los Mariscos más frescos de la región y el mejor sazón de Rosarito Centro. Ven y disfruta de nuestra cocina, te encantara.
 
->Ven y disfruta de nuestra cocina, te encantara.
+**Direccion:** Blvd. Benito Juárez 318, Zona Centro, 22710 Rosarito, B.C.
 
->Seguimos abiertos para complacer tu paladar. 
+**Numero telefonico:** <a href="tel:+526616122662">661 612 26 62</a>
 
->Blvd. Benito Juárez 318 
+**Horario de servicio**
 
->Zona Centro, 22710 Rosarito, B.C.
-
->* <a href="tel:+526616122662">661 612 26 62</a>
-
->Horario de Servicio
-
->Lunes a Jueves 11 a.m a 9 p.m      		
-
->Viernes y Sábado 10 a.m a 9 p.m      		
-
->Domingo 10 p.m a 8 p.m
+Lunes a Jueves 11:00 AM A 9:00 PM      	
+<br>	
+Viernes y Sábado 10:00 AM A 9:00 PM      		
+<br>
+>Domingo 10:00 PM A 8:00 PM
      	       		
