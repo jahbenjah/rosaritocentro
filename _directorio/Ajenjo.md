@@ -30,5 +30,5 @@ La cocina inspirada a ajenjo combina recetas tradicionales mexicanas y francesas
  **Numero Telefonico:** <a href="tel:+526611201540">661 120 15 40</a>
 
  >* Revisa nuestro [Menú](https://ajenjo.com.mx/menus/?lang=es), pídelo para llevar.  
- >* Cuando pase esta contingencia no olvides visitarnos. Haz tu [reservación aquí](https://ajenjo.com.mx/reservaciones/?lang=es) o mandanos un mensaje en [Facebook](https://www.facebook.com/ajenjo.latitud). Te estaremos esperando.
+ >* Cuando pase esta contingencia no olvides visitarnos. Haz tu [reservación aquí](https://ajenjo.com.mx/reservaciones/?lang=es) o mandanos un mensaje en [Facebook](https://www.facebook.com/ajenjo.latitud). Te estaremos esperando!
 
