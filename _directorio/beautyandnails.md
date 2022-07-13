@@ -1,11 +1,11 @@
 ---
 title : Beauty and nails
 layout: negocio
-slogan: NaIL Salon
+slogan: NaiL Salon
 web: https://www.facebook.com/Beauty-and-nails-675673309515062
 descripcion: Nail Salon
 categoria: Servicios
-imagenes: ["/assets/img/portfolio/beautyandnails.jpg"]
+imagenes: ["/assets/img/directorio/beauty-and-nails.webp"]
 ---
 
 **Descripcion:**

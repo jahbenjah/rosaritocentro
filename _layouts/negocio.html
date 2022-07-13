@@ -19,8 +19,8 @@
             <div class="container">
 
                 <ol>
-                    <li><a href="{{ "/index.html" | absolute_url }}">Inicio</a></li>
-                    <li><a href="{{ "/directorio.html" | absolute_url }}">Directorio</a></li>
+                    <li><a href="{{ " /index.html" | absolute_url }}">Inicio</a></li>
+                    <li><a href="{{ " /directorio.html" | absolute_url }}">Directorio</a></li>
                     <li>{{ page.title | escape }}</li>
                 </ol>
                 <h2>{{ page.slogan | escape }}</h2>
@@ -35,23 +35,41 @@
                 <div class="row">
 
                     <div class="col-lg-6">
-                        <h2 class="portfolio-title">{{ page.title | escape }}</h2>
+                        <!--h2 class="portfolio-title">{{ page.title | escape }}</h2-->
                         <div class="owl-carousel portfolio-details-carousel">
                             {% for imagen in page.imagenes %}
-                             <img loading="lazy" src="{{ imagen }}" class="img-fluid" alt="{{ page.title}}">
+                            <img loading="lazy" src="{{ imagen }}" class="img-fluid" alt="{{ page.title}}">
                             {% endfor %}
                         </div>
                     </div>
 
                     <div class="col-lg-6 portfolio-info">
-                        <h3>Negocio</h3>
+                        <h3>{{ page.title | escape }}</h3>
                         <ul>
                             <li><strong>Categoria</strong>: {{ page.categoria | escape }}</li>
-                            <li><strong>Cliente</strong>: {{ page.title | escape }}</li>
-                            <li><strong>Página web</strong>: <a
-                                    href="{{ page.web | escape }}">{{ page.web | escape }}</a></li>
+                            <!--li><strong>Cliente</strong>: {{ page.title | escape }}</li-->
+                            <li><strong>Página web</strong>: <a {% if page.web %} href="{{ page.web | escape }}"><button
+                                        type="button" class="btn-primary">Sitio Web Oficial</button>{% endif %}</a></li>
+                            <li><strong>Redes Sociales</strong>:
+                                <a {% if page.facebook %} href="{{ page.facebook | escape }}" class="facebook"><i
+                                        class='bx bxl-meta bx-sm'></i>{% endif %}</a>
+                                <a {% if page.instagram %} href="{{ page.instagram | escape }}" class="instagram"><i
+                                        class='bx bxl-instagram bx-sm'></i>{% endif %}</a>
+                                <a {% if page.whatsapp %} href="{{ page.whatsapp | escape }}" class="whatsapp"><i
+                                        class='bx bxl-whatsapp bx-sm'></i></a>{% endif %}
+                            </li>
+                            <li><strong>Numero Telefonico</strong>: <a href="{{ page.telefono | escape }}">{{
+                                    page.telefono | escape
+                                    }}</a></li>
+                            <li><strong>Dirección</strong>: <a href="{{ page.direccion | escape }}">{{ page.direccion |
+                                    escape
+                                    }}</a></li>
+                            <li><strong>Horario de Servicio</strong>: {{ page.horariodeservicio | escape }}</li>
                         </ul>
-                        {{ content}}
+                        <strong>Descripción</strong>:
+                        {{ page.descripcion | escape }}
+                        {{ content }}
+
                     </div>
                 </div>
 

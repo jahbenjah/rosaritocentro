@@ -4,7 +4,7 @@ layout: negocio
 web: https://cafedelafonda.mx/
 descripcion: Tienda de café
 categoria: Servicios
-imagenes: [/assets/img/portfolio/NUEVOS-LOGOS/cafe-de-la-fonda.jpeg]
+imagenes: [/assets/img/portfolio/NUEVOS-LOGOS/cafe-de-la-fonda.jpeg.webp]
 ---
 
 **Descripción**

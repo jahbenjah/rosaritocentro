@@ -5,7 +5,7 @@ slogan: Comida francesa
 web: https://bistrolecousteau.com/
 descripcion: 
 categoria: Restaurante
-imagenes: ["/assets/img/portfolio/NUEVOS-LOGOS/bistro-or.jpg"]
+imagenes: ["/assets/img/portfolio/NUEVOS-LOGOS/bistro-or.jpg.webp"]
 calle: Blvd. Benito Juárez 184
 estado: Baja California
 municipio: Rosarito

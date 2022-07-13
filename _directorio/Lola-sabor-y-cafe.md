@@ -2,7 +2,7 @@
 title : Lola Sabor y Café Bistro
 layout: negocio
 slogan: Lola es el gusto de compartir una historia con cada taza de café.
-web: https://www.facebook.com/LolaSaboryCafe/about
+web: 
 descripcion: Lola es el gusto de compartir una historia con cada taza de café.
 categoria: Café
 imagenes: ["/assets/img/portfolio/lola.png"]
@@ -15,6 +15,7 @@ longitude: -117.058202
 telefono: 661 612 1080
 cocina: 
 rango: $$
+socialnetworks: https://www.facebook.com/LolaSaboryCafe/about
 ---
 
 **Descripcion**

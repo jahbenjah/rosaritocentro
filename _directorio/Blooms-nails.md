@@ -5,7 +5,7 @@ slogan: Nail Salon
 web: https://www.facebook.com/abigailgutierrez1194
 descripcion: Nail Salon
 categoria: Servicios
-imagenes: ["/assets/img/portfolio/bloomnails.jpg"]
+imagenes: ["/assets/img/portfolio/bloomnails.jpg.webp"]
 ---
 
 **Descripcion:**

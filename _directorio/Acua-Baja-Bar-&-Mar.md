@@ -1,38 +1,28 @@
 ---
 title : Acua Baja Bar & Mar
 layout: negocio
-slogan: Mexican/American Restaurant/Bar
+slogan: Restaurant-Bar with great atmosphere and restaurant quality food, at great prices.
 web: https://acuabar.com/
-descripcion: Mexican/American Restaurant/Bar
 categoria: Bar
-imagenes: ["/assets/img/portfolio/NUEVOS-LOGOS/Acua-baja-mar.jpg"]
-calle: Blvd. Benito Juárez 1207-1 
+imagenes: ["/assets/img/directorio/acua-baja-mar.jpg.webp"]
+direccion: Blvd. Benito Juárez 60 Zona Centro, 22710 Rosarito, B.C.
 estado: Baja California
 municipio: Rosarito
 codigo: 22710
 latitude: 32.339848
 longitude: -117.055794
-telefono: 661 120 6066
+telefono: 661 112 2342
 cocina: Mexicana/Americana
 rango: $$
+facebook: https://www.facebook.com/acuabajabarymar
+instagram: https://www.instagram.com/acuabajabarymar/
+whatsapp: https://wa.me/5216611122342?text=Hola%20Acuabar
+horariodeservicio: Lunes a Domingo 9:00 AM - 2:00 AM
+descripcion: Restaurante-Bar con excelente ambiente y comida de calidad en restaurantes, a excelentes precios. Abierto las 24 hrs! Desayuno desde $ 50 mxn. Mariscos, ostiones, aperitivos y cervezas artesanales.
 ---
 
-**Descripción:**
-<br>
-Restaurante-Bar con excelente ambiente y comida de calidad en restaurantes, a excelentes precios. Abierto las 24 hrs! 
-<br>
-Desayuno desde $ 50 mxn. Mariscos, ostiones, aperitivos y cervezas artesanales.
-<br>
-Ante contingencia 
-Tenemos servicios a domicilio y desayunos y comidas del día a un precio muy accesible.
 
 
-**Direccion:** Blvd. Benito Juárez 1207-1 Zona Centro, 22710 Rosarito, B.C.
-
-**Horario de Servicio:**
-Lunes a Domingo 24 hrs
-
-**Numero Telefonico:** <a href="tel:+526611206066">661 120 60 66</a>
 
    
 

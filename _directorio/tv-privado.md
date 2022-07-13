@@ -3,7 +3,7 @@ title : TV Privado
 layout: negocio
 slogan: Servicio IPTV
 web: https://privadotv.com/
-descripcion: ROGRAMACIÓN PREMIUM
+descripcion: PROGRAMACIÓN PREMIUM
 categoria: Servicios
 imagenes: ["/assets/img/portfolio/Tv Privado.png"]
 ---
@@ -37,4 +37,3 @@ SERVICIO IPTV CON LA MEJOR PROGRAMACIÓN PREMIUM CANALES DE Y MÁS!.
 
 >PIDE TU DEMO
 
-[Whatsapp](https://wa.me/5216616114079)

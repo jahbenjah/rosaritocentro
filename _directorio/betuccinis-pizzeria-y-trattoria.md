@@ -4,7 +4,7 @@ layout: negocio
 web: https://betuccinis.mx/menu/
 descripcion: Restaurante Italiano
 categoria: Servicios
-imagenes: [/assets/img/portfolio/NUEVOS-LOGOS/betuccinis-pizzeria.jpg]
+imagenes: [/assets/img/portfolio/NUEVOS-LOGOS/betuccinis-pizzeria.jpg.webp]
 ---
 
 **Descripción:**
