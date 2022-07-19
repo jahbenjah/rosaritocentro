@@ -3,10 +3,9 @@ title : Ajenjo
 layout: negocio
 slogan: Comida Internacional
 web: https://ajenjo.com.mx
-descripcion: Restaurante
 categoria: Restaurante
 imagenes: ["/assets/img/directorio/ajenjo.jpg.webp"]
-calle: Blvd. Popotla 3114
+direccion: Blvd. Popotla 3114 Playa Encantada, 22710 Rosarito, B.C.
 estado: Baja California
 municipio: Rosarito
 codigo: 22710
@@ -15,20 +14,7 @@ longitude: -117.045487
 telefono: 661 120 1540
 cocina: mediterranea
 rango: $$
+facebook: https://www.facebook.com/Ajenjococinadeinspiracion
+horariodeservicio: Lunes a Viernes 14:00 a 22:00 Martes Cerrado
+descripcion: La cocina inspirada a ajenjo combina recetas tradicionales mexicanas y francesas con las técnicas de cocina inspiradas en Cordon Bleu de nuestro chef. Venga y disfrute del ambiente rústico de baja elegancia ajenjo. 
 ---
-
-**Descripcion:**
-<br>
-La cocina inspirada a ajenjo combina recetas tradicionales mexicanas y francesas con las técnicas de cocina inspiradas en Cordon Bleu de nuestro chef. Venga y disfrute del ambiente rústico de baja elegancia ajenjo. Sólo utilizamos los ingredientes más frescos de esta área única de la tierra y el mar. Servimos cócteles especiales y tenemos una extensa selección de vinos de los valles de los vinos de baja California y de otros lugares.
-
-**Direccion:** Blvd. Popotla 3114 Playa Encantada, 22710 Rosarito, B.C.
-
- **Horario de Servicio**
- <br>
- Lunes a Domingo  12:00 PM A 10:00 PM
-
- **Numero Telefonico:** <a href="tel:+526611201540">661 120 15 40</a>
-
- >* Revisa nuestro [Menú](https://ajenjo.com.mx/menus/?lang=es), pídelo para llevar.  
- >* Cuando pase esta contingencia no olvides visitarnos. Haz tu [reservación aquí](https://ajenjo.com.mx/reservaciones/?lang=es) o mandanos un mensaje en [Facebook](https://www.facebook.com/ajenjo.latitud). Te estaremos esperando!
-

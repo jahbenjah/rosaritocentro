@@ -1,25 +1,21 @@
 ---
 title : Betuccini´s Pizzeria y Trattoria
 layout: negocio
+slogan: 
 web: https://betuccinis.mx/menu/
-descripcion: Restaurante Italiano
-categoria: Servicios
-imagenes: [/assets/img/portfolio/NUEVOS-LOGOS/betuccinis-pizzeria.jpg.webp]
+categoria: Restaurante
+imagenes: [/assets/img/directorio/betuccinis-pizzeria.jpg.webp]
+direccion: Carretera Tijuana-Ensenada KM. 28, Paraiso Ortiz, Renee´s, 22710, Rosarito, B.C.
+estado: Baja California
+municipio: Rosarito
+codigo: 22710
+latitude: 
+longitude: 
+telefono: 661 100 6148
+cocina: Italiano
+rango: $$
+facebook: https://www.facebook.com/betuccinis
+instagram: https://www.instagram.com/betuccinis_oficial/
+horariodeservicio: Lunes a Domingo 13:00 PM - 20:00 PM
+descripcion: Restaurante Italiano que sirve diferentes platillos para tener una experiencia amena con tu familia, amigos, pareja etc. Sirviendo platillos al dia, al igual que variedad de bebidas. ¡Visitanos!
 ---
-
-**Descripción:**
-<br>
-Betuccini´s Pizzeria y Trattoria es un restaurante de comida italiana que ofrece una variedad de platillos con excelente calidad en los platiloos, y con excelente atencion al cliente. ¡¡Te invitamos a que los visites!!
-
->**Direccion:** Carretera Tijuana-Ensenada KM. 28, Paraiso Ortiz, Renee´s, 22710, Rosarito, B.C.
-
->**Numero Telefonico:** <a href="tel:+526611006148">661 100 61 48</a>
-
->**Horario de Servicio**
-<br>
->Lunes a Jueves de 1:00 PM a 10:30 PM
-<br>
->Viernes A Sabado  1:00 PM a 11:00 PM  
-<br>
->Domingo 11:00 AM A 11:00 PM
-
