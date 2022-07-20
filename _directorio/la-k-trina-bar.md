@@ -17,12 +17,6 @@ rango: $$
 facebook:  https://www.facebook.com/LaK.trinaAntritoBar
 instagram:
 whatsapp:
-horario:
+horario: Domingo a Jueves 5:00 PM a 2:00 AM Viernes a Sabado 10:00 AM a 2:00 AM
 descripcion: La K.Trina Antrito Bar te ofrece el servicio de bar donde puedes convivir con tu pareja, amigos, familia etc. Un lugar acogedor para una excelente convivencia.
 ---
-**Horario de Servicio**
-<br>
->Domingo a Jueves 5:00 PM A 2:00 AM
-<br>
->Viernes y Sabado 10:00 AM 2:00 PM    
-

@@ -1,22 +1,22 @@
 ---
 title : Lo Que Sea
 layout: negocio
-web: https://www.facebook.com/loquesearosarito/
-descripcion: Restaurante
+slogan:
+web: https://loquesearosarito.com/
 categoria: Servicios
-imagenes: [/assets/img/portfolio/NUEVOS-LOGOS/lo-que-sea.jpg]
+imagenes: ["/assets/img/directorio/lo-que-sea.jpg.webp"]
+direccion: Carr. Transpeninsular 41707-Km 40.5, Las Gaviotas, 22740 B.C.
+estado: Baja California
+municipio: Rosarito
+codigo: 22710
+latitude: 32.2564877
+longitude: -116.9682197
+telefono: +526611286663
+cocina:
+rango: $$
+facebook:  https://www.facebook.com/loquesearosarito/
+instagram: 
+whatsapp: 52 1 661 128 6663
+horariodeservicio: Jueves a Domingo 10:00 AM a 5:00 PM Lunes a Miercoles Cerrado
+descripcion: ¡Lo Que Sea Food Truck Italian Deli Rosarito! Estamos muy felices de ser parte de esta hermosa comunidad, estamos aquí para servir Desayunos, Sándwiches, Bebidas y Postres. Gracias por todo tu apoyo. 
 ---
-
-**Descripción**
-¡Lo Que Sea Food Truck Italian Deli Rosarito! Estamos muy felices de ser parte de esta hermosa comunidad, estamos aquí para servir Desayunos, Sándwiches, Bebidas y Postres. Gracias por todo tu apoyo. 
-
-
->**Direccion:** Carretera Transpeninsular 41707, 22740 Rosarito, B.C.
-
->**Numero Telefonico:** <a href="tel:+526611286663">661 128 6663</a>
-
->**Horario de Servicio**
-<br>
->Jueves A Domingo de 10:00 AM A 5:00 PM
-<br>
->Lunes A Miercoles CERRADO
