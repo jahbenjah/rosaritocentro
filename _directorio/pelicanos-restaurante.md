@@ -1,28 +1,22 @@
 ---
-title : Los Pelicanos Hotel Restaurante
+title: Los Pelicanos Hotel Restaurante
 layout: negocio
-web: http://ww1.lospelicanosrosarito.net/
-descripcion: Hotel Restaurante
-categoria: Servicios
-imagenes: [/assets/img/portfolio/NUEVOS-LOGOS/los-pelicanos-restaurante.jpeg]
+slogan: 
+web:
+categoria: Hoteles
+imagenes: ["/assets/img/directorio/los-pelicanos-restaurante.jpeg.webp"]
+direccion: Calle del Cedro Numero#115, Zona Centro 22710, Rosarito, B.C.
+estado: Baja California
+municipio: Rosarito
+codigo: 22710
+latitude: 32.3490048
+longitude: -117.0676394
+telefono: 661 612 0445
+cocina: italiana
+rango: $$
+facebook: https://www.facebook.com/hotelpelicanos
+instagram:
+whatsapp:
+horariodeservicio: 
+descripcion: Somos un Hotel-Restaurante totalmente rústico frente al mar, que brinda una experiencia diferente a lo convencional, deseamos hacerte sentir como en casa, la comodidad y el sabor que buscas. 
 ---
-
-**Descripción**
-<br>
-Somos un Hotel-Restaurante totalmente rústico frente al mar, que brinda una experiencia diferente a lo convencional, deseamos hacerte sentir como en casa, la comodidad y el sabor que buscas. 
-
-
->**Direccion:** Calle del Cedro #115, Zona Centro 22710, Rosarito, B.C.
-
->**Numero Telefonico:** <a href="tel:+526616120445">661 612 04 45</a>
-
-<!--**Horario de Servicio**
-<br>
->Lunes, Martes, Jueves y Viernes 10:00 AM A 8:00 PM
-<br>
->Miercoles CERRADO     
-<br>
->Sabado 10:00 AM A 8:00 PM
-<br>
->Domingo 12:00 PM A 5:00 PM
--->

@@ -1,7 +1,7 @@
 ---
 title : Fights Night
 layout: negocio
-slogan: Nuestro lema lo dice todo: Peleas y peladores que la gente quiere ver.
+slogan: Nuestro lema lo dice todo Peleas y peladores que la gente quiere ver.
 web: https://fightsnight.com/
 categoria: Servicios
 imagenes: ["/assets/img/directorio/fights-night.png.webp"]

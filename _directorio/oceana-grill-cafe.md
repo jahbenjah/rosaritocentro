@@ -1,32 +1,22 @@
 ---
-title : Oceana Rosarito Inn
+title : Oceana Grill And Cafe
 layout: negocio
-slogan: 
-web: http://www.oceanagrillandcafe.com/
-descripcion: 
+slogan: Disfruta de los mejores platillos con nosotros
+web: http://www.oceanagrillandcafe.mx/
 categoria: Restaurante
-imagenes: ["/assets/img/portfolio/NUEVOS-LOGOS/oceana-grill.jpeg"]
-calle: Blvd Benito Juárez 907-9A
+imagenes: ["/assets/img/directorio/oceana-grill.jpeg.webp"]
+direccion: Blvd Benito Juárez 907-9A Rosarito B.C
 estado: Baja California
 municipio: Rosarito
 codigo: 22710
-latitude: 32.339848
-longitude: -117.055794
+latitude: 32.3490048
+longitude: 117.0676394
 telefono: 661 612 5774
 cocina: mexicana
 rango: $$
+facebook: https://www.facebook.com/oceanagrillandcafe
+instagram:
+whatsapp:
+horariodeservicio: Lunes a Domingo 8:00 AM a 16:00 PM
+descripcion: Tenemos fusión de cocina mexicana y americana. Ubicado en Oceana Plaza en la hermosa playa de Rosarito. Somos parte de la familia Rosarito Inn
 ---
-
-We have fusion of Mexican and American cuisine Located at Oceana Plaza in beautiful Rosarito Beach. We are part of the Rosarito Inn family.
-
->Blvd Benito Juárez 907-9A
-
->Zona Centro, Playas de Rosarito B.C. 22710
-
->Horario de Servicio 
-
->8 a.m – 4 p.m
-
->* <a href="tel:+526616125774">661 612 57 74</a>
-
-<oceanagrill@rosaritoinn.com>

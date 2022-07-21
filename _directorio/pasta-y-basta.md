@@ -1,32 +1,22 @@
 ---
 title : Pasta y Basta
 layout: negocio
-slogan: Auténtica cocina italiana
-web: https://pastaybastarosarito.com/es/inicio/
-descripcion: Especialista en pasta
+slogan: Autentica cocina italiana
+web:
 categoria: Restaurante
-imagenes: [/assets/img/portfolio/pasta-y-basta-logo3.png]
-calle: Km 28.5 Boulevard Artesanal Popotola
+imagenes: ["/assets/img/directorio/pasta-basta.jpg.webp"]
+direccion: Km 28.5 Boulevard Artesanal Popotla
 estado: Baja California
 municipio: Rosarito
 codigo: 22710
-latitude: 32.339848
-longitude: -117.055794
-telefono: 661 612 2655
+latitude: 32.3193762
+longitude: -117.048261
+telefono: 661 120 07 66
 cocina: italiana
 rango: $$
+facebook: https://www.facebook.com/ChefChristianGritti
+instagram:
+whatsapp:
+horariodeservicio: Martes a Sabado 12:00 a 21:30 PM
+descripcion: Pasta y Basta abrió sus puertas en el verano de 2015, un año después el chef se trasladó de Italia a Rosarito para casarse con su esposa. El cumplido del Chef en la apertura de su restaurante fue “traer el sabor de Italia a Baja California” y seguramente lo está haciendo! Esperamos que se sienten en familia debajo de nuestra palapa!
 ---
-
-Pasta y Basta abrió sus puertas en el verano de 2015, un año después el chef se trasladó de Italia a Rosarito para casarse con su esposa. El cumplido del Chef en la apertura de su restaurante fue “traer el sabor de Italia a Baja California” y seguramente lo está haciendo! Esperamos que se sienten en familia debajo de nuestra palapa!
-
->Km 28.5 Boulevard Artesanal Popotola
-
->Rosarito, Baja California
-
->Horario de Srvicio
-
->Martes a Domingo 12:30 p.m a 8:30 p.m
-
->* <a href="tel:+526616122655">661 612 26 55</a>
-
-[Facebook](https://www.facebook.com/ChefChristianGritti)

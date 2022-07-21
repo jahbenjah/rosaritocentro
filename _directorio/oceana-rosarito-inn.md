@@ -1,19 +1,22 @@
 ---
 title : Rosarito Inn Condominium Hotels & Suites
 layout: negocio
-slogan: Oceana Rosarito Inn
+slogan:
 web: http://rosaritoinn.com/
-descripcion: 
-categoria: Hotel
-imagenes: ["/assets/img/portfolio/NUEVOS-LOGOS/oceana-rosarito-inn.png"]
+categoria: Hoteles
+imagenes: ["/assets/img/directorio/oceana-rosarito-inn.png.webp"]
+direccion: Blvd Benito Juárez 907-24 Rosarito B.C
+estado: Baja California
+municipio: Rosarito
+codigo: 22710
+latitude: 32.3490048
+longitude: 117.0676394
+telefono: +1 888 849 4500
+cocina:
+rango: $$
+facebook: https://www.facebook.com/rosaritoinn
+instagram:
+whatsapp:
+horariodeservicio: 
+descripcion: Ofrecemos condominios completamente amueblados de 1 a 4 habitaciones. Con cocina, aire acondicionado, wifi, piscina y jacuzzi.
 ---
-
-Rosarito Inn Condominium Hotels & Suites is right on the beach in the heart of Rosarito Centro, with beautiful fully furnished suites.
-
->Blvd Benito Juárez 907-24
-
->Zona Centro, Playas de Rosarito B.C. 22710
-
->* <a href="tel:+18888494500">+1 888 849 4500</a>
-
-<reservaciones@rosaritoinn.com>

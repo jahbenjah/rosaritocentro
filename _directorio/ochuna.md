@@ -1,26 +1,22 @@
 ---
 title : Ochuna
 layout: negocio
-slogan: Comida Mediterranea
-web: https://http://ochunarosarito.com.mx/
-descripcion: 
+slogan: comida mediterranea
+web:
 categoria: Restaurante
-imagenes: ["/assets/img/portfolio/ochuna.jpg", "/assets/img/portfolio/ochuna closed.jpg"]
-calle: Blvd. Benito Juárez 2701
+imagenes: ["/assets/img/directorio/ochuna.jpg.webp"]
+direccion: Blvd Benito Juarez 2701 Echeverria Rosarito 22710, Península de Baja California, México
 estado: Baja California
 municipio: Rosarito
 codigo: 22710
-latitude: 32.369618
-longitude: -117.062878
+latitude: 32.3490048
+longitude: -117.0676394
 telefono: 661 612 0027
 cocina: mediterranea
 rango: $$
+facebook: https://www.facebook.com/OchunaRestaurante
+instagram:
+whatsapp:
+horariodeservicio: Lunes a Domingo de 1:00 PM a 10:00 PM
+descripcion: Ven a disfrutar de nuestra cocina Mediterránea. En Rosarito desde el 2015. 
 ---
-
-Blvd. Benito Juárez 2701
-
->Villa Floresta,  22710 Rosarito, B.C.+
-
->* <a href="tel:+526616120027">661 612 00 27</a>
-
-<ochuna@ochunarestaurant.com>

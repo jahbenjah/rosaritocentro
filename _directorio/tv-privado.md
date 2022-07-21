@@ -1,39 +1,22 @@
 ---
-title : TV Privado
+title: TV Privado
 layout: negocio
-slogan: Servicio IPTV
+slogan: Programacion premium
 web: https://privadotv.com/
-descripcion: PROGRAMACIÓN PREMIUM
 categoria: Servicios
-imagenes: ["/assets/img/portfolio/Tv Privado.png"]
+imagenes: ["/assets/img/directorio/tv-privado.png.webp"]
+direccion:
+estado: Baja California
+municipio: Rosarito
+codigo: 22700
+latitude: 
+longitude: 
+telefono: +1 619 777 17 86
+cocina:
+rango: $$
+facebook:
+instagram: 
+whatsapp:
+horariodeservicio: Lunes a Domingo 24 hrs
+descripcion: Servicio IPTV Latino 
 ---
-SERVICIO IPTV CON LA MEJOR PROGRAMACIÓN PREMIUM CANALES DE Y MÁS!.
-
->6040 Películas (En todas las calidades).
-
->2410 Canales en vivo ORDENADOS ! (FHD - HD - HQ)
-
->200 CANALES 24/7 (Dia a día sumando más).
-
->250 Series, lo más actualizado.
-
->LIGA MX, LIGA ESPAÑOLA
-
->NBA
-
->NFL
-
->MLB
-
->Todo el DEPORTE !
-
->Todo el contenido INFANTIL para los pequeños
-
-> Incluso PPV
-
->Solo necesitas una conexión mínima de 10MB de velocidad en Internet.
-
->Soporte en cuanto lo necesites
-
->PIDE TU DEMO
-

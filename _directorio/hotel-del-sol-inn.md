@@ -19,5 +19,4 @@ instagram:
 whatsapp: 
 horariodeservicio:
 descripcion: Hotel del Sol Inn El hotel se encuentra situado en el puro centro de la ciudad de Rosarito queda A una cuadra de los bares y aria para divertirse.
-Habitaciones sencillas, dobles y familiares. TV con cable, AC, estacionamiento y seguridad.
 ---

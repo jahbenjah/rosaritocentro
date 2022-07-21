@@ -1,26 +1,22 @@
 ---
-title : Solazo Bar 
+title: Solazo Bar
 layout: negocio
-slogan: Un bar autentico para gente autentica
+slogan:
 web: https://solazobar.wixsite.com/solazobar
-descripcion: Un bar autentico para gente autentica
 categoria: Bar
-imagenes: ["/assets/img/portfolio/solazobar.png", "/assets/img/portfolio/solazobaranunciocovid19.jpg"]
-calle: Blvd. Benito Juárez 137
+imagenes: ["/assets/img/directorio/solazobar.png.webp"]
+direccion: Blvd. Benito Juárez 137, Zona Centro. 22700 Rosarito, Península de Baja California, México
 estado: Baja California
 municipio: Rosarito
-codigo: 22710
-latitude: 32.339848
-longitude: -117.055794
+codigo: 22700
+latitude: 32.3490048
+longitude: -117.0676394
 telefono: 661 121 8618
-cocina: 
+cocina:
 rango: $$
+facebook: https://www.facebook.com/Solazo-Bar-580544149078620
+instagram: 
+whatsapp:
+horariodeservicio: Lunes a Domingo 12:00 PM a 22:00 PM
+descripcion: Un bar autentico para gente autentica, Ven y comprueba porque somos los número uno en Rosarito.
 ---
-
-
-
-Un bar autentico para gente autentica, Ven y comprueba porque somos los número uno en Rosarito.
-
->* <a href="tel:+526611218618">661 121 86 18</a>
-
-[Facebook](https://www.facebook.com/Solazo-Bar-580544149078620)
