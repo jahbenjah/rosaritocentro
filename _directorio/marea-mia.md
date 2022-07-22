@@ -2,7 +2,7 @@
 title : Marea Mia
 layout: negocio
 slogan:
-web: http://mareamia.com/
+web: https://mareamia.com/
 categoria: Servicios
 imagenes: ["/assets/img/directorio/marea-mia.jpeg.webp"]
 direccion: Blvd. Benito Juarez 41, Rosarito, Mexico
