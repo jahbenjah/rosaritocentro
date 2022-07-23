@@ -58,7 +58,7 @@
                                 <a {% if page.whatsapp %} href="{{ page.whatsapp | escape }}" class="whatsapp"><i
                                         class='bx bxl-whatsapp bx-sm'></i></a>{% endif %}
                             </li>
-                            <li><strong>Numero Telefonico</strong>: <a href="{{ page.telefono | escape }}">{{
+                            <li><strong>Numero Telefonico</strong>: <a href="tel:{{ page.telefono | escape }}">{{
                                     page.telefono | escape
                                     }}</a></li>
                             <li><strong>Dirección</strong>: <a href="{{ page.direccion | escape }}">{{ page.direccion |
