@@ -4,7 +4,7 @@ layout: negocio
 slogan: Lola es el gusto de compartir una historia con cada taza de café.
 web:
 categoria: Servicios
-imagenes: ["/assets/img/directorio/lola.png.webp"]
+imagenes: ["/assets/img/directorio/lola-cafe.webp"]
 direccion: Abeto 133, Zona Centro, 22710, Rosarito, B.C.
 estado: Baja California
 municipio: Rosarito

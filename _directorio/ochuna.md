@@ -4,7 +4,7 @@ layout: negocio
 slogan: comida mediterranea
 web:
 categoria: Restaurante
-imagenes: ["/assets/img/directorio/ochuna.jpg.webp"]
+imagenes: ["/assets/img/directorio/ochuna-restaurante.webp"]
 direccion: Blvd Benito Juarez 2701 Echeverria Rosarito 22710, Península de Baja California, México
 estado: Baja California
 municipio: Rosarito

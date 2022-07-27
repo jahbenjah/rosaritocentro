@@ -4,7 +4,7 @@ layout: negocio
 slogan: Comida del Salvador
 web:
 categoria: Restaurante
-imagenes: ["/assets/img/directorio/el-pulgarcito.png.webp"]
+imagenes: ["/assets/img/directorio/el-pulgar.webp"]
 direccion: Emiliano Zapata 1, Machado Sur, 22703 Rosarito B.C.
 estado: Baja California
 municipio: Rosarito

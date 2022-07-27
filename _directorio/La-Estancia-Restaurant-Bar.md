@@ -4,7 +4,7 @@ layout: negocio
 slogan:
 web: http://www.laestancia.mx/platillosenrosarito.html
 categoria: Restaurantes
-imagenes: ["/assets/img/directorio/la-estancia.jpg.webp"]
+imagenes: ["/assets/img/directorio/la-estancia-bar.webp"]
 direccion: Avenida Francisco Villa Colonia Obrera Numero 316
 estado: Baja California
 municipio: Rosarito

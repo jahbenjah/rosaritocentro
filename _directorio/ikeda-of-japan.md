@@ -4,7 +4,7 @@ layout: negocio
 slogan: Comida Japonesa
 web: https://ikedaofjapan.com/menu/
 categoria: Restaurant
-imagenes: ["/assets/img/directorio/ikeda.jpeg.webp"]
+imagenes: ["/assets/img/directorio/ikeda-japon.webp"]
 direccion: Blvd. Benito Juárez 890-1A
 estado: Baja California
 municipio: Rosarito

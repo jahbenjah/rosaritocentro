@@ -4,7 +4,7 @@ layout: negocio
 slogan:
 web: http://roble.mx//
 categoria: Restaurante
-imagenes: ["/assets/img/directorio/roble.jpg.webp"]
+imagenes: ["/assets/img/directorio/roble-restaurante.webp"]
 direccion: 
 estado: Baja California
 municipio: Rosarito

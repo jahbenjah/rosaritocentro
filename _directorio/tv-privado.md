@@ -4,7 +4,7 @@ layout: negocio
 slogan: Programacion premium
 web: https://privadotv.com/
 categoria: Servicios
-imagenes: ["/assets/img/directorio/tv-privado.png.webp"]
+imagenes: ["/assets/img/directorio/privado-tv.webp"]
 direccion:
 estado: Baja California
 municipio: Rosarito

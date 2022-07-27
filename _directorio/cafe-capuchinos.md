@@ -4,7 +4,7 @@ layout: negocio
 web: https://www.facebook.com/CAFECAPUCHINOS
 descripcion: Cafeteria
 categoria: Servicios
-imagenes: [/assets/img/portfolio/NUEVOS-LOGOS/cafe-capuchinos.jpeg.webp]
+imagenes: [/assets/img/directorio/capuchinos-cafe.webp]
 ---
 
 **Descripción**

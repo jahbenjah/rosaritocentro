@@ -4,7 +4,7 @@ layout: negocio
 slogan: 
 web:
 categoria: Restaurante
-imagenes: ["/assets/img/directorio/popotlarestbar.jpg.jpeg.webp"]
+imagenes: ["/assets/img/directorio/popotla-restaurante.webp"]
 direccion: Carretera libre Tijuana Ensenada Km 34 22710 Rosarito, Península de Baja California, México
 estado: Baja California
 municipio: Rosarito

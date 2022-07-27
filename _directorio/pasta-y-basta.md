@@ -4,7 +4,7 @@ layout: negocio
 slogan: Autentica cocina italiana
 web:
 categoria: Restaurante
-imagenes: ["/assets/img/directorio/pasta-basta.jpg.webp"]
+imagenes: ["/assets/img/directorio/pasta-y-basta.webp"]
 direccion: Km 28.5 Boulevard Artesanal Popotla
 estado: Baja California
 municipio: Rosarito

@@ -4,7 +4,7 @@ layout: negocio
 slogan:
 web:
 categoria: Restaurant
-imagenes: ["/assets/img/directorio/LA-ESPERANZA.jpeg.webp"]
+imagenes: ["/assets/img/directorio/bajamed-esperanza.webp"]
 direccion: Km. 73.5 Carretera No. 3 Ensenada-Tecate, Valle de Guadalupe, 22830, Ensenada, B.C.
 estado: Baja California
 municipio: Rosarito

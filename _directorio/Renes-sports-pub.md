@@ -4,7 +4,7 @@ layout: negocio
 slogan: PUB
 web:
 categoria: Restaurante
-imagenes: ["/assets/img/directorio/renes.jpg.webp"]
+imagenes: ["/assets/img/directorio/renes-restaurante.webp"]
 direccion: Blvd. Benito Juárez 137, Zona Centro, 22710 Rosarito, B.C.
 estado: Baja California
 municipio: Rosarito

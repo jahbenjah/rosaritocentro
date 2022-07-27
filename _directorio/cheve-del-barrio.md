@@ -4,7 +4,7 @@ layout: negocio
 slogan: Dsifruta tus mejores momentos en nuestra sucursal
 web: 
 categoria: restaurant/bar
-imagenes: ["/assets/img/directorio/cheve-de-barrio.jpg.webp"]
+imagenes: ["/assets/img/directorio/la-cheve-del-barrio.webp"]
 direccion: Avenida Coronado numero 5, Blvd. Benito Juárez, Zona Centro, Playas de Rosarito, B.C 
 estado: Baja California
 municipio: Rosarito

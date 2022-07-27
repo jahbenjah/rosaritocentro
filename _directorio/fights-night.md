@@ -4,7 +4,7 @@ layout: negocio
 slogan: Nuestro lema lo dice todo Peleas y peladores que la gente quiere ver.
 web: https://fightsnight.com/
 categoria: Servicios
-imagenes: ["/assets/img/directorio/fights-night.png.webp"]
+imagenes: ["/assets/img/directorio/el-fights-night.webp"]
 direccion: Los Angeles, C.A
 estado: 
 municipio: 

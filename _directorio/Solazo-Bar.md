@@ -4,7 +4,7 @@ layout: negocio
 slogan:
 web: https://solazobar.wixsite.com/solazobar
 categoria: Bar
-imagenes: ["/assets/img/directorio/solazobar.png.webp"]
+imagenes: ["/assets/img/directorio/bar-solazo.webp"]
 direccion: Blvd. Benito Juárez 137, Zona Centro. 22700 Rosarito, Península de Baja California, México
 estado: Baja California
 municipio: Rosarito
