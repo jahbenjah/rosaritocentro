@@ -3,7 +3,7 @@ title : El Tendero Boutique
 layout: negocio
 slogan: Las mejores prendas las tenemos nosotros
 web: 
-categoria: Servicios
+categoria: Moda
 imagenes: ["/assets/img/directorio/el-tendero-boutique.jpeg.webp"]
 direccion: La Costa Plaza .Blvd Benito Juarez 300, Zona Centro, Rosarito, B.C.
 estado: Baja California

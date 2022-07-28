@@ -3,7 +3,7 @@ title : La K.Trina Antrito Bar
 layout: negocio
 slogan:
 web:
-categoria: Servicios
+categoria: Bar
 imagenes: [/assets/img/portfolio/NUEVOS-LOGOS/la-katrina-bar.jpeg]
 direccion: Blvd.Benito Juarez 105, 22710, Rosarito, B.C
 estado: Baja California

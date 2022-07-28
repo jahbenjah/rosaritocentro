@@ -3,7 +3,7 @@ title : Lo Que Sea
 layout: negocio
 slogan:
 web: https://loquesearosarito.com/
-categoria: Servicios
+categoria: Restaurante
 imagenes: ["/assets/img/directorio/lo-que-sea.jpg.webp"]
 direccion: Carr. Transpeninsular 41707-Km 40.5, Las Gaviotas, 22740 B.C.
 estado: Baja California

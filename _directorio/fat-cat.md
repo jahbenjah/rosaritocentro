@@ -3,7 +3,7 @@ title : Fat Cat
 layout: negocio
 slogan: Fat Cat es un American Gourmet Pancake House que se enorgullece de ofrecer los mejores platos especiales y un excelente servicio al cliente.
 web: https://fatcatpancakehouse.com/
-categoria: Restaurant
+categoria: Restaurante
 imagenes: ["/assets/img/directorio/fat-cat.jpeg.webp"]
 direccion: Blvd. Benito Juárez 300 local 7, Plaza la Costa, 22710, Rosarito, B.C.
 estado: Baja California

@@ -4,7 +4,7 @@ layout: negocio
 slogan: Cafetería
 web: https://www.facebook.com/MonocicloLibrosyCafe
 descripcion: Libros y café
-categoria: Café
+categoria: Cafeteria
 imagenes: ["/assets/img/portfolio/monociclocafe.jpg", "/assets/img/portfolio/monocicloneron.jpg"]
 calle: Blvd Benito Juárez 29
 estado: Baja California

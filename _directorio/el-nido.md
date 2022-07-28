@@ -3,7 +3,7 @@ title : El Nido
 layout: negocio
 slogan: Desde 1971, es uno de los restaurantes más importantes de la región; especialistas en llevar las mejores carnes del carbón a tu mesa. 
 web: 
-categoria: Restaurantes
+categoria: Restaurante
 imagenes: ["/assets/img/directorio/el-nido.webp"]
 direccion: Blvd. Benito Juárez 67, Zona Centro, 22710 Rosarito, B.C. 
 estado: Baja California

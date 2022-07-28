@@ -3,7 +3,7 @@ title : Hotel Corona
 layout: negocio
 slogan: 
 web: https://www.facebook.com/HotelCoronaPlaza/
-categoria: Servicios
+categoria: Hotel
 imagenes: ["/assets/img/directorio/hotel-corona.jpeg.webp"]
 direccion: Calle Cedro #151, Zona Centro, 22700, Rosarito, B.C.
 estado: Baja California

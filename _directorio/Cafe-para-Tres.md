@@ -3,7 +3,7 @@ title : Cafe para Tres
 layout: negocio
 slogan: Cafeteria Familiar
 web: 
-categoria: Café
+categoria: Cafeteria
 imagenes: ["/assets/img/portfolio/cafeparatres.jpeg"]
 direccion: Blvd. Guerrero 752-B Col. Constitucion 22707
 estado: Baja California

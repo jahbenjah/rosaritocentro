@@ -3,7 +3,7 @@ title : Cafe de la Fonda Mexico
 layout: negocio
 slogan: Café con Origen. Te brindamos la experiencia de un café colombiano acompañado de deliciosos churros y donas recién hechos.
 web: https://cafedelafonda.mx/
-categoria: Servicios
+categoria: Cafeteria
 imagenes: ["/assets/img/directorio/cafe-de-la-fonda.jpeg.webp"]
 direccion: Blvd. Benito Juárez 854, Centro Carretera, Rosarito, B.C., México
 estado: Baja California

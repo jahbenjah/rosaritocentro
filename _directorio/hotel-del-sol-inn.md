@@ -3,7 +3,7 @@ title : Hotel de Sol Inn
 layout: negocio
 slogan: se agrega slogan
 web: https://hoteldelsolinnrosarito.com/
-categoria: Servicios
+categoria: Hotel
 imagenes: ["/assets/img/directorio/hotel-del-sol-inn.jpeg.webp"]
 direccion: Blvd Benito Juárez 32, Zona Centro, Playas de Rosarito B.C. 
 estado: Baja California

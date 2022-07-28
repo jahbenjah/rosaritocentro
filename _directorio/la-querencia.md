@@ -3,7 +3,7 @@ title : La Querencia
 layout: negocio
 slogan: La original comida Baja Mediterranea
 web:
-categoria: Restaurant
+categoria: Restaurante
 imagenes: ["/assets/img/directorio/la-querencia.jpg.webp"]
 direccion: Av. Escuadron 201 No, 3110, Entre Blvd. Sanchez Taboada y Blvd. Salinas 22014, Tijuana, B.C.
 estado: Baja California

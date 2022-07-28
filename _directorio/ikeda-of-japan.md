@@ -3,7 +3,7 @@ title : Ikeda  of Japan
 layout: negocio
 slogan: Comida Japonesa
 web: https://ikedaofjapan.com/menu/
-categoria: Restaurant
+categoria: Restaurante
 imagenes: ["/assets/img/directorio/ikeda-japon.webp"]
 direccion: Blvd. Benito Juárez 890-1A
 estado: Baja California

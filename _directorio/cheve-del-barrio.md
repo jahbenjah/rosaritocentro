@@ -3,7 +3,7 @@ title : Cheve del Barrio
 layout: negocio
 slogan: Dsifruta tus mejores momentos en nuestra sucursal
 web: 
-categoria: restaurant/bar
+categoria: Restaurant/Bar
 imagenes: ["/assets/img/directorio/la-cheve-del-barrio.webp"]
 direccion: Avenida Coronado numero 5, Blvd. Benito Juárez, Zona Centro, Playas de Rosarito, B.C 
 estado: Baja California

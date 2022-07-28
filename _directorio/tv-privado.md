@@ -17,6 +17,8 @@ rango: $$
 facebook:
 instagram: 
 whatsapp:
+telegram: https://t.me/tvprivado
+twitter: https://twitter.com/tvprivado_prime
 horariodeservicio: Lunes a Domingo 24 hrs
 descripcion: Servicio IPTV Latino 
 ---

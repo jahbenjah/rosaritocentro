@@ -3,7 +3,7 @@ title: Los Pelicanos Hotel Restaurante
 layout: negocio
 slogan: 
 web:
-categoria: Hoteles
+categoria: Restaurante
 imagenes: ["/assets/img/directorio/los-pelicanos-restaurante.jpeg.webp"]
 direccion: Calle del Cedro Numero#115, Zona Centro 22710, Rosarito, B.C.
 estado: Baja California

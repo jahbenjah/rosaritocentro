@@ -3,7 +3,7 @@ title : Mariscos El Carrizal
 layout: negocio
 slogan:
 web: https://mariscoselcarrizal.com/
-categoria: Servicios
+categoria: Restaurante
 imagenes: ["/assets/img/directorio/mariscos-carrizal.jpeg.webp"]
 direccion: Blvd. Benito Juarez #105, Rosarito, B.C.
 estado: Baja California

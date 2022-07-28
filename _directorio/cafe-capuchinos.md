@@ -3,7 +3,7 @@ title : Cafe Capuchinos
 layout: negocio
 web: https://www.facebook.com/CAFECAPUCHINOS
 descripcion: Cafeteria
-categoria: Servicios
+categoria: Cafeteria
 imagenes: [/assets/img/directorio/capuchinos-cafe.webp]
 ---
 

@@ -3,7 +3,7 @@ title : Mariscos El Torito
 layout: negocio
 slogan: Los Mariscos más frescos de Rosarito Centro
 web:
-categoria: Restaurant
+categoria: Restaurante
 imagenes: ["/assets/img/directorio/mariscos-torito.jpg.webp"]
 direccion: Calle del Ebano, 22700 Rosarito, B.C.
 estado: Baja California

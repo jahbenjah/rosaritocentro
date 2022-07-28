@@ -3,7 +3,7 @@ title : Acua Baja Bar & Mar
 layout: negocio
 slogan: Restaurant-Bar with great atmosphere and restaurant quality food, at great prices.
 web: https://acuabar.com/
-categoria: Bar
+categoria: Restaurante/Bar
 imagenes: ["/assets/img/directorio/acua-baja-mar.jpg.webp"]
 direccion: Blvd. Benito Juárez 60 Zona Centro, 22710 Rosarito, B.C.
 estado: Baja California
