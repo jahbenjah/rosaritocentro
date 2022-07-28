@@ -3,7 +3,7 @@ title : Cafe Pergamino
 layout: negocio
 slogan: Dando siempre lo mejor de nosotros.
 web: 
-categoria: Cafeteria
+categoria: Café
 imagenes: ["/assets/img/directorio/cafe-pergamino.jpg.webp"]
 direccion: Blvd. Benito Juarez, 22710, Zona Centro, Rosarito B.C.
 estado: Baja California
