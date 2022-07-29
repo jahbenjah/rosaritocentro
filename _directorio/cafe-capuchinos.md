@@ -1,20 +1,21 @@
 ---
-title : Cafe Capuchinos
+title : Café Capuchinos
 layout: negocio
-slogan: Conocenos y disfruta de nuestros mejores bebidas
+slogan: 
+web: 
 categoria: Café
 imagenes: [/assets/img/directorio/capuchinos-cafe.webp]
-direccion: Blvd. Benito Juárez Numero 890-3, Zona Centro, Rosarito, B.C.
+direccion: Blvd. Benito Juárez #890-3, Zona Centro, Rosarito, B.C.
 estado: Baja California
 municipio: Rosarito
 codigo: 22710
-latitude: 32.3395471
-longitude: -117.0577376
+latitude: 
+longitude: 
 telefono: 661 612 2979
-cocina:
+cocina: 
 rango: $$
 facebook: https://www.facebook.com/CAFECAPUCHINOS
-instragam: 
-horariodeservicio: Lunes A Domingo de 7:30 AM A 9:00 PM
+instagram: https://www.instagram.com/cafecapuchinos/
+horariodeservicio: Lunes a Domingo 7:30 a 22:00 PM
 descripcion: Cafe Capuchinos te ofrece venta de cafe, Cappuccino, Latte, Frappuchino, Té, Smoothies y Repostería. Desde 1993.
 ---
