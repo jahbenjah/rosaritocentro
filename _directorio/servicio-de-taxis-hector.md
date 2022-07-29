@@ -16,7 +16,7 @@ cocina:
 rango: $$
 facebook: https://www.facebook.com/taxishector/
 instagram: 
-whatsapp: 661 146 0424
+whatsapp:
 horariodeservicio: 24/7
 descripcion: Dedicados al servicio de transporte
 ---
