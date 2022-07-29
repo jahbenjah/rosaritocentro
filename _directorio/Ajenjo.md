@@ -16,5 +16,5 @@ cocina: mediterranea
 rango: $$
 facebook: https://www.facebook.com/Ajenjococinadeinspiracion
 horariodeservicio: Lunes a Viernes 14:00 a 22:00 Martes Cerrado
-descripcion: La cocina inspirada a ajenjo combina recetas tradicionales mexicanas y francesas con las técnicas de cocina inspiradas en Cordon Bleu de nuestro chef. Venga y disfrute del ambiente rústico de baja elegancia ajenjo. 
+descripcion: La cocina inspirada a ajenjo combina recetas tradicionales mexicanas y francesas con las técnicas de cocina inspiradas en Cordón Bleu de nuestro chef. Venga y disfrute del ambiente rústico de baja elegancia ajenjo.
 ---

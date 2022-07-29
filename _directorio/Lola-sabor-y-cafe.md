@@ -3,7 +3,7 @@ title : Lola Sabor y Café
 layout: negocio
 slogan: Lola es el gusto de compartir una historia con cada taza de café.
 web:
-categoria: Cafeteria
+categoria: Café
 imagenes: ["/assets/img/directorio/lola-cafe.webp"]
 direccion: Abeto 133, Zona Centro, 22710, Rosarito, B.C.
 estado: Baja California
@@ -15,7 +15,7 @@ telefono: 661 612 1080
 cocina:
 rango: $$
 facebook: https://www.facebook.com/LolaSaboryCafe
-instagram: 
+instagram: https://www.instagram.com/lolasaborcafe/
 whatsapp: 
 horariodeservicio: Lunes a Domingo 8:00 AM a 22:00 PM
 descripcion: Lola es el gusto de compartir una historia con cada taza de café. Es sentirse como en casa, acompañado siempre de tus personas favoritas.

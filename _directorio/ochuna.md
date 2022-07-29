@@ -1,7 +1,7 @@
 ---
 title : Ochuna
 layout: negocio
-slogan: comida mediterranea
+slogan: Comida Mediterranea
 web:
 categoria: Restaurante
 imagenes: ["/assets/img/directorio/ochuna-restaurante.webp"]
@@ -15,7 +15,7 @@ telefono: 661 612 0027
 cocina: mediterranea
 rango: $$
 facebook: https://www.facebook.com/OchunaRestaurante
-instagram:
+instagram: https://www.instagram.com/ochunarestaurante/
 whatsapp:
 horariodeservicio: Lunes a Domingo de 1:00 PM a 10:00 PM
 descripcion: Ven a disfrutar de nuestra cocina Mediterránea. En Rosarito desde el 2015. 

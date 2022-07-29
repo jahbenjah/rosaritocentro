@@ -1,7 +1,7 @@
 ---
 title : Oceana Grill And Cafe
 layout: negocio
-slogan: Disfruta de los mejores platillos con nosotros
+slogan: Disfruta de los mejores platillos con nosotros.
 web: http://www.oceanagrillandcafe.mx/
 categoria: Restaurante
 imagenes: ["/assets/img/directorio/oceana-grill.jpeg.webp"]
@@ -15,8 +15,8 @@ telefono: 661 612 5774
 cocina: mexicana
 rango: $$
 facebook: https://www.facebook.com/oceanagrillandcafe
-instagram:
+instagram: https://www.instagram.com/oceanagrillcafe/
 whatsapp:
 horariodeservicio: Lunes a Domingo 8:00 AM a 16:00 PM
-descripcion: Tenemos fusión de cocina mexicana y americana. Ubicado en Oceana Plaza en la hermosa playa de Rosarito. Somos parte de la familia Rosarito Inn
+descripcion: Tenemos fusión de cocina mexicana y americana. Ubicado en Oceana Plaza en la hermosa playa de Rosarito. Somos parte de la familia Rosarito Inn.
 ---

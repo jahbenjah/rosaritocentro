@@ -1,7 +1,7 @@
 ---
 title : Lo Que Sea
 layout: negocio
-slogan:
+slogan: Food Truck
 web: https://loquesearosarito.com/
 categoria: Restaurante
 imagenes: ["/assets/img/directorio/lo-que-sea.jpg.webp"]
@@ -12,11 +12,11 @@ codigo: 22710
 latitude: 32.2564877
 longitude: -116.9682197
 telefono: +526611286663
-cocina:
+cocina: Italiana
 rango: $$
 facebook:  https://www.facebook.com/loquesearosarito/
-instagram: 
+instagram: https://www.instagram.com/loquesea.foodtruck/
 whatsapp: 52 1 661 128 6663
 horariodeservicio: Jueves a Domingo 10:00 AM a 5:00 PM Lunes a Miercoles Cerrado
-descripcion: ¡Lo Que Sea Food Truck Italian Deli Rosarito! Estamos muy felices de ser parte de esta hermosa comunidad, estamos aquí para servir Desayunos, Sándwiches, Bebidas y Postres. Gracias por todo tu apoyo. 
+descripcion: ¡Lo Que Sea Food Truck Italian Deli Rosarito! Estamos muy felices de ser parte de esta hermosa comunidad, estamos aquí para servir Desayunos, Sándwiches, Bebidas y Postres. Gracias por todo tu apoyo.
 ---

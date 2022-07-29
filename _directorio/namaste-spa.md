@@ -1,7 +1,7 @@
 ---
 title : Namaste Spa
 layout: negocio
-slogan:
+slogan: Belleza
 web:
 categoria: Servicios
 imagenes: ["/assets/img/directorio/namaste-spa.jpeg.webp"]
@@ -15,7 +15,7 @@ telefono: 661 100 2123
 cocina:
 rango: $$
 facebook: https://www.facebook.com/Namaste-Spa-230030310372059
-instagram:
+instagram: https://www.instagram.com/namastespa2/
 whatsapp:
 horariodeservicio: Lunes a Domingo 9:00 AM a 19:45 PM
 descripcion: El servicio más profesional en Rosarito con los más altos estándares de limpieza y atención al cliente, brindando servicios de relajación, servicios de belleza y más, permitiendo a nuestros apreciados clientes alcanzar la armonía con el cuerpo.

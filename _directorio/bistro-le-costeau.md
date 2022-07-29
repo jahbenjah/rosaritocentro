@@ -16,5 +16,5 @@ rango: $$
 facebook: https://www.facebook.com/BistroLeCousteau/
 instragam: https://www.instagram.com/BistroLeCousteau/
 horariodeservicio: Martes a Domingo 13:00 PM - 21:00 PM Lunes cerrado
-descripcion: El restaurante cuenta con un amplio menú de comida internacional, básicamente francesa.Todos los días hay especiales con lo más fresco del mar y del mercado.
+descripcion: El restaurante cuenta con un amplio menú de comida internacional, básicamente francesa. Todos los días hay especiales con lo más fresco del mar y del mercado.
 ---

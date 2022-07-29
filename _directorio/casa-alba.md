@@ -2,20 +2,21 @@
 title : Casa Alba
 layout: negocio
 slogan: Moda Mexicana
-web: https://www.facebook.com/casaalbamodamexicana
+web:
 categoria: Moda
-descripcion: Dedicada al diseño, fabricación y venta de ropa con la más alta calidad.
-imagenes: ["/assets/img/portfolio/CASA ALBA (2).jpg"]
+imagenes: ["/assets/img/directorio/casaalba.webp"]
+direccion: Baja California, 22700, Playas de Rosarito 
+estado: Baja California
+municipio: Rosarito
+codigo: 22710
+latitude: 
+longitude: 
+telefono:  661 114 72 72
+cocina:
+rango: $$
+facebook: https://www.facebook.com/casaalbamodamexicana
+instagram: https://www.instagram.com/casaalbamodamexicana/
+whatsapp: 
+horariodeservicio:  661 114 72 72
+descripcion: Casa de Alba es una empresa mexicana dedicada al diseño, fabricación y venta de ropa con la más alta calidad. Nuestros diseños vanguardistas son fabricados según los estándares internacionales en la confección de alta costura.
 ---
-
-**Descripcion:**
-<br>
-Casa de Alba es una empresa Mexicana dedicada al diseño, fabricación y venta de ropa con la más alta calidad. 
-<br>
-Nuestros diseños vanguardistas son fabricados según los estándares internacionales en la confección de alta costura.
-
-**Direccion:** Baja California, 22700, Playas de Rosarito 
-<br>
-
-**Numero Telefonico:** <a href="tel:+526611147272"> 661 114 72 72</a>
-

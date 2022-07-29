@@ -18,5 +18,5 @@ facebook: https://www.facebook.com/marlon.hernandez.585112?ref=br_rs
 instagram:
 whatsapp:
 horariodeservicio: 11:00 Am a 8:00 PM
-descripcion: Comida casera con el sabor original de El Salvador
+descripcion: Comida casera con el sabor original de El Salvador.
 ---

@@ -6,8 +6,8 @@ web: https://privadotv.com/
 categoria: Servicios
 imagenes: ["/assets/img/directorio/privado-tv.webp"]
 direccion:
-estado: Baja California
-municipio: Rosarito
+estado:
+municipio:
 codigo: 22700
 latitude: 
 longitude: 
@@ -16,7 +16,7 @@ cocina:
 rango: $$
 facebook:
 instagram: 
-whatsapp:
+whatsapp: +1 619 777 17 86
 telegram: https://t.me/tvprivado
 twitter: https://twitter.com/tvprivado_prime
 horariodeservicio: Lunes a Domingo 24 hrs

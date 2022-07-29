@@ -1,5 +1,5 @@
 ---
-title : Cafe Pergamino
+title : Café Pergamino
 layout: negocio
 slogan: Dando siempre lo mejor de nosotros.
 web: 
@@ -15,7 +15,7 @@ telefono: 661 145 1332
 cocina: cafeteria
 rango: $$
 facebook: https://www.facebook.com/Caf%C3%A9-Pergamino
-instagram: 
+instagram: https://www.instagram.com/pergaminorosarito/
 whatsapp: 
 horariodeservicio: Lunes a Domingo 8:00 AM - 22:00 PM
 descripcion: Tus mejores momentos acompáñalos con un buen café. 

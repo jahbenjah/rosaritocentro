@@ -1,7 +1,7 @@
 ---
 title: Los Pelicanos Hotel Restaurante
 layout: negocio
-slogan: 
+slogan: Restaurante/Bar
 web:
 categoria: Restaurante
 imagenes: ["/assets/img/directorio/los-pelicanos-restaurante.jpeg.webp"]
@@ -15,8 +15,8 @@ telefono: 661 612 0445
 cocina: italiana
 rango: $$
 facebook: https://www.facebook.com/hotelpelicanos
-instagram:
+instagram: https://www.instagram.com/lospelicanosrosarito/
 whatsapp:
-horariodeservicio: 
+horariodeservicio: Lunes a Jueves 7:00 a 22:00 Viernes a Domingo 7:00 a 23:00
 descripcion: Somos un Hotel-Restaurante totalmente rústico frente al mar, que brinda una experiencia diferente a lo convencional, deseamos hacerte sentir como en casa, la comodidad y el sabor que buscas. 
 ---

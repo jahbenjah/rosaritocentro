@@ -18,7 +18,7 @@ facebook: https://www.facebook.com/acuabajabarymar
 instagram: https://www.instagram.com/acuabajabarymar/
 whatsapp: https://wa.me/5216611122342?text=Hola%20Acuabar
 horariodeservicio: Lunes a Domingo 9:00 AM - 2:00 AM
-descripcion: Restaurante-Bar con excelente ambiente y comida de calidad en restaurantes, a excelentes precios. Abierto las 24 hrs! Desayuno desde $ 50 mxn. Mariscos, ostiones, aperitivos y cervezas artesanales.
+descripcion: Restaurante-Bar con excelente ambiente y comida de calidad en restaurantes, a excelentes precios. ¡Abierto las 24 hrs! Desayuno desde $ 50 mxn. Mariscos, ostiones, aperitivos y cervezas artesanales.
 ---
 
 

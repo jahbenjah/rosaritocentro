@@ -11,12 +11,12 @@ municipio: Rosarito
 codigo: 22710
 latitude: 32.338892
 longitude: -117.055899
-telefono: 661 612 1430
+telefono: 661 612 1431
 cocina: restaurant
 rango: $$
 facebook: https://www.facebook.com/NidoSteakHouse
-instagram: 
+instagram: https://www.instagram.com/elnido.restaurante/
 whatsapp: 
 horariodeservicio: Lunes a Domingo 8:00 PM - 22:00 PM
-descripcion: Restaurante El Nido te ofrece una variedad de platilos de alta calidad, contando un excelente servicio.
+descripcion: Restaurante El Nido te ofrece una variedad de platillos de alta calidad, contando un excelente servicio.
 ---

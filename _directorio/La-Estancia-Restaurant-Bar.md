@@ -1,11 +1,11 @@
 ---
 title : La Estancia Restaurant-Bar
 layout: negocio
-slogan:
+slogan: Comida Mediterranea
 web: http://www.laestancia.mx/platillosenrosarito.html
-categoria: Restaurantes
+categoria: Restaurante
 imagenes: ["/assets/img/directorio/la-estancia-bar.webp"]
-direccion: Avenida Francisco Villa Colonia Obrera Numero 316
+direccion: Avenida Francisco Villa Colonia Obrera Número 316
 estado: Baja California
 municipio: Rosarito
 codigo: 22703
@@ -15,7 +15,7 @@ telefono: 661 613 0695
 cocina: mediterranea
 rango: $$
 facebook: https://www.facebook.com/La-Estancia-Restaurant-Bar
-instagram:
+instagram: https://www.instagram.com/laestanciarosarito/
 whatsapp:
 horariodeservicio: Lunes a Jueves 8:00 AM - 22:00 PM Viernes a Sabado 8:00 - 23:30 Domingo 8:00 - 22:00
 descripcion: La Estancia Restaurant Bar te ofrece el servicio de una diversidad de platillos de alta calidad, al igual que puedes degustar algunos de nuestros platillos en un ambiente tranquilo, acogedor. ¡Visitalos!

@@ -1,7 +1,7 @@
 ---
 title : La K.Trina Antrito Bar
 layout: negocio
-slogan:
+slogan: Tenemos una variedad de bebidas.
 web:
 categoria: Bar
 imagenes: [/assets/img/portfolio/NUEVOS-LOGOS/la-katrina-bar.jpeg]
@@ -15,7 +15,7 @@ telefono: 661 123 8175
 cocina: Bar
 rango: $$
 facebook:  https://www.facebook.com/LaK.trinaAntritoBar
-instagram:
+instagram: https://www.instagram.com/lak.trina/
 whatsapp:
 horario: Domingo a Jueves 5:00 PM a 2:00 AM Viernes a Sabado 10:00 AM a 2:00 AM
 descripcion: La K.Trina Antrito Bar te ofrece el servicio de bar donde puedes convivir con tu pareja, amigos, familia etc. Un lugar acogedor para una excelente convivencia.

@@ -1,8 +1,8 @@
 ---
 title: Popotla Restaurant & Bar
 layout: negocio
-slogan: 
-web:
+slogan: Restaurante/Bar
+web: http://www.popotlarestaurantbar.com/menus/
 categoria: Restaurante
 imagenes: ["/assets/img/directorio/popotla-restaurante.webp"]
 direccion: Carretera libre Tijuana Ensenada Km 34 22710 Rosarito, Península de Baja California, México
@@ -15,8 +15,8 @@ telefono: 661 612 1505
 cocina: mexicana
 rango: $$
 facebook: https://www.facebook.com/popotlarestaurantbar
-instagram:
+instagram: https://www.instagram.com/popotlarestaurantbar/
 whatsapp:
-horariodeservicio: 
+horariodeservicio: Lunes a Domingo 8:00 a 22:00 
 descripcion: El mejor Restaurant de cocina mexicana y de toda la Baja con una espectacular vista al Mar.
 ---

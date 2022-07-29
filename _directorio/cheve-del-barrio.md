@@ -1,7 +1,7 @@
 ---
 title : Cheve del Barrio
 layout: negocio
-slogan: Dsifruta tus mejores momentos en nuestra sucursal
+slogan: Disfruta tus mejores momentos en nuestra sucursal
 web: 
 categoria: Restaurant/Bar
 imagenes: ["/assets/img/directorio/la-cheve-del-barrio.webp"]
@@ -15,7 +15,7 @@ telefono: 661 121 4227
 cocina: Bar
 rango: $$
 facebook: https://www.facebook.com/ChevedelBarrioRosarito
-instagram: 
+instagram: https://www.instagram.com/chevedelbarrio/
 whatsapp: 
 horariodeservicio: Lunes a Domingo 12:00 PM - 3:00 PM
 descripcion: Un hermoso bar/restaurante deportivo con una mini sala de juegos ¡Un lugar para disfrutar de excelentes comidas y bebidas mientras disfruta de un día de juego! 

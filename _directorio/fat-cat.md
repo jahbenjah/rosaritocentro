@@ -15,8 +15,8 @@ telefono: 52 661 104 17 94
 cocina: restaurant
 rango: $$
 facebook: https://www.facebook.com/fatcatrosarito/
-instagram: 
+instagram: https://www.instagram.com/fatcatpancakehouserosarito/
 whatsapp: 
 horariodeservicio: Lunes a Domingo 8:00 PM - 14:00 PM 
-descripcion: Servimos todos sus panqueques favoritos, incluidos los panqueques de manzana, los panqueques alemanes, los panqueques Ghiradelli de triple chocolate y más. También tenemos artículos especiales como The Hungry Man, Biscuits and Gravy, Ommelettes, Gourmet BLT y más
+descripcion: Servimos todos sus panqueques favoritos, incluidos los panqueques de manzana, los panqueques alemanes, los panqueques Ghiradelli de triple chocolate y más. También tenemos artículos especiales como The Hungry Man, Biscuits and Gravy, Ommelettes, Gourmet BLT y más.
 ---

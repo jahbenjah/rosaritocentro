@@ -1,7 +1,7 @@
 ---
 title : Licenciado Jose Manuel Puig
 layout: negocio
-slogan: Auxiliar de sistema judicial del estado de Baja California
+slogan: Auxiliar de sistema judicial del estado de Baja California.
 web:
 categoria: Servicios
 imagenes: ["/assets/img/directorio/jose-manuel.jpeg.webp"]

@@ -17,6 +17,7 @@ descripcion: Cafeteria Familiar
 estado: Baja California
 rango: $$
 facebook: https://www.facebook.com/cafeparatresrosarito
-horariodeservicio: 
-descripcion: Cafe para tres es una cafeteria que te brinda una diversidad de platillos y bebidas, refiriendonos a postres, crepas, pastelillos, expresos, lates etc. ¡Visitalos!
+instagram: https://www.instagram.com/cafeparatresmx/
+horariodeservicio: Lunes a Viernes 8:00 a 21:00 Sabado 9:00 a 21:00 Domingo 14:00 a 21:00
+descripcion: Café para tres es una cafetería que te brinda una diversidad de platillos y bebidas, refiriéndonos a postres, crepas, pastelillos, expresos, lates etc. ¡Visítalos!
 ---
