@@ -16,9 +16,9 @@ cocina:
 rango: $$
 facebook:
 instagram: 
-whatsapp: +1 619 777 17 86
+whatsapp: https://api.whatsapp.com/send?phone=1619777-1786&text=Hola
 telegram: https://t.me/tvprivado
 twitter: https://twitter.com/tvprivado_prime
 horariodeservicio: Lunes a Domingo 24 hrs
-descripcion: Servicio IPTV Latino 
+descripcion: Servicio IPTV Latino que te brinda una variedad de programacion a un accesible precio, !Conocelo!
 ---

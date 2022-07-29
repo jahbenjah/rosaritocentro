@@ -16,7 +16,7 @@ cocina: Italiana
 rango: $$
 facebook:  https://www.facebook.com/loquesearosarito/
 instagram: https://www.instagram.com/loquesea.foodtruck/
-whatsapp: 52 1 661 128 6663
+whatsapp: https://wa.me/+5216611286663?text=I%20would%20like%20to%20get%20a%20coute!
 horariodeservicio: Jueves a Domingo 10:00 AM a 5:00 PM Lunes a Miercoles Cerrado
 descripcion: ¡Lo Que Sea Food Truck Italian Deli Rosarito! Estamos muy felices de ser parte de esta hermosa comunidad, estamos aquí para servir Desayunos, Sándwiches, Bebidas y Postres. Gracias por todo tu apoyo.
 ---
