@@ -1,7 +1,7 @@
 ---
 title: Servicios de Taxis Hector
 layout: negocio
-slogan: Manejamos precios accesibles
+slogan: Brindando un viaje seguro y confiable
 web: 
 categoria: Servicios
 imagenes: ["/assets/img/directorio/taxis-hector.webp"]
@@ -17,6 +17,6 @@ rango: $$
 facebook: https://www.facebook.com/taxishector/
 instagram: 
 whatsapp:
-horariodeservicio: 24/7
-descripcion: Dedicados al servicio de transporte
+horariodeservicio: 24 horas
+descripcion: Dedicados al servicio de transporte, brindando un viaje seguro y confiable.
 ---
