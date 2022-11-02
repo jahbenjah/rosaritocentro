@@ -1,7 +1,7 @@
 ---
 layout: servicios
 title:  Diseño Gráfico
-icon: dribbble
+icon: bx bx-palette
 descripcion: Diseñamos y creamos soluciones graficas para tu empresa. Dale una buena imagen a tus servicios. 
 ---
 

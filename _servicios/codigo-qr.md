@@ -1,7 +1,7 @@
 ---
 layout: servicios
 title:  Código QR
-icon: webcam
+icon: bx bx-qr-scan
 descripcion: Genera tu Código QR, te damos un 20% de descuento ante esta contingencia COVID-19 
 ---
 

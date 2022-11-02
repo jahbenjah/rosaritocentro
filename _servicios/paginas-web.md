@@ -1,7 +1,7 @@
 ---
 layout: servicios
 title:  Desarrollo de Páginas Web 
-icon: dribbble
+icon: bx bx-world
 descripcion: Desarrollamos, diseñamos y posicionamos tu Página Web. Estructuramos tu sitio perfecto
 ---
 <img src="/assets/img/Flayers/web-development-banner.jpg" class="img-fluid" alt="Responsive image">

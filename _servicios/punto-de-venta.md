@@ -1,7 +1,7 @@
 ---
 layout: servicios
 title:  Punto de Venta
-icon: cart
+icon: bx bx-store-alt
 descripcion: Integra tecnologia a tu negocio. Tenemos las herramientas necesarias para desarrollar, facilitar, crecer y popularizar tu negocio
 ---
 

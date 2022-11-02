@@ -1,3 +1,4 @@
+# set JEKYLL_ENV=production | bundle exec jekyll build
 # Site settings
 title: Rosarito Centro
 email: contacto@rosaritocentro.com

@@ -1,7 +1,7 @@
 ---
 layout: servicios
 title: Correo Empresarial  
-icon: dribbble
+icon: bx bx-envelope
 descripcion: Obten tu correo electronico empresarial con nombre de tu dominio. Conoce los beneficios
 ---
 <img src="\assets\img\slide\correo-or.png" class="img-fluid" alt="Responsive image">

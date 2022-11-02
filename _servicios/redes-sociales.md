@@ -1,7 +1,7 @@
 ---
 layout: servicios
 title:  Manejo de redes sociales
-icon: dribbble
+icon: bx bxl-meta
 descripcion: Deja que nosostros nos encagemos de tus redes sociales. Amplia tu red de clientes
 ---
 
