@@ -74,6 +74,27 @@ descripcion: Deja que nosostros nos encagemos de tus redes sociales. Amplia tu r
   </div>      
 </div>      
 
+
+<!-- ======= Clients Section ======= -->
+<section id="clients" class="clients">
+    <div class="container">
+        <div class="section-title">
+            <h3>Clientes</h3>
+            <hr width="10%" color="#6699FF" size="4">
+            <p></p>
+        </div>
+        <div class="owl-carousel clients-carousel">
+            <img loading="lazy" src="/assets/img/rosaritocentro/logos-350x350/tv-privado.jpg" alt=" TV Privado">
+            <img loading="lazy" src="/assets/img/rosaritocentro/logos-350x350/acua.jpg" alt="Acua Baja Bar">
+            <img loading="lazy" src="/assets/img/rosaritocentro/logos-350x350/clean-energy.jpg" alt="Clean Energy">
+            <img loading="lazy" src="/assets/img/rosaritocentro/logos-350x350/el-taller.jpg" alt="El Taller">
+            <img loading="lazy" src="/assets/img/rosaritocentro/logos-350x350/la-querencia.jpg" alt="La Querencia">     
+            <img loading="lazy" src="/assets/img/rosaritocentro/logos-350x350/sunset.jpg" alt="Sunset">
+        </div>
+    </div>
+</section><!-- End Clients Section -->
+
+
 <!--
 **Dejalo con nosotros**
 * Conoce cuáles son las redes sociales con referencia para tu negocio. Crea perfiles empresariales,  genera contenido que impacte en tus clientes y seguidores.  
