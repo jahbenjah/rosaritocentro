@@ -72,11 +72,9 @@ descripcion: Deja que nosostros nos encagemos de tus redes sociales. Amplia tu r
         </div>
     </div>
   </div>      
-</div>      
-
-
+</div>
 <!-- ======= Clients Section ======= -->
-<section id="clients" class="clients">
+<!--section id="clients" class="clients">
     <div class="container">
         <div class="section-title">
             <h3>Clientes</h3>
@@ -92,8 +90,7 @@ descripcion: Deja que nosostros nos encagemos de tus redes sociales. Amplia tu r
             <img loading="lazy" src="/assets/img/rosaritocentro/logos-350x350/sunset.jpg" alt="Sunset">
         </div>
     </div>
-</section><!-- End Clients Section -->
-
+</section--><!-- End Clients Section -->
 
 <!--
 **Dejalo con nosotros**
@@ -104,9 +101,3 @@ descripcion: Deja que nosostros nos encagemos de tus redes sociales. Amplia tu r
 
 **Optimizas procesos**
 * Dedíca el tiempo que merece tu empresa e incremento de ventas, de tus redes sociales  nos encargamos nosotros. -->
-
-
-
-
-​
-
