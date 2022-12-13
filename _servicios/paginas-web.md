@@ -240,23 +240,12 @@ descripcion: Desarrollamos, diseñamos y posicionamos tu Página Web. Estructura
             <p></p>
         </div>
         <div class="owl-carousel clients-carousel">
-            <img loading="lazy" src="/assets/img/clients/delis.jpeg" alt="">
-            <img loading="lazy" src="/assets/img/clients/acua.png" alt="">
-            <img loading="lazy" src="/assets/img/clients/cleanenergy.png" alt="">
-            <img loading="lazy" src="/assets/img/clients/tvprivado.png" alt="">
-            <img loading="lazy" src="/assets/img/clients/sunset.jpeg" alt="">     
-            <img loading="lazy" src="/assets/img/clients/redi.jpeg" alt="">
-            <img loading="lazy" src="/assets/img/clients/querencia.jpg" alt="">
-            <img loading="lazy" src="/assets/img/clients/esperanza.jpg" alt="">
-            <img loading="lazy" src="/assets/img/clients/taller.jpg" alt="">                                                       
-            <img loading="lazy" src="/assets/img/clients/client-1.png" alt="">
-            <img loading="lazy" src="/assets/img/clients/client-2.png" alt="">
-            <img loading="lazy" src="/assets/img/clients/client-3.png" alt="">
-            <img loading="lazy" src="/assets/img/clients/client-4.png" alt="">
-            <img loading="lazy" src="/assets/img/clients/client-5.png" alt="">
-            <img loading="lazy" src="/assets/img/clients/client-6.png" alt="">
-            <img loading="lazy" src="/assets/img/clients/client-7.png" alt="">
-            <img loading="lazy" src="/rassets/img/clients/client-8.png" alt="">
+            <img loading="lazy" src="/assets/img/rosaritocentro/logos-350x350/tv-privado.jpg" alt=" TV Privado">
+            <img loading="lazy" src="/assets/img/rosaritocentro/logos-350x350/acua.jpg" alt="Acua Baja Bar">
+            <img loading="lazy" src="/assets/img/rosaritocentro/logos-350x350/clean-energy.jpg" alt="Clean Energy">
+            <img loading="lazy" src="/assets/img/rosaritocentro/logos-350x350/el-taller.jpg" alt="El Taller">
+            <img loading="lazy" src="/assets/img/rosaritocentro/logos-350x350/la-querencia.jpg" alt="La Querencia">     
+            <img loading="lazy" src="/assets/img/rosaritocentro/logos-350x350/sunset.jpg" alt="Sunset">
         </div>
     </div>
 </section><!-- End Clients Section -->

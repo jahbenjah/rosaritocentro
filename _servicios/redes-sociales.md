@@ -72,7 +72,25 @@ descripcion: Deja que nosostros nos encagemos de tus redes sociales. Amplia tu r
         </div>
     </div>
   </div>      
-</div>      
+</div>
+<!-- ======= Clients Section ======= -->
+<!--section id="clients" class="clients">
+    <div class="container">
+        <div class="section-title">
+            <h3>Clientes</h3>
+            <hr width="10%" color="#6699FF" size="4">
+            <p></p>
+        </div>
+        <div class="owl-carousel clients-carousel">
+            <img loading="lazy" src="/assets/img/rosaritocentro/logos-350x350/tv-privado.jpg" alt=" TV Privado">
+            <img loading="lazy" src="/assets/img/rosaritocentro/logos-350x350/acua.jpg" alt="Acua Baja Bar">
+            <img loading="lazy" src="/assets/img/rosaritocentro/logos-350x350/clean-energy.jpg" alt="Clean Energy">
+            <img loading="lazy" src="/assets/img/rosaritocentro/logos-350x350/el-taller.jpg" alt="El Taller">
+            <img loading="lazy" src="/assets/img/rosaritocentro/logos-350x350/la-querencia.jpg" alt="La Querencia">     
+            <img loading="lazy" src="/assets/img/rosaritocentro/logos-350x350/sunset.jpg" alt="Sunset">
+        </div>
+    </div>
+</section--><!-- End Clients Section -->
 
 <!--
 **Dejalo con nosotros**
@@ -83,9 +101,3 @@ descripcion: Deja que nosostros nos encagemos de tus redes sociales. Amplia tu r
 
 **Optimizas procesos**
 * Dedíca el tiempo que merece tu empresa e incremento de ventas, de tus redes sociales  nos encargamos nosotros. -->
-
-
-
-
-​
-
