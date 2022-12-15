@@ -2,7 +2,7 @@
 layout: servicios
 title:  Código QR
 icon: bx bx-qr-scan
-descripcion: Genera tu Código QR, te damos un 20% de descuento ante esta contingencia COVID-19 
+descripcion: Genera tu Código QR, adaptado a tus necesidades. 
 ---
 
 <img src="/assets/img/Flayers/qr-codes-banner.jpg" class="img-fluid" alt="Responsive image">
@@ -14,7 +14,7 @@ descripcion: Genera tu Código QR, te damos un 20% de descuento ante esta contin
         <p class="font-italic">  
         </p>
         <ul>
-          <li><i class="icofont-check-circled"></i> Un Menú ante esta Contingencia COVID-19.</li>
+          <li><i class="icofont-check-circled"></i> Un Menú flexible ante el cliente.</li>
           <li><i class="icofont-check-circled"></i> Escaneo Digital a la Perfección.</li>
           <li><i class="icofont-check-circled"></i> Diseño a tu estilo.</li>
         </ul>
