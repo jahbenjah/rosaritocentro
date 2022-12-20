@@ -7,7 +7,116 @@ descripcion: Diseñamos y creamos soluciones graficas para tu empresa. Dale una 
 
 <img src="/assets/img/slide/diseño-grafico.jpg" class="img-fluid" alt="Responsive image">
 
-Contamos con soluciones graficas para tu producto, empresa o negocio, branding e identidad,construcción y desarrollo de una marca asi como publicidad de redes sociales .
+<section id="pricing" class="section-bg">
+      <h3 style="text-align:center;">Creado para tu negocio</h3>
+        <hr width="25%" color="#6699FF" size="4">
+      <p style="text-align:center;" class="section-description">Invertir en una buena imagen para tu negocio es fundamental para una buena presentacion ante los clientes. Es la esencia que hace distinguirte de la competencia, es por ello que es tan importante tener tu propio material gráfico.</p>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6 pt-4 pt-lg-0 content">
+        <h3>Diseño Publicitario</h3>
+        <p class="font-italic">  
+        </p>
+        <ul>
+          <li><i class="icofont-check-circled"></i>
+           </li>
+        </ul>
+      </div>
+      <div class="col-lg-6 pt-4 pt-lg-0 content">
+        <h3>Flyers</h3>
+        <p class="font-italic">  
+        </p>
+        <ul>
+          <li><i class="icofont-check-circled"></i> -</li>
+        </ul>
+      </div>
+      <div class="col-lg-6 pt-4 pt-lg-0 content">
+        <h3>Contenido para redes sociales</h3>
+        <p class="font-italic">  
+        </p>
+        <ul>
+          <li><i class="icofont-check-circled"></i> -</li>
+        </ul>
+      </div>
+      <div class="col-lg-6 pt-4 pt-lg-0 content">
+        <h3>Fotografía de producto y retoque</h3>
+        <p class="font-italic">  
+        </p>
+        <ul>
+          <li><i class="icofont-check-circled"></i> -</li>
+        </ul>
+      </div>
+      <div class="col-lg-6 pt-4 pt-lg-0 content">
+        <h3>Editorial</h3>
+        <p class="font-italic">  
+        </p>
+        <ul>
+          <li><i class="icofont-check-circled"></i> -</li>
+        </ul>
+      </div>
+      <div class="col-lg-6 pt-4 pt-lg-0 content">
+        <h3>Folletos</h3>
+        <p class="font-italic">  
+        </p>
+        <ul>
+          <li><i class="icofont-check-circled"></i> -</li>
+        </ul>
+      </div>
+      <div class="col-lg-6 pt-4 pt-lg-0 content">
+        <h3>Infografías</h3>
+        <p class="font-italic">  
+        </p>
+        <ul>
+          <li><i class="icofont-check-circled"></i> -</li>
+        </ul>
+      </div>
+      <div class="col-lg-6 pt-4 pt-lg-0 content">
+        <h3>Branding</h3>
+        <p class="font-italic">  
+        </p>
+        <ul>
+          <li><i class="icofont-check-circled"></i> Visualizacion de la marca y cambio de concepto</li>
+        </ul>
+      </div>
+      <div class="col-lg-6 pt-4 pt-lg-0 content">
+        <h3>Identidad Corporativa</h3>
+        <p class="font-italic">  
+        </p>
+        <ul>
+          <li><i class="icofont-check-circled"></i> Concepto ya predeterminado)</li>
+        </ul>
+      </div>
+      <div class="col-lg-6 pt-4 pt-lg-0 content">
+        <h3>Logotipo, Logo, Emblema</h3>
+        <p class="font-italic">  
+        </p>
+        <ul>
+          <li><i class="icofont-check-circled"></i> -</li>
+        </ul>
+      </div>
+      <div class="col-lg-6 pt-4 pt-lg-0 content">
+        <h3>Papeleria Primaria</h3>
+        <p class="font-italic">  
+        </p>
+        <ul>
+          <li><i class="icofont-check-circled"></i> Tarjeta, Hoja membretada</li>
+        </ul>
+      </div>
+      <div class="col-lg-6 pt-4 pt-lg-0 content">
+        <h3>Papelería Secundaria</h3>
+        <p class="font-italic">  
+        </p>
+        <ul>
+          <li><i class="icofont-check-circled"></i> Factura, recetarios, Menús, Gafetes</li>
+        </ul>
+      </div>
+    </div>
+    
+    
+  </div>
+
+<!--Contamos con soluciones graficas para tu producto, empresa o negocio, branding e identidad,construcción y desarrollo de una marca asi como publicidad de redes sociales .
 
 **Diseño Publicitario** 
 * Flyers 
@@ -22,7 +131,7 @@ Contamos con soluciones graficas para tu producto, empresa o negocio, branding e
 * Papelería primaria
  * (tarjeta, hoja membretado)
 * Papelería secundaria
- * (factura, recetarios, menús, gafetes, etc)
+ * (factura, recetarios, menús, gafetes, etc)-->
 
  <!-- ======= Clients Section ======= -->
 <section id="clients" class="clients">
