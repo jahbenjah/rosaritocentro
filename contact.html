@@ -80,13 +80,16 @@ layout: default
               data-msg="Dejanos tu mensaje" placeholder="Mensaje"></textarea>
             <div class="validate"></div>
           </div>
-          <div class="g-recaptcha" data-sitekey="6Lcb4pkjAAAAABOPoAL_18Vdgzj8Xb-D9IWqjMjl"></div>
+          <!--div class="g-recaptcha" data-sitekey="6Lcb4pkjAAAAABOPoAL_18Vdgzj8Xb-D9IWqjMjl"></div-->
           <div class="mb-3">
             <div class="loading">Cargando</div>
             <div class="error-message"></div>
             <div class="sent-message">Gracias!. Tú mensaje ha sido enviado</div>
           </div>
-          <div class="text-center"><button type="submit">Enviar Mensaje</button></div>
+          <div class="text-center"><button class="g-recaptcha" 
+            data-sitekey="6Lfwi24gAAAAAG7R525-_yDyiqqu8As3fo3IxOKD" 
+            data-callback='onSubmit' 
+            data-action='submit' type="submit">Enviar Mensaje</button></div>
         </form>
       </div>
 

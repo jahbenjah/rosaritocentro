@@ -33,7 +33,7 @@ if(isset($_POST['g-recaptcha-response'])) {
    // RECAPTCHA SETTINGS
    $captcha = $_POST['g-recaptcha-response'];
    $ip = $_SERVER['REMOTE_ADDR'];
-   $key = '6Lcb4pkjAAAAAH5i1iQGTL5FkZQzYEtEmPA2AeKq';
+   $key = '6Lfwi24gAAAAAN_yYd6f2hBlFDZA7AKHfFli3eWt';
    $url = 'https://www.google.com/recaptcha/api/siteverify';
 
    // RECAPTCH RESPONSE
