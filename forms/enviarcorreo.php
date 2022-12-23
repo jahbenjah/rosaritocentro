@@ -32,26 +32,11 @@ require("../assets/vendor/PHPMailer/src/SMTP.php");
  } else {
  echo "OK";
  }
- if($_POST){
-   function getCaptcha($SecretKey){
-       $Response = file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret=".SECRET_KEY."&response={$SecretKey}");
-       $Return = json_decode($Response);
-       return $Return;
-   }
-   $Return = getCaptcha($_POST['g-recaptcha-response']);
-   //var_dump($Return);
-   if($Return->success == true && $Return->score > 0.5){
-       echo "Succes!";
-   }else{
-       echo "You are a Robot!!";
-   }
-}
-
-/*if(isset($_POST['g-recaptcha-response'])) {
+if(isset($_POST['g-recaptcha-response'])) {
    // RECAPTCHA SETTINGS
    $captcha = $_POST['g-recaptcha-response'];
    $ip = $_SERVER['REMOTE_ADDR'];
-   $key = '6Lfwi24gAAAAAN_yYd6f2hBlFDZA7AKHfFli3eWt';
+   $key = '6Lcb4pkjAAAAAH5i1iQGTL5FkZQzYEtEmPA2AeKq';
    $url = 'https://www.google.com/recaptcha/api/siteverify';
 
    // RECAPTCH RESPONSE
@@ -64,5 +49,5 @@ require("../assets/vendor/PHPMailer/src/SMTP.php");
       die('Your account has been logged as a spammer, you cannot continue!');
    }
  }
- */
+
  ?>

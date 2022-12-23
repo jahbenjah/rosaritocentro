@@ -60,19 +60,4 @@
   </script>
 <!-- End GetResponse Analytics -->
 
-<!--script src="https://www.google.com/recaptcha/api.js"></script>
- <script>
-   function onSubmit(token) {
-     document.getElementById("contact-form").submit();
-   }
- </script--> 
-
-<script>
-  grecaptcha.ready(function() {
-  grecaptcha.execute('<?php echo SITE_KEY; ?>', {action: 'homepage'})
-  .then(function(token) {
-      //console.log(token);
-      document.getElementById('g-recaptcha-response').value=token;
-  });
-  });
-  </script>
+<script src="https://www.google.com/recaptcha/api.js"></script>
