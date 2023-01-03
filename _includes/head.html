@@ -6,21 +6,21 @@
 
 <!-- Google Fonts -->
 <link
-    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
-    rel="stylesheet">
+  href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+  rel="stylesheet">
 
 
 <!-- Vendor CSS Files -->
 
-<link href="{{ "/assets/vendor/bootstrap/css/bootstrap.min.css" | absolute_url }}" rel=" stylesheet">
-<link href="{{ "/assets/vendor/icofont/icofont.min.css" | absolute_url  }}" rel="stylesheet">
-<link href="{{ "/assets/vendor/boxicons/css/boxicons.min.css" | absolute_url  }}" rel="stylesheet">
-<link href="{{ "/assets/vendor/animate.css/animate.min.css" | absolute_url  }}" rel="stylesheet">
-<link href="{{ "/assets/vendor/owl.carousel/assets/owl.carousel.min.css" | absolute_url  }}" rel="stylesheet">
-<link href="{{ "/assets/vendor/venobox/venobox.css" | absolute_url  }}" rel="stylesheet">
+<link href="{{ " /assets/vendor/bootstrap/css/bootstrap.min.css" | absolute_url }}" rel=" stylesheet">
+<link href="{{ " /assets/vendor/icofont/icofont.min.css" | absolute_url }}" rel="stylesheet">
+<link href="{{ " /assets/vendor/boxicons/css/boxicons.min.css" | absolute_url }}" rel="stylesheet">
+<link href="{{ " /assets/vendor/animate.css/animate.min.css" | absolute_url }}" rel="stylesheet">
+<link href="{{ " /assets/vendor/owl.carousel/assets/owl.carousel.min.css" | absolute_url }}" rel="stylesheet">
+<link href="{{ " /assets/vendor/venobox/venobox.css" | absolute_url }}" rel="stylesheet">
 
 <!-- Template Main CSS File -->
-<link href="{{ "/assets/css/style.css" | absolute_url  }}" rel="stylesheet">
+<link href="{{ " /assets/css/style.css" | absolute_url }}" rel="stylesheet">
 <link href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css' rel='stylesheet'>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/130527/h5ab-snow-flurry.js"></script>
@@ -29,10 +29,10 @@
 {%- include google-analitycs.html -%}
 {%- endif -%}
 
-<link rel="apple-touch-icon" sizes="180x180" href="{{ "/apple-touch-icon.png" | absolute_url}}">
-<link rel="icon" type="image/png" sizes="32x32" href="{{ "/favicon-32x32.png" | absolute_url}}">
-<link rel="icon" type="image/png" sizes="16x16" href="{{ "/favicon-16x16.png" | absolute_url}}">
-<link rel="manifest" href="{{"/site.webmanifest" | absolute_url }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ " /apple-touch-icon.png" | absolute_url}}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ " /favicon-32x32.png" | absolute_url}}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ " /favicon-16x16.png" | absolute_url}}">
+<link rel="manifest" href="{{" /site.webmanifest" | absolute_url }}">
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
@@ -45,25 +45,146 @@
 <meta name="twitter:creator" content="@CentroRosarito" />
 <meta name="twitter:image" content="https://rosaritocentro.com/assets/img/rosaritocentro/logo_blanco.png" />
 <meta name="twitter:title" content="{{site.title}}" />
-<meta name="twitter:description"
-    content="{{site.description}}" />
+<meta name="twitter:description" content="{{site.description}}" />
 
 <!-- GetResponse Analytics -->
-  <script type="text/javascript">
-      
-  (function(m, o, n, t, e, r, _){
-          m['__GetResponseAnalyticsObject'] = e;m[e] = m[e] || function() {(m[e].q = m[e].q || []).push(arguments)};
-          r = o.createElement(n);_ = o.getElementsByTagName(n)[0];r.async = 1;r.src = t;r.setAttribute('crossorigin', 'use-credentials');_.parentNode .insertBefore(r, _);
-      })(window, document, 'script', 'https://ga.getresponse.com/script/1aa0a411-e639-44de-b85c-b8285d3d2f96/ga.js', 'GrTracking');
+<script type="text/javascript">
+
+  (function (m, o, n, t, e, r, _) {
+    m['__GetResponseAnalyticsObject'] = e; m[e] = m[e] || function () { (m[e].q = m[e].q || []).push(arguments) };
+    r = o.createElement(n); _ = o.getElementsByTagName(n)[0]; r.async = 1; r.src = t; r.setAttribute('crossorigin', 'use-credentials'); _.parentNode.insertBefore(r, _);
+  })(window, document, 'script', 'https://ga.getresponse.com/script/1aa0a411-e639-44de-b85c-b8285d3d2f96/ga.js', 'GrTracking');
 
 
-  </script>
+</script>
 <!-- End GetResponse Analytics -->
 
 <script src="https://www.google.com/recaptcha/api.js"></script>
 
 <script>
-    function onSubmit(token) {
-      document.getElementById("contact-form").submit();
-    }
-  </script>
+  function onSubmit(token) {
+    $('form.php-email-form').submit(function () {
+
+      var f = $(this).find('.form-group'),
+        ferror = false,
+        emailExp = /^[^\s()<>@,;:\/]+@\w[\w\.-]+\.[a-z]{2,}$/i;
+
+      f.children('input').each(function () { // run all inputs
+
+        var i = $(this); // current input
+        var rule = i.attr('data-rule');
+
+        if (rule !== undefined) {
+          var ierror = false; // error flag for current input
+          var pos = rule.indexOf(':', 0);
+          if (pos >= 0) {
+            var exp = rule.substr(pos + 1, rule.length);
+            rule = rule.substr(0, pos);
+          } else {
+            rule = rule.substr(pos + 1, rule.length);
+          }
+
+          switch (rule) {
+            case 'required':
+              if (i.val() === '') {
+                ferror = ierror = true;
+              }
+              break;
+
+            case 'minlen':
+              if (i.val().length < parseInt(exp)) {
+                ferror = ierror = true;
+              }
+              break;
+
+            case 'email':
+              if (!emailExp.test(i.val())) {
+                ferror = ierror = true;
+              }
+              break;
+
+            case 'checked':
+              if (!i.is(':checked')) {
+                ferror = ierror = true;
+              }
+              break;
+
+            case 'regexp':
+              exp = new RegExp(exp);
+              if (!exp.test(i.val())) {
+                ferror = ierror = true;
+              }
+              break;
+          }
+          i.next('.validate').html((ierror ? (i.attr('data-msg') !== undefined ? i.attr('data-msg') : 'wrong Input') : '')).show('blind');
+        }
+      });
+      f.children('textarea').each(function () { // run all inputs
+
+        var i = $(this); // current input
+        var rule = i.attr('data-rule');
+
+        if (rule !== undefined) {
+          var ierror = false; // error flag for current input
+          var pos = rule.indexOf(':', 0);
+          if (pos >= 0) {
+            var exp = rule.substr(pos + 1, rule.length);
+            rule = rule.substr(0, pos);
+          } else {
+            rule = rule.substr(pos + 1, rule.length);
+          }
+
+          switch (rule) {
+            case 'required':
+              if (i.val() === '') {
+                ferror = ierror = true;
+              }
+              break;
+
+            case 'minlen':
+              if (i.val().length < parseInt(exp)) {
+                ferror = ierror = true;
+              }
+              break;
+          }
+          i.next('.validate').html((ierror ? (i.attr('data-msg') != undefined ? i.attr('data-msg') : 'wrong Input') : '')).show('blind');
+        }
+      });
+      if (ferror) return false;
+      else var str = $(this).serialize();
+
+      var this_form = $(this);
+      var action = $(this).attr('action');
+
+      if (!action) {
+        this_form.find('.loading').slideUp();
+        this_form.find('.error-message').slideDown().html('The form action property is not set!');
+        return false;
+      }
+
+      this_form.find('.sent-message').slideUp();
+      this_form.find('.error-message').slideUp();
+      this_form.find('.loading').slideDown();
+
+      var jqxhr = $.ajax({
+        type: "POST",
+        url: action,
+        data: str,
+        crossDomain: true
+      })
+        .done(function () {
+          this_form.find('.loading').slideUp();
+          this_form.find('.sent-message').slideDown();
+          this_form.find("input:not(input[type=submit]), textarea").val('');
+        })
+        .fail(function () {
+          this_form.find('.loading').slideUp();
+          this_form.find('.sent-message').slideDown();
+          this_form.find("input:not(input[type=submit]), textarea").val('');
+          // this_form.find('.loading').slideUp();
+          // this_form.find('.error-message').slideDown().html("Error");
+        });
+      return false;
+    });
+  }
+</script>
