@@ -16,10 +16,10 @@ descripcion: Diseñamos y creamos soluciones graficas para tu empresa. Dale una 
     <div class="row">
       <div class="col-lg-6 pt-4 pt-lg-0 content">
         <h3>Diseño Publicitario</h3>
-        <p class="font-italic">  
+        <p class="font-italic">
         </p>
         <ul>
-          <li><i class="icofont-check-circled"></i>
+          <li><i class="icofont-check-circled"> </i> Creamos contenido visual y gráfico con elementos que transmitam ideas, mensajes, emociones y hasta sensaciones.
            </li>
         </ul>
       </div>
@@ -28,7 +28,7 @@ descripcion: Diseñamos y creamos soluciones graficas para tu empresa. Dale una 
         <p class="font-italic">  
         </p>
         <ul>
-          <li><i class="icofont-check-circled"></i> -</li>
+          <li><i class="icofont-check-circled"></i> Perfecto para transmitir, vender o promocionar un producto, servicio o evento.</li>
         </ul>
       </div>
       <div class="col-lg-6 pt-4 pt-lg-0 content">
@@ -36,31 +36,31 @@ descripcion: Diseñamos y creamos soluciones graficas para tu empresa. Dale una 
         <p class="font-italic">  
         </p>
         <ul>
-          <li><i class="icofont-check-circled"></i> -</li>
-        </ul>
+          <li><i class="icofont-check-circled"></i> Creamos material que atraiga y genere interés en la marca, adaptada a distintas plataformas digitales.</li>
+        </ul> 
       </div>
       <div class="col-lg-6 pt-4 pt-lg-0 content">
         <h3>Fotografía de producto y retoque</h3>
         <p class="font-italic">  
         </p>
         <ul>
-          <li><i class="icofont-check-circled"></i> -</li>
+          <li><i class="icofont-check-circled"></i> Realzamos el interés del producto con composición fotográfica y edición.</li>
         </ul>
       </div>
-      <div class="col-lg-6 pt-4 pt-lg-0 content">
+      <!--div class="col-lg-6 pt-4 pt-lg-0 content">
         <h3>Editorial</h3>
         <p class="font-italic">  
         </p>
         <ul>
           <li><i class="icofont-check-circled"></i> -</li>
         </ul>
-      </div>
+      </div-->
       <div class="col-lg-6 pt-4 pt-lg-0 content">
         <h3>Folletos</h3>
         <p class="font-italic">  
         </p>
         <ul>
-          <li><i class="icofont-check-circled"></i> -</li>
+          <li><i class="icofont-check-circled"></i> Diseñamos tu documento impreso por ambas caras, para difundir información de todo tipo. </li>
         </ul>
       </div>
       <div class="col-lg-6 pt-4 pt-lg-0 content">
@@ -68,7 +68,7 @@ descripcion: Diseñamos y creamos soluciones graficas para tu empresa. Dale una 
         <p class="font-italic">  
         </p>
         <ul>
-          <li><i class="icofont-check-circled"></i> -</li>
+          <li><i class="icofont-check-circled"></i> Destaca información e ideas claves. </li>
         </ul>
       </div>
       <div class="col-lg-6 pt-4 pt-lg-0 content">
@@ -92,7 +92,7 @@ descripcion: Diseñamos y creamos soluciones graficas para tu empresa. Dale una 
         <p class="font-italic">  
         </p>
         <ul>
-          <li><i class="icofont-check-circled"></i> -</li>
+          <li><i class="icofont-check-circled"></i> Creamos el símbolo que será asociado a tu negocio.</li>
         </ul>
       </div>
       <div class="col-lg-6 pt-4 pt-lg-0 content">
