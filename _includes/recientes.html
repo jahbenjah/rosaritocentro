@@ -1,32 +1,12 @@
+<h3 class="sidebar-title">Lo mas reciente</h3>
 <div class="sidebar-item recent-posts">
-    <div class="post-item clearfix">
-        <img loading="lazy" src="assets/img/rosaritocentro/caida-redes.jpg" alt="">
-        <h4><a href="/comunicados/Caida-de-redes-da-la-vuelta-al-mundo">Colapso de redes</a></h4>
-        <time datetime="2021-10-04">Octubre 10, 2021</time>
-    </div>
+    {% for post in site.posts limit 2 %}
 
     <div class="post-item clearfix">
-        <img loading="lazy" src="assets/img/blog/fentinilo.jpg" alt="">
-        <h4><a href="/comunicados/Alerta-para-padres-de-familia-por-fentanilo-en-dulces">Alerta de fentinilo en dulces</a></h4>
-        <time datetime="2020-01-01">Octubre 7, 2022</time>
+        <img loading="lazy" src="{{ post.image }}" alt="{{ post.tittle }}">
+        <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
     </div>
 
-    <div class="post-item clearfix">
-        <img loading="lazy" src="assets/img/rosaritocentro/desventajas.png" alt="">
-        <h4><a href="/comunicados/Desventajas-de-no-contar-con-una-pagina-web">Conoce aqui las desventajas de no contar con una pagina web</a></h4>
-        <time datetime="2021-10-13">Octubre 13, 2021</time>
-    </div>
-
-    <div class="post-item clearfix">
-        <img loading="lazy" src="assets/img/rosaritocentro/video.jpg" alt="">
-        <h4><a href="/comunicados/Descubre-como-los-videos-pueden-darle-un-plus-a-tu-negocio">Dale un plus a tu negocio</a></h4>
-        <time datetime="2021-10-15">Octubre 15, 2021</time>
-    </div>
-
-    <div class="post-item clearfix">
-        <img loading="lazy" src="assets/img/rosaritocentro/fest.jpeg" alt="">
-        <h4><a href="/comunicados/Proximamente-Baja-Fest-en-Rosarito">El gran evento mas esperado en Rosarito</a></h4>
-        <time datetime="2021-12-13">Diciembre 13, 2021</time>
-    </div>
+    {% endfor %}
 
 </div><!-- End sidebar recent posts-->
