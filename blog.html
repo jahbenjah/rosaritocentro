@@ -23,7 +23,7 @@ layout: default
       <div class="col-lg-8 entries">
 
         {% for post in site.posts %}
-        
+
 
         <article class="entry">
 
@@ -40,6 +40,16 @@ layout: default
             <div class="read-more">
               <a href="{{ post.url }}">Leer Más</a>
             </div>
+          </div>
+
+          <div class="entry-meta">
+            <ul>
+              <li class="d-flex align-items-center"><i class="icofont-user"></i> <a href="{{ post.url }}">{{ post.autor }}</a>
+              </li>
+              <li class="d-flex align-items-center"><i class="icofont-wall-clock"></i> <a href="{{ post.url }}"><time
+                    datetime="{{ post.date }}">{{ post.date }}</time></a></li>
+              <li class="d-flex align-items-center"><i class="icofont-comment"></i> <a href="{{ post.url}}">{{ post.categories }}</a></li>
+            </ul>
           </div>
 
         </article><!-- End blog entry -->
@@ -69,6 +79,6 @@ layout: default
       </div><!-- End blog sidebar -->
 
     </div>
-  
+
   </div>
 </section><!-- End Blog Section -->

@@ -2,6 +2,8 @@
 layout: post
 title: "Alerta para padres de familia por fentanilo en dulces"
 image: "/assets/img/blog/fentinilo.jpg"
+date: 2022-10-07 12:15:48 -0700
+autor: Vanessa Alvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---
