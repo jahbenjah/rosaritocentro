@@ -66,7 +66,7 @@ descripcion: Desarrollamos, diseñamos y posicionamos tu Página Web. Estructura
         <div class="box featured wow fadeInUp">
             <h3 style="text-align:center;">Página Web Informativa</h3>
             <hr width="25%" color="#6699FF" size="4">
-            <h5 style="text-align:center;"><sup>$</sup>5,800.00 MXN</h5>
+            <h5 style="text-align:center;"><sup>$</sup>6,800.00 MXN</h5>
             <p style="text-align:center;"><span>&#10003;</span> Página de Inicio</p>
             <p style="text-align:center;"><span>&#10003;</span> Página de Contacto</p>
             <p style="text-align:center;"><span>&#10003;</span> 1 Formulario de Contacto</p>            
@@ -78,8 +78,8 @@ descripcion: Desarrollamos, diseñamos y posicionamos tu Página Web. Estructura
             <p style="text-align:center;"><span>¿Requieres de un plan de administración y mantenimiento constante?</span></p>
             <hr width="25%" color="#6699FF" size="4">
             <h6 style="text-align:center;">Plan Mensual</h6>
-            <h5 style="text-align:center;">$ 1,800 / Mes</h5>
-            <h6 style="text-align:center;">Pago Inicial $4,000.00 MXN</h6>
+            <h5 style="text-align:center;">$ 2,800 / Mes</h5>
+            <h6 style="text-align:center;">Pago Inicial $4,800.00 MXN</h6>
             <h3 style="text-align:center;"><span>&#10003;</span> www.</h3>
         </div>
     </div>  
@@ -87,7 +87,7 @@ descripcion: Desarrollamos, diseñamos y posicionamos tu Página Web. Estructura
         <div class="box featured wow fadeInUp">
             <h3 style="text-align:center;">Página Web Profesional</h3>
             <hr width="25%" color="#6699FF" size="4">
-            <h5 style="text-align:center;"><sup>$</sup>6,800.00 MXN</h5>
+            <h5 style="text-align:center;"><sup>$</sup>7,800.00 MXN</h5>
             <p style="text-align:center;"><span>&#10003;</span> Página de Inicio</p>
             <p style="text-align:center;"><span>&#10003;</span> Página Quienes Somos</p>
             <p style="text-align:center;"><span>&#10003;</span> Página Servicios</p>
@@ -101,8 +101,8 @@ descripcion: Desarrollamos, diseñamos y posicionamos tu Página Web. Estructura
             <p style="text-align:center;"><span>¿Requieres de un plan de administración y mantenimiento constante?</span></p>
             <hr width="25%" color="#6699FF" size="4">
             <h6 style="text-align:center;">Plan Mensual</h6>
-            <h5 style="text-align:center;">$ 2,800 / Mes</h5>
-            <h6 style="text-align:center;">Pago Inicial $4,500.00 MXN</h6>
+            <h5 style="text-align:center;">$ 3,800 / Mes</h5>
+            <h6 style="text-align:center;">Pago Inicial $5,800.00 MXN</h6>
             <h3 style="text-align:center;"><span>&#10003;</span> www.</h3>      
         </div>
     </div>    
@@ -110,7 +110,7 @@ descripcion: Desarrollamos, diseñamos y posicionamos tu Página Web. Estructura
         <div class="box featured wow fadeInUp">
             <h3 style="text-align:center;">Página Web Comercial</h3>
             <hr width="25%" color="#6699FF" size="4">
-            <h5 style="text-align:center;"><sup>$</sup>7,800.00 MXN</h5>
+            <h5 style="text-align:center;"><sup>$</sup>8,800.00 MXN</h5>
             <p style="text-align:center;"><span>&#10003;</span> Tienda en Linea</p>
             <p style="text-align:center;"><span>&#10003;</span> Página de Inicio</p>
             <p style="text-align:center;"><span>&#10003;</span> Página Quienes Somos</p>
@@ -126,8 +126,8 @@ descripcion: Desarrollamos, diseñamos y posicionamos tu Página Web. Estructura
             <p style="text-align:center;"><span>¿Requieres de un plan de administración y mantenimiento constante?</span></p>
             <hr width="25%" color="#6699FF" size="4">
             <h6 style="text-align:center;">Plan Mensual</h6>
-            <h5 style="text-align:center;">$ 3,800 / Mes</h5>
-            <h6 style="text-align:center;">Pago Inicial $6,000.00 MXN</h6>
+            <h5 style="text-align:center;">$ 4,800 / Mes</h5>
+            <h6 style="text-align:center;">Pago Inicial $6,800.00 MXN</h6>
             <h3 style="text-align:center;"><span>&#10003;</span> www.</h3>
         </div>
     </div>
