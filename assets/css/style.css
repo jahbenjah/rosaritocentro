@@ -1310,6 +1310,7 @@ section {
   font-weight: 700;
   margin-bottom: 2px;
   font-size: 18px;
+  color: var(--second-color);
 }
 
 .team .member span {
@@ -1321,7 +1322,7 @@ section {
 .team .member p {
   padding-top: 10px;
   font-size: 14px;
-  font-style: italic;
+  font-style: "Poppins", sans-serif;;
   color: #aaaaaa;
 }
 
