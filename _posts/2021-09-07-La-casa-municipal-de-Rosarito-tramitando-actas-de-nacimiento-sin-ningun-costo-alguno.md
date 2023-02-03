@@ -2,6 +2,8 @@
 layout: post
 title: "La casa municipal de Rosarito tramitando actas de nacimiento sin ningun costo alguno"
 image: "/assets/img/blog/actasrosarito.jpg"
+date: 2021-09-07 15:29 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

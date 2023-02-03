@@ -2,6 +2,8 @@
 layout: post
 title: "Descubre como los videos pueden darle un plus a tu negocio"
 image: "/assets/img/blog/video-digital-or.jpg"
+date: 2021-10-15 14:05 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

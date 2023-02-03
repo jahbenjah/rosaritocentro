@@ -2,6 +2,8 @@
 layout: post
 title:  "Secretaria de Educación"
 image: "/assets/img/blog/sepbc.jpg"
+date: 2020-04-24 16:19 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Educacion]
 ---

@@ -2,6 +2,8 @@
 layout: post
 title: "11 de septiembre, dia en el que cambio el mundo"
 image: "/assets/img/blog/11-sep-dia.jpg"
+date: 2021-09-09 15:27 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

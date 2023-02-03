@@ -2,6 +2,8 @@
 layout: post
 title:  "Joven de 18 años muere al rescatar a su Padre"
 image: "/assets/img/alberto-gruel/DSC_5005.jpg"
+date: 2020-06-14 15:35 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

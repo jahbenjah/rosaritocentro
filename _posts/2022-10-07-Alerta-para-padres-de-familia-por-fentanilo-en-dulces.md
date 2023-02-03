@@ -5,7 +5,7 @@ image: "/assets/img/blog/fentinilo.jpg"
 date: 2022-10-07 12:15:48 -0700
 autor: Vanessa Alvarez
 permalink: /:categories/:title/
-categories: [Comunicados]
+categories: [Salud]
 ---
 
 Conoce el porque los medicos alertan a los padres por contaminacion de fentanilo en dulces.

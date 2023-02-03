@@ -2,6 +2,8 @@
 layout: post
 title: "Las nuevas gafas inteligentes"
 image: "/assets/img/blog/gafas-smart.jpg"
+date: 2021-09-14 14:53 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

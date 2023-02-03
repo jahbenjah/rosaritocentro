@@ -2,6 +2,8 @@
 layout: post
 title: "Proximo evento de Apple"
 image: "/assets/img/blog/evento-apple.jpg"
+date: 2021-10-12 10:00 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

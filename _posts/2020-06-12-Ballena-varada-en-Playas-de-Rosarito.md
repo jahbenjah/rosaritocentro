@@ -2,6 +2,8 @@
 layout: post
 title:  "Ballena Varada en Playas de Rosarito"
 image: "/assets/img/blog/playarosarito.jpg"
+date: 2020-06-12 15:36 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

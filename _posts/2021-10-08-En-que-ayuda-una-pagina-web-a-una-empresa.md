@@ -2,6 +2,8 @@
 layout: post
 title: "¿En que ayuda una pagina web a una empresa?"
 image: "/assets/img/blog/pagina-web-empresa.jpeg"
+date: 2021-10-08 11:03 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

@@ -2,6 +2,8 @@
 layout: post
 title:  "MUJER SENDERISTA ES RESCATADA"
 image: "/assets/img/blog/elic.jpg"
+date: 2020-05-25 16:12 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

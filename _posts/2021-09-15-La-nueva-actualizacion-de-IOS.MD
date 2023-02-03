@@ -2,6 +2,8 @@
 layout: post
 title: "La nueva actualización de IOS"
 image: "/assets/img/blog/ios-15.jpg"
+date: 2021-09-15 14:49 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

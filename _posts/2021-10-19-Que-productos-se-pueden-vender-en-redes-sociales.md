@@ -2,6 +2,8 @@
 layout: post
 title: "Qué productos se pueden vender en redes sociales"
 image: "/assets/img/blog/vender-redes.jpg"
+date: 2021-10-19 13:20 0700
+autor:
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

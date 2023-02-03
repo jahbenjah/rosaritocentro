@@ -2,6 +2,8 @@
 layout: post
 title: "Conoce los diferentes tipos de página web"
 image: "/assets/img/blog/tipos-paginas.jpg"
+date: 2021-10-15 15:10 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

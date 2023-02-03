@@ -2,6 +2,8 @@
 layout: post
 title: "Consecuencias de lo que conlleva usar incorrectamente el modo efimero"
 image: "/assets/img/blog/acosovirtual.jpg"
+date: 2021-09-06 15:31 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

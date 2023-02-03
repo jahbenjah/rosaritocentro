@@ -2,6 +2,8 @@
 layout: post
 title:  "Apoyo económico para micro y pequeñas empresas"
 image: "/assets/img/blog/cropped-logo-8vo-ayuntamiento.jpg"
+date: 2020-06-12 16:10 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

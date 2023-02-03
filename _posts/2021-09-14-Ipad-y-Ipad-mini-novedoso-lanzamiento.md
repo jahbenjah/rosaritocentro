@@ -2,6 +2,8 @@
 layout: post
 title: "Ipad y ipad mini novedoso lanzamiento"
 image: "/assets/img/blog/Ipad-lanzamiento.jpg"
+date: 2021-09-14 15:23 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

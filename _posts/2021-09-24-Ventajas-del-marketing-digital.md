@@ -2,6 +2,8 @@
 layout: post
 title: "Ventajas del marketing digital"
 image: "/assets/img/blog/digital-marketing.jpg"
+date: 2021-09-24 14:48 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

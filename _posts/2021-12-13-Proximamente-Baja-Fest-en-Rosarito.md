@@ -2,8 +2,10 @@
 layout: post
 title: "Proximamente Baja Fest en Rosarito"
 image: "/assets/img/blog/baja-fest-or.png"
+date: 2022-12-13 13:00 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
-categories: [Comunicados]
+categories: [Servicio]
 ---
 
 

@@ -2,6 +2,8 @@
 layout: post
 title: "Fenómeno de iluminacion en el cielo en momentos de sismos"
 image: "/assets/img/blog/luces-terremoto.jpg"
+date: 2021-09-13 15:25 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

@@ -2,6 +2,8 @@
 layout: post
 title: "Trucos que implementó Google para mejor funcionamiento"
 image: "/assets/img/blog/google-trucos.jpg"
+date: 2021-09-27 14:46 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

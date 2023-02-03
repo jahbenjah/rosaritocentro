@@ -2,6 +2,8 @@
 layout: post
 title: "Google integra novedosas funciones de busqueda visual"
 image: "/assets/img/blog/new-funcion-google.jpg"
+date: 2021-09-29 14:45 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

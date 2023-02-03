@@ -2,6 +2,8 @@
 layout: post
 title: "Desventajas de no contar con una página web para tu negocio"
 image: "/assets/img/blog/desventajas-pagina.png"
+date: 2021-10-13 12:45 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

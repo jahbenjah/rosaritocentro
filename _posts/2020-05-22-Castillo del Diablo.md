@@ -2,6 +2,8 @@
 layout: post
 title:  "Castillo del Diablo 🏰 - Museo Gótico en #PlayasdeRosarito"
 image: "/assets/img/blog/museo gotico.jpg"
+date: 2020-05-22 16:12 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

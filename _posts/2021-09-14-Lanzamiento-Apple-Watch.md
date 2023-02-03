@@ -2,6 +2,8 @@
 layout: post
 title: "Lanzamiento Apple Watch"
 image: "/assets/img/blog/apple-watch.jpg"
+date: 2021-09-14 14:54 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

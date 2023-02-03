@@ -2,6 +2,8 @@
 layout: post
 title: "Nuevo lanzamiento Apple"
 image: "/assets/img/blog/iphone-lanzamiento.jpg"
+date: 2021-09-14 14:52 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

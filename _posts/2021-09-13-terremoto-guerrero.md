@@ -2,6 +2,8 @@
 layout: post
 title: "Terremoto sacude a México en el estado de Guerrero"
 image: "/assets/img/blog/terremoto-guerrero.jpg"
+date: 2021-09-13 15:25 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

@@ -2,6 +2,8 @@
 layout: post
 title: "Porqué es importante tener un buen diseño en tu página web"
 image: "/assets/img/blog/diseño-pagina.jpg"
+date: 2021-10-13 10:00 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

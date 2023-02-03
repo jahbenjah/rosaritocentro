@@ -2,6 +2,8 @@
 layout: post
 title:  "Consiente a Mamá"
 image: "/assets/img/blog/Eltallerbajamed.jpg"
+date: 2020-05-10 16:16 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Servicio]
 ---

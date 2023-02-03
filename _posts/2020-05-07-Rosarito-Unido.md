@@ -2,6 +2,8 @@
 layout: post
 title:  "Rosarito Unido"
 image: "/assets/img/alberto-gruel/PanomuelleHRosarito.jpg"
+date: 2020-05-07 16:16 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Servicio]
 ---

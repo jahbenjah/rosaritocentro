@@ -2,6 +2,8 @@
 layout: post
 title: "WhatsApp permite enviar fotos y videos efímeros"
 image: "/assets/img/blog/whatsapp-efimero.jpg"
+date: 2021-09-06 15:30 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

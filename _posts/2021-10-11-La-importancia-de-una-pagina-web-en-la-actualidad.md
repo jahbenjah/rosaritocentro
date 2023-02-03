@@ -2,6 +2,8 @@
 layout: post
 title: "La importancia de una página web en la actualidad"
 image: "/assets/img/blog/importancia-web.jpg"
+date: 2021-10-11 11:50 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

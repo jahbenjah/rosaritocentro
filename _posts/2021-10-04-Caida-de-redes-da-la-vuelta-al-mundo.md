@@ -2,6 +2,8 @@
 layout: post
 title: "Caida de redes da la vuelta al mundo"
 image: "/assets/img/blog/Caida-redes.jpg"
+date: 2021-10-04 15:05 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

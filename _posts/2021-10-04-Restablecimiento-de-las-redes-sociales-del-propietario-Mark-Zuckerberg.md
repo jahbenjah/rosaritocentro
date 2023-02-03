@@ -2,6 +2,8 @@
 layout: post
 title: "Restablecimiento de las redes sociales del propietario Mark Zuckerberg"
 image: "/assets/img/blog/Restablecimiento-redes.jpg"
+date: 2021-10-04 15:00 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

@@ -2,6 +2,8 @@
 layout: post
 title:  "Contaminados los Arrollos del Cañón Rosarito"
 image: "/assets/img/blog/playaaguasnegras.jpg"
+date: 2020-06-06 16:11 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

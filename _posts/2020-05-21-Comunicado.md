@@ -2,6 +2,8 @@
 layout: post
 title:  "Bloquean 5 accesos viales en Playas de Rosarito"
 image: "/assets/img/alberto-gruel/panoramaalbertog.jpg"
+date: 2020-05-21 16:13 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

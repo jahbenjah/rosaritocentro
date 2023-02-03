@@ -2,6 +2,8 @@
 layout: post
 title: "El regreso a clases esta siendo todo un reto, para detener los contagios"
 image: "/assets/img/blog/contagiosescuela.jpeg"
+date: 2021-09-08 15:28 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Educacion]
 ---

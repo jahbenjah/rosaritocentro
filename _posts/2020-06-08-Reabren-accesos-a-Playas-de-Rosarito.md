@@ -2,6 +2,8 @@
 layout: post
 title:  "Reabren accesos a Playas de Rosarito"
 image: "/assets/img/blog/abrenacceso.jpg"
+date: 2020-06-08 16:10 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

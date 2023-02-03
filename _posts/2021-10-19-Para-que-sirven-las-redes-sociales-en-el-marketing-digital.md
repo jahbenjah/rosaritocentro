@@ -2,6 +2,8 @@
 layout: post
 title: "Para qué sirven las redes sociales en el marketing digital"
 image: "/assets/img/blog/red-marketing.jpg"
+date: 2021-10-19 12:30 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

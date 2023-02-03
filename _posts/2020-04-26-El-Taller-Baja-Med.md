@@ -2,6 +2,8 @@
 layout: post
 title:  "El Taller, que platillo traemos para ti?"
 image: "/assets/img/portfolio/EL TALLER.jpg"
+date: 2020-04-26 16:17 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Servicio]
 ---

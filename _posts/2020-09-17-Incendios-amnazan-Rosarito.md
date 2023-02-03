@@ -2,6 +2,8 @@
 layout: post
 title: "El fuego llegó hace varias horas hasta Rosarito por la zona este desde Tijuana."
 image: "/assets/img/blog/incendio.jpg"
+date: 2020-09-17 15:33 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

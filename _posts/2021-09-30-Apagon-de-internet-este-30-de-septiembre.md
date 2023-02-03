@@ -2,6 +2,8 @@
 layout: post
 title: "Apagón de internet este 30 de septiembre"
 image: "/assets/img/blog/apagon-internet.jpg"
+date: 2021-09-30 14:42 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

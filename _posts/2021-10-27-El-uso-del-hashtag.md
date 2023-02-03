@@ -2,6 +2,8 @@
 layout: post
 title: "El uso del hashtag"
 image: "/assets/img/blog/uso-hashtag.png"
+date: 2021-10-27 14:15 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

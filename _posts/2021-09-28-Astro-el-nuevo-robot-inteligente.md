@@ -2,6 +2,8 @@
 layout: post
 title: "Astro el nuevo robot inteligente"
 image: "/assets/img/blog/astro-robot.jpg"
+date: 2021-09-28 14:45 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

@@ -2,6 +2,8 @@
 layout: post
 title: "¿Porqué es tan importante tener una página web para tu negocio?"
 image: "/assets/img/blog/pagina-web-negocio.jpg"
+date: 2021-10-08 11:00 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

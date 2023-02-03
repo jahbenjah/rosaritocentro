@@ -2,6 +2,8 @@
 layout: post
 title: "Aniversario de Google"
 image: "/assets/img/blog/google-celebracion.jpg"
+date: 2021-09-27 14:46 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

@@ -2,6 +2,8 @@
 layout: post
 title: "Skype implementa nuevas mejorías"
 image: "/assets/img/blog/mejora-skype.jpg"
+date: 2021-09-29 14:42 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

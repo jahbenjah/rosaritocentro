@@ -2,6 +2,8 @@
 layout: post
 title:  "Se entregan 19 patrullas de un total de 43 en #Rosarito"
 image: "/assets/img/blog/entregadepatrullas.jpg"
+date: 2020-05-29 16:11 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

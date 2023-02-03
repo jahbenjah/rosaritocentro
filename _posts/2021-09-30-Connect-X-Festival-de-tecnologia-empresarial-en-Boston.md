@@ -2,6 +2,8 @@
 layout: post
 title: "Connect X Festival de tecnología empresarial en Boston"
 image: "/assets/img/blog/festival-tecnologia.jpg"
+date: 2021-09-30 14:40 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

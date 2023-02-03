@@ -2,6 +2,8 @@
 layout: post
 title:  "Pista de Atletismo abre sus puertas"
 image: "/assets/img/blog/Imder.jpg"
+date: 2020-06-12 15:35 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

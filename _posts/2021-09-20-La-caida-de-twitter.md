@@ -2,6 +2,8 @@
 layout: post
 title: "La caída de twitter"
 image: "/assets/img/blog/caida-twitter.jpg"
+date: 2021-09-20 14:48 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

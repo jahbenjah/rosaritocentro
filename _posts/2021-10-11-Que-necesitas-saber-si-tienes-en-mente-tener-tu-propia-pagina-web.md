@@ -2,6 +2,8 @@
 layout: post
 title: "Qué necesitas saber si tienes en mente tener tu propia página web"
 image: "/assets/img/blog/sitio-we-saber.jpg"
+date: 2021-10-11 10:43 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

@@ -2,6 +2,8 @@
 layout: post
 title: "Victimas del robo cibernético de criptomonedas"
 image: "/assets/img/blog/robo-criptomonedas.jpg"
+date: 2021-09-09 15:26 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---

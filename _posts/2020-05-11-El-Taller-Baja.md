@@ -2,6 +2,8 @@
 layout: post
 title:  "Dinámica día de las madres con El Taller"
 image: "/assets/img/blog/eltallerbaja.jpg"
+date: 2020-05-11 16:14 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Servicio]
 ---

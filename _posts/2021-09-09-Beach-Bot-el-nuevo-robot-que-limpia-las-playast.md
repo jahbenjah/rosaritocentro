@@ -2,8 +2,10 @@
 layout: post
 title: "Beach Bot el nuevo robot que limpia las playas"
 image: "/assets/img/blog/robotbeach.jpg"
+date: 2021-09-09 15:26 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
-categories: [Comunicados]
+categories: [Servicio]
 ---
 
 ¿Qué hace este nuevo robot?

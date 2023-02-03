@@ -2,6 +2,8 @@
 layout: post
 title:  "Taxistas de Rosarito"
 image: "/assets/img/blog/ctm.jpg"
+date: 2020-04-25 16:17 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Salud]
 ---

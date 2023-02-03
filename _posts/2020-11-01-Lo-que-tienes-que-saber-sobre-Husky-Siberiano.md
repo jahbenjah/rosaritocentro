@@ -2,6 +2,8 @@
 layout: post
 title: "Lo que tienes que saber sobre Husky Siberiano"
 image: "/assets/img/blog/lunna.jpg"
+date: 2020-11-01 15:32 0700
+autor: Vanessa Álvarez
 permalink: /:categories/:title/
 categories: [Comunicados]
 ---
