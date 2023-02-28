@@ -1,8 +1,5 @@
 <?php
 
-define('SITE_KEY', '6Lfwi24gAAAAAG7R525-_yDyiqqu8As3fo3IxOKD');
-define('SECRET_KEY', '6Lfwi24gAAAAAN_yYd6f2hBlFDZA7AKHfFli3eWt');
-
 require("../assets/vendor/PHPMailer/src/PHPMailer.php");
 require("../assets/vendor/PHPMailer/src/SMTP.php");
 
@@ -32,13 +29,17 @@ require("../assets/vendor/PHPMailer/src/SMTP.php");
  } else {
  echo "OK";
  }
+
    // Validate reCAPTCH Response
-if(isset($_POST['g-recaptcha-response'])) {
+/*if(isset($_POST['g-recaptcha-response'])) {
    // RECAPTCHA SETTINGS
    $captcha = $_POST['g-recaptcha-response'];
    $ip = $_SERVER['REMOTE_ADDR'];
    $key = '6Lfwi24gAAAAAN_yYd6f2hBlFDZA7AKHfFli3eWt';
    $url = 'https://www.google.com/recaptcha/api/siteverify';
+
+   define('SITE_KEY', '6Lfwi24gAAAAAG7R525-_yDyiqqu8As3fo3IxOKD');
+   define('SECRET_KEY', '6Lfwi24gAAAAAN_yYd6f2hBlFDZA7AKHfFli3eWt');
 
    // RECAPTCH RESPONSE
    $recaptcha_response = file_get_contents($url.'?secret='.$key.'&response='.$captcha.'&remoteip='.$ip);
@@ -50,5 +51,5 @@ if(isset($_POST['g-recaptcha-response'])) {
       die('Your account has been logged as a spammer, you cannot continue!');
    }
  }
-
+*/
  ?>
