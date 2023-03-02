@@ -1,8 +1,8 @@
-function onClick(e) {
-  e.preventDefault();
-  grecaptcha.ready(function () {
-    grecaptcha.execute('6Lfwi24gAAAAAG7R525-_yDyiqqu8As3fo3IxOKD', { action: 'submit' }).then(function (token) {
-      // Add your logic to submit to your backend server here.
+jQuery(document).ready(function ($) {
+  "use strict";
+
+  //Contact
+  $('form.php-email-form').submit(function () {
 
       var f = $(this).find('.form-group'),
         ferror = false,
