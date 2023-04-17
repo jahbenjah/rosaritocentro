@@ -56,7 +56,7 @@ descripcion: Deja que nosostros nos encagemos de tus redes sociales. Amplia tu r
             <p style="text-align:center;"><span>&#10003;</span> Gestión mensual en Facebook + Instagram + Campañas publicitarias (3 días por semana)</p>
             <hr width="25%" color="#6699FF" size="4">
             <h6 style="text-align:center;">Plan Mensual</h6>
-            <h5 style="text-align:center;">$ 4,800 MXN (+8% IVA)</h5>
+            <h5 style="text-align:center;">$ 4,800 MXN (+16% IVA)</h5>
         </div>
     </div>  
     <div class="col-lg-4">
@@ -68,7 +68,7 @@ descripcion: Deja que nosostros nos encagemos de tus redes sociales. Amplia tu r
             <p style="text-align:center;"><span>&#10003;</span> Gestión mensual en Facebook + Instagram + Campañas publicitarias (5 días por semana)</p>
             <hr width="25%" color="#6699FF" size="4">
             <h6 style="text-align:center;">Plan Mensual</h6>
-            <h5 style="text-align:center;">$ 6,000 MXN (+8% IVA)</h5>     
+            <h5 style="text-align:center;">$ 6,000 MXN (+16% IVA)</h5>     
         </div>
     </div>
   </div>      
