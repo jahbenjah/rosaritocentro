@@ -56,3 +56,18 @@
 
 <!-- Template Main JS File -->
 <script src="{{ "/assets/js/main.js" | absolute_url }}"></script>
+
+<script>
+  $('#contact-form').submit(function(event) {
+      event.preventDefault();
+      var email = $('#email').val();
+
+      grecaptcha.ready(function() {
+          grecaptcha.execute('6Lfwi24gAAAAAG7R525-_yDyiqqu8As3fo3IxOKD', {action: 'sendemail'}).then(function(token) {
+              $('#contact-form').prepend('<input type="hidden" name="token" value="' + token + '">');
+              $('#contact-form').prepend('<input type="hidden" name="action" value="sendemail">');
+              //$('#contact-form').unbind('submit').submit();
+          });;
+      });
+});
+</script>
