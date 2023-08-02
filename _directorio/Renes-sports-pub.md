@@ -18,5 +18,5 @@ facebook: https://www.facebook.com/Renes-Sports-Pub-2268523413431000
 instagram: https://www.instagram.com/renes_sports_pub/
 whatsapp:
 horariodeservicio: Lunes, Martes, Jueves, Domingo 13:00 a 20:30 Viernes a Sabado 13:00 a 21:30 Miercoles Cerrado
-descripcion: Comida casera con el sabor original de El Salvador
+descripcion: Comida casera con el sabor original de El Salvador.
 ---
