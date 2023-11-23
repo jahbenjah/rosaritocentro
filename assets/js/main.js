@@ -252,50 +252,50 @@ function createCookie(name, value, days) {
 $(document).ready(function () {
   $('#submit').click(function () {
     createCookie("humans_21909", "1", 1);
-    var name = $('input[name=name]');
-    var email = $('input[name=email]');
-    var regx = /^([a-z0-9_\-\.])+\@([a-z0-9_\-\.])+\.([a-z]{2,4})$/i;
-    var subject = $('input[name=subject]');
-    var message = $('input[name=message]');
+  });
 
-    var nameError = validateField(name);
-    var emailError = validateField(email, regx);
-    var subjectError = validateField(subject)
-    var messageError = validateField(message);
+  var name = $('input[name=name]');
+  var email = $('input[name=email]');
+  var regx = /^([a-z0-9_\-\.])+\@([a-z0-9_\-\.])+\.([a-z]{2,4})$/i;
+  var subject = $('input[name=subject]');
+  var message = $('input[name=message]');
 
-    if (nameError || emailError || subjectError || messageError) {
-      return false;
-    }
+  var nameError = validateField(name);
+  var emailError = validateField(email, regx);
+  var subjectError = validateField(subject)
+  var messageError = validateField(message);
 
-    grecaptcha.ready(function () {
-      grecaptcha.execute('6Lfwi24gAAAAAG7R525-_yDyiqqu8As3fo3IxOKD', { action: 'enviarcorreo' }).then(function (token) {
-        var data = 'name=' + name.val() + '&email=' + email.val() + '&subject=' + subject.val() + '&message=' + encodeURIComponent(message.val()) + '&token=' + token;
-        $.ajax({
-          url: "enviarcorreo.php",
-          type: "POST",
-          xhrFields: {
-            withCredentials: true
-          },
-          data: data,
-          cache: false,
-          success: function (msg) {
-            console.log('success')
-            // $('#overlay').text('Gracias, recibimos tu mensaje');
-            // setTimeout(function () {
-            //   clearForm();
-            //   overlay.style.display = 'none';
-            // }, 1000);
-          },
-          error: function (error) {
-            console.log('error')
-            // $('#overlay').text('Lo sentimos, ocurrió un error :(');
-            // setTimeout(function () {
-            //   overlay.style.display = 'none';
-            // }, 1000);
-          }
-        });
+  if (nameError || emailError || subjectError || messageError) {
+    return false;
+  }
+
+  grecaptcha.ready(function () {
+    grecaptcha.execute('6Lfwi24gAAAAAG7R525-_yDyiqqu8As3fo3IxOKD', { action: 'enviarcorreo' }).then(function (token) {
+      var data = 'name=' + name.val() + '&email=' + email.val() + '&subject=' + subject.val() + '&message=' + encodeURIComponent(message.val()) + '&token=' + token;
+      $.ajax({
+        url: "enviarcorreo.php",
+        type: "POST",
+        xhrFields: {
+          withCredentials: true
+        },
+        data: data,
+        cache: false,
+        success: function (msg) {
+          console.log('success')
+          // $('#overlay').text('Gracias, recibimos tu mensaje');
+          // setTimeout(function () {
+          //   clearForm();
+          //   overlay.style.display = 'none';
+          // }, 1000);
+        },
+        error: function (error) {
+          console.log('error')
+          // $('#overlay').text('Lo sentimos, ocurrió un error :(');
+          // setTimeout(function () {
+          //   overlay.style.display = 'none';
+          // }, 1000);
+        }
       });
     });
-    return false;
   });
 });
