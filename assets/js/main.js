@@ -4,11 +4,11 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
-!(function ($) {
+!(function($) {
   "use strict";
 
   // Smooth scroll for the navigation menu and links with .scrollto classes
-  $(document).on('click', '.nav-menu a, .mobile-nav a, .scrollto', function (e) {
+  $(document).on('click', '.nav-menu a, .mobile-nav a, .scrollto', function(e) {
     if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
       e.preventDefault();
       var target = $(this.hash);
@@ -57,19 +57,19 @@
     $('body').prepend('<button type="button" class="mobile-nav-toggle d-lg-none"><i class="icofont-navigation-menu"></i></button>');
     $('body').append('<div class="mobile-nav-overly"></div>');
 
-    $(document).on('click', '.mobile-nav-toggle', function (e) {
+    $(document).on('click', '.mobile-nav-toggle', function(e) {
       $('body').toggleClass('mobile-nav-active');
       $('.mobile-nav-toggle i').toggleClass('icofont-navigation-menu icofont-close');
       $('.mobile-nav-overly').toggle();
     });
 
-    $(document).on('click', '.mobile-nav .drop-down > a', function (e) {
+    $(document).on('click', '.mobile-nav .drop-down > a', function(e) {
       e.preventDefault();
       $(this).next().slideToggle(300);
       $(this).parent().toggleClass('active');
     });
 
-    $(document).click(function (e) {
+    $(document).click(function(e) {
       var container = $(".mobile-nav, .mobile-nav-toggle");
       if (!container.is(e.target) && container.has(e.target).length === 0) {
         if ($('body').hasClass('mobile-nav-active')) {
@@ -99,21 +99,21 @@
   // Intro carousel
   var heroCarousel = $("#heroCarousel");
   var heroCarouselIndicators = $("#hero-carousel-indicators");
-  heroCarousel.find(".carousel-inner").children(".carousel-item").each(function (index) {
+  heroCarousel.find(".carousel-inner").children(".carousel-item").each(function(index) {
     (index === 0) ?
-      heroCarouselIndicators.append("<li data-target='#heroCarousel' data-slide-to='" + index + "' class='active'></li>") :
+    heroCarouselIndicators.append("<li data-target='#heroCarousel' data-slide-to='" + index + "' class='active'></li>"):
       heroCarouselIndicators.append("<li data-target='#heroCarousel' data-slide-to='" + index + "'></li>");
 
   });
 
-  heroCarousel.on('slid.bs.carousel', function (e) {
+  heroCarousel.on('slid.bs.carousel', function(e) {
     $(this).find('h2').addClass('animated fadeInDown');
     $(this).find('p').addClass('animated fadeInUp');
     $(this).find('.btn-get-started').addClass('animated fadeInUp');
   });
 
   // Back to top button
-  $(window).scroll(function () {
+  $(window).scroll(function() {
     if ($(this).scrollTop() > 100) {
       $('.back-to-top').fadeIn('slow');
     } else {
@@ -121,7 +121,7 @@
     }
   });
 
-  $('.back-to-top').click(function () {
+  $('.back-to-top').click(function() {
     $('html, body').animate({
       scrollTop: 0
     }, 1500, 'easeInOutExpo');
@@ -153,8 +153,8 @@
   });
 
   // Skills section
-  $('.skills-content').waypoint(function () {
-    $('.progress .progress-bar').each(function () {
+  $('.skills-content').waypoint(function() {
+    $('.progress .progress-bar').each(function() {
       $(this).css("width", $(this).attr("aria-valuenow") + '%');
     });
   }, {
@@ -162,13 +162,13 @@
   });
 
   // Porfolio isotope and filter
-  $(window).on('load', function () {
+  $(window).on('load', function() {
     var portfolioIsotope = $('.portfolio-container').isotope({
       itemSelector: '.portfolio-item',
       layoutMode: 'fitRows'
     });
 
-    $('#portfolio-flters li').on('click', function () {
+    $('#portfolio-flters li').on('click', function() {
       $("#portfolio-flters li").removeClass('filter-active');
       $(this).addClass('filter-active');
 
@@ -178,7 +178,7 @@
     });
 
     // Initiate venobox (lightbox feature used in portofilo)
-    $(document).ready(function () {
+    $(document).ready(function() {
       $('.venobox').venobox();
     });
   });
@@ -215,87 +215,3 @@
   })();
 
 })(jQuery);
-
-function validateField(field, regex) {
-  var value = field.val().trim();
-
-  if (value === '') {
-    field.addClass('error');
-    return true;
-  } else {
-    field.removeClass('error');
-  }
-
-  // Si hay una expresión regular y el valor no coincide, marca como error
-  if (regex && !regex.test(value)) {
-    field.addClass('error');
-    return true;
-  } else {
-    field.removeClass('error');
-  }
-
-  return false;
-}
-
-function createCookie(name, value, days) {
-  var expires = "";
-
-  if (days) {
-    var date = new Date();
-    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
-    expires = "; expires=" + date.toUTCString();
-  }
-
-  document.cookie = name + "=" + value + expires + "; path=/";
-}
-
-$(document).ready(function () {
-  $('#submit').click(function () {
-    createCookie("humans_21909", "1", 1);
-  });
-
-  var name = $('input[name=name]');
-  var email = $('input[name=email]');
-  var regx = /^([a-z0-9_\-\.])+\@([a-z0-9_\-\.])+\.([a-z]{2,4})$/i;
-  var subject = $('input[name=subject]');
-  var message = $('input[name=message]');
-
-  var nameError = validateField(name);
-  var emailError = validateField(email, regx);
-  var subjectError = validateField(subject)
-  var messageError = validateField(message);
-
-  if (nameError || emailError || subjectError || messageError) {
-    return false;
-  }
-
-  grecaptcha.ready(function () {
-    grecaptcha.execute('6Lfwi24gAAAAAG7R525-_yDyiqqu8As3fo3IxOKD', { action: 'enviarcorreo' }).then(function (token) {
-      var data = 'name=' + name.val() + '&email=' + email.val() + '&subject=' + subject.val() + '&message=' + encodeURIComponent(message.val()) + '&token=' + token;
-      $.ajax({
-        url: "enviarcorreo.php",
-        type: "POST",
-        xhrFields: {
-          withCredentials: true
-        },
-        data: data,
-        cache: false,
-        success: function (msg) {
-          console.log('success')
-          // $('#overlay').text('Gracias, recibimos tu mensaje');
-          // setTimeout(function () {
-          //   clearForm();
-          //   overlay.style.display = 'none';
-          // }, 1000);
-        },
-        error: function (error) {
-          console.log('error')
-          // $('#overlay').text('Lo sentimos, ocurrió un error :(');
-          // setTimeout(function () {
-          //   overlay.style.display = 'none';
-          // }, 1000);
-        }
-      });
-    });
-  });
-});
