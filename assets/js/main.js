@@ -251,6 +251,7 @@ function createCookie(name, value, days) {
 
 $(document).ready(function () {
   $('#submit').click(function () {
+    console.log('webos')
     createCookie("humans_21909", "1", 1);
     var name = $('input[name=name]');
     var email = $('input[name=email]');
@@ -271,7 +272,7 @@ $(document).ready(function () {
       grecaptcha.execute('6Lfwi24gAAAAAG7R525-_yDyiqqu8As3fo3IxOKD', { action: 'enviarcorreo' }).then(function (token) {
         var data = 'name=' + name.val() + '&email=' + email.val() + '&subject=' + subject.val() + '&message=' + encodeURIComponent(message.val()) + '&token=' + token;
         $.ajax({
-          url: "enviarcorreo.php",
+          url: "/forms/enviarcorreo.php",
           type: "POST",
           xhrFields: {
             withCredentials: true
@@ -279,7 +280,8 @@ $(document).ready(function () {
           data: data,
           cache: false,
           success: function (msg) {
-            console.log('success')
+            console.log('success');
+            clearForm();
             // $('#overlay').text('Gracias, recibimos tu mensaje');
             // setTimeout(function () {
             //   clearForm();
@@ -299,3 +301,10 @@ $(document).ready(function () {
     return false;
   });
 });
+
+function clearForm() {
+  $('input[name=name]').val('');
+  $('input[name=email]').val('');
+  $('input[name=subject]').val('');
+  $('textarea[name=message]').val('');
+}
