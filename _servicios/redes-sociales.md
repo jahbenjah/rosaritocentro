@@ -102,6 +102,12 @@ descripcion: Deja que nosostros nos encagemos de tus redes sociales. Amplia tu r
     </div>
   </div>      
 </div>
+<div style="
+    text-align: end;
+    border-bottom-width: 20px;
+    margin-bottom: 10px;">
+    <small>[1] Los precios no incluyen IVA</small>
+</div>
 <!-- ======= Clients Section ======= -->
 <!--section id="clients" class="clients">
     <div class="container">

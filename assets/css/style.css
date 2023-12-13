@@ -1282,7 +1282,7 @@ section {
 }
 
 #pricing .featured {
-  border: 2px solid #fc0e86;
+  /* border: 2px solid #fc0e86; */
 }
 
 #pricing .featured .get-started-btn {

@@ -32,73 +32,73 @@ descripcion: Servicios de fotografía y video. Capturamos la esencia de tu produ
     </div>
     
   </div>
-
-<div class="container">
-
-  <!-- <div class="section-header">
-      <h3 style="text-align:center;">Paquete Fotografía</h3>
-        <hr width="25%" color="#6699FF" size="4">
-      <p style="text-align:center;" class="section-description"></p>
-  </div> -->
-</div>
-<div class="container">
-  <div class="row">
-    <div class="col-lg-6">
-        <div class="box featured wow fadeInUp">
-            <h3 style="text-align:center;">Fotografía Comercial de Productos*</h3>
-            <hr width="25%" color="#6699FF" size="4">
-            <h5 style="text-align:center;">$3,500.00<sup><small style="font-size: 10px;">[1]</small></sup> MXN</h5>
-            <p style="text-align:center;"><span>&#9782;</span> Fotografía acorde a tus necesidades.</p>
-            <p style="text-align:center;"><span>&#9782;</span> Entrega digital en alta resolución.</p>
-            <p style="text-align:center;"><span>&#9782;</span> Estudio profesional.</p>
-            <p style="text-align:center;"><span>&#9782;</span> Edición incluida</p>
-            <hr width="25%" color="#6699FF" size="4">
-            <small>*Es necesario que el cliente haga entrega y recepción de los productos</small>
-        </div>
+  <div class="container">
+    <!-- <div class="section-header">
+        <h3 style="text-align:center;">Paquete Fotografía</h3>
+          <hr width="25%" color="#6699FF" size="4">
+        <p style="text-align:center;" class="section-description"></p>
+    </div> -->
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6 mb-3">
+          <div class="box featured wow fadeInUp h-100 d-flex flex-column justify-content-center">
+              <h3 style="text-align:center;">Fotografía Comercial de Productos*</h3>
+              <hr width="25%" color="#6699FF" size="4">
+              <h5 style="text-align:center;">$4,500.00<sup><small style="font-size: 10px;">[1]</small></sup> MXN</h5>
+              <p style="text-align:center;"><span>&#9782;</span> Fotografía acorde a tus necesidades.</p>
+              <p style="text-align:center;"><span>&#9782;</span> Entrega digital en alta resolución.</p>
+              <p style="text-align:center;"><span>&#9782;</span> Estudio profesional.</p>
+              <p style="text-align:center;"><span>&#9782;</span> Edición incluida</p>
+              <hr width="25%" color="#6699FF" size="4">
+              <small>*Es necesario que el cliente haga entrega y recepción de los productos</small>
+          </div>
+      </div>  
+      <div class="col-lg-6 mb-3">
+          <div class="box featured wow fadeInUp h-100 d-flex flex-column justify-content-center">
+              <h3 style="text-align:center;">Cobertura en Eventos</h3>
+              <hr width="25%" color="#6699FF" size="4">
+              <h5 style="text-align:center;">$8,800.00<sup><small style="font-size: 10px;">[1]</small></sup> MXN</h5>
+              <p style="text-align:center;"><span>&#9782;</span>Hasta 30 min de contenido audiovisual</p>
+              <p style="text-align:center;"><span>&#9782;</span>Camara de alta resolucion</p>
+              <p style="text-align:center;"><span>&#9782;</span>Edición incluida</p>
+              <p style="text-align:center;"><span>&#9782;</span>Entrega Digital</p>
+              <hr width="25%" color="#6699FF" size="4">
+          </div>
+      </div>    
     </div>  
-    <div class="col-lg-6">
-        <div class="box featured wow fadeInUp">
-            <h3 style="text-align:center;">Cobertura en Eventos</h3>
-            <hr width="25%" color="#6699FF" size="4">
-            <h5 style="text-align:center;">$7,800.00<sup><small style="font-size: 10px;">[1]</small></sup> MXN</h5>
-            <p style="text-align:center;"><span>&#9782;</span>Hasta 30 min de contenido audiovisual</p>
-            <p style="text-align:center;"><span>&#9782;</span>Camara de alta resolucion</p>
-            <p style="text-align:center;"><span>&#9782;</span>Edición incluida</p>
-            <p style="text-align:center;"><span>&#9782;</span>Entrega Digital</p>
-            <hr width="25%" color="#6699FF" size="4">
-        </div>
-    </div>    
-  </div>  
-  <div class="row">
-    <div class="col-lg-6">
-        <div class="box featured wow fadeInUp">
-            <h3 style="text-align:center;">Fotografía y Video Aéreo</h3>
-            <hr width="25%" color="#6699FF" size="4">
-            <h5 style="text-align:center;">$3,500.00<sup><small style="font-size: 10px;">[1]</small></sup> MXN</h5>
-            <p style="text-align:center;"><span>&#9782;</span>Videos con alta nitidez en 2.7K</p>
-            <p style="text-align:center;"><span>&#9782;</span>Hasta 30 min de video</p>
-            <p style="text-align:center;"><span>&#9782;</span>Edición incluida</p>
-            <hr width="25%" color="#6699FF" size="4">
-        </div>
-    </div>
-    <div class="col-lg-6">
-        <div class="box featured wow fadeInUp">
-            <h3 style="text-align:center;">Videografía</h3>
-            <hr width="25%" color="#6699FF" size="4">
-            <h5 style="text-align:center;">$7,500.00<sup><small style="font-size: 10px;">[1]</small></sup> MXN</h5>
-            <p style="text-align:center;"><span>&#9782;</span>Hasta 30 min de contenido audiovisual</p>
-            <p style="text-align:center;"><span>&#9782;</span>Edición incluida</p>
-            <hr width="25%" color="#6699FF" size="4">
-        </div>
+    <div class="row">
+      <div class="col-lg-6 mb-3">
+          <div class="box featured wow fadeInUp h-100 d-flex flex-column justify-content-center">
+              <h3 style="text-align:center;">Fotografía y Video Aéreo</h3>
+              <hr width="25%" color="#6699FF" size="4">
+              <h5 style="text-align:center;">$3,500.00<sup><small style="font-size: 10px;">[1]</small></sup> MXN</h5>
+              <p style="text-align:center;"><span>&#9782;</span>Videos en 4K</p>
+              <p style="text-align:center;"><span>&#9782;</span>Hasta 30 min de video</p>
+              <p style="text-align:center;"><span>&#9782;</span>Edición incluida</p>
+              <hr width="25%" color="#6699FF" size="4">
+          </div>
+      </div>
+      <div class="col-lg-6 mb-3">
+          <div class="box featured wow fadeInUp h-100 d-flex flex-column justify-content-center">
+              <h3 style="text-align:center;">Videografía</h3>
+              <hr width="25%" color="#6699FF" size="4">
+              <h5 style="text-align:center;">$7,500.00<sup><small style="font-size: 10px;">[1]</small></sup> MXN</h5>
+              <p style="text-align:center;"><span>&#9782;</span>Hasta 30 min de contenido audiovisual</p>
+              <p style="text-align:center;"><span>&#9782;</span>Edición incluida</p>
+              <p style="text-align:center;"><span>&#9782;</span>Entrega Digital</p>
+              <hr width="25%" color="#6699FF" size="4">
+          </div>
+      </div>
     </div>
   </div>
-</div>
-<div style="
-    text-align: end;
-    border-bottom-width: 20px;
-    margin-bottom: 10px;">
-    <small>[1] Los precios no incluyen IVA</small>
-</div>
+  <div style="
+      text-align: end;
+      border-bottom-width: 20px;
+      margin-bottom: 10px;">
+      <small>[1] Los precios no incluyen IVA</small>
+  </div>
+</section>
 <!-- ======= Counts Section ======= -->
 <section id="counts" class="counts">
   <div class="container">
@@ -136,7 +136,6 @@ descripcion: Servicios de fotografía y video. Capturamos la esencia de tu produ
         </div>
       </div>
     </div>
-
   </div>
 </section><!-- End Counts Section -->
 
