@@ -1027,7 +1027,7 @@ section {
   margin: 0 auto 25px auto;
   list-style: none;
   text-align: center;
-  background: white;
+  background: none;
   border-radius: 50px;
   padding: 2px 15px;
 }
@@ -2232,6 +2232,20 @@ section {
 
 .sf-snow-anim {
   top: 110%;
+}
+
+#filter-menu{
+  position: fixed;
+  margin-left: auto;
+  width: 15%;
+  display: flex;
+  justify-content: center;
+}
+
+@media (max-width: 1545px) {
+  #filter-menu{
+    display: none;
+  }
 }
 
 /**

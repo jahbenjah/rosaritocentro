@@ -12,19 +12,30 @@ layout: default
       <li>Directorio</li-->
     </ol>
     <h3 style="text-align:center;">¿No sabes a donde ir el fin de semana?</h3>
-      <h4 style="text-align:center;">Aquí te comparto un listado de los lugares mas visitados de Rosarito Beach</h4>
+    <h4 style="text-align:center;">Aquí te comparto un listado de los lugares mas visitados de Rosarito Beach</h4>
 
   </div>
-</section> 
+</section>
 <!-- End Breadcrumbs -->
 
 
 <!-- ======= Portfolio Section ======= -->
 
 <section id="portfolio" class="portfolio">
-  <div class="container">
+  <div id="filter-menu">
+    <div class="col-lg-1 d-flex justify-content-center">
+      <ul id="portfolio-flters">
+        <li data-filter="*" class="filter-active" style="width: 100%;">Todos</li>
+        {% for categoria in site.data.categorias %}
 
-    <div class="row">
+        <li data-filter=".filter-{{ categoria.nombre }}" style="width: 100%;">{{ categoria.descripcion }}</li>
+
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+  <div class="container">
+    <!-- <div class="row">
       <div class="col-lg-12 d-flex justify-content-center">
         <ul id="portfolio-flters">
           <li data-filter="*" class="filter-active">Todos</li>
@@ -35,16 +46,12 @@ layout: default
           {% endfor %}
         </ul>
       </div>
-    </div>
-
+    </div> -->
     <div class="row portfolio-container">
-
-
       {% for negocio in site.directorio %}
-
       <div class="col-lg-4 col-md-6 portfolio-item filter-{{ negocio.categoria }}">
         <div class="portfolio-wrap">
-          <img loading="lazy" src="{{ negocio.imagenes | first }}" class="img-fluid" alt="" >
+          <img loading="lazy" src="{{ negocio.imagenes | first }}" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4> {{ negocio.title }}</h4>
             <p> {{ negocio.descripcion }}</p>
@@ -56,11 +63,8 @@ layout: default
           </div>
         </div>
       </div>
-
       {% endfor %}
     </div>
-
   </div>
 </section>
 <!-- End Portfolio Section -->
-
