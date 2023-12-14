@@ -24,6 +24,12 @@
   --footer-bg-color: #0097a7;
   --footer-top: #006373;
   --top-bar-bg-color: #303030;
+
+  --color1: #0cb4e4;
+  --color2: #81ddf8;
+  --color3: #06637d;
+  --color4: #077291;
+  --color5: #077291;
 }
 
 body {
@@ -1329,6 +1335,7 @@ section {
   box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
   padding: 30px 20px;
   background: var(--blanco);
+  border-radius: 40px;
 }
 
 .team .member img {
@@ -2234,7 +2241,7 @@ section {
   top: 110%;
 }
 
-#filter-menu{
+#filter-menu {
   position: fixed;
   margin-left: auto;
   width: 15%;
@@ -2243,7 +2250,7 @@ section {
 }
 
 @media (max-width: 1545px) {
-  #filter-menu{
+  #filter-menu {
     display: none;
   }
 }
