@@ -25,11 +25,11 @@
   --footer-top: #006373;
   --top-bar-bg-color: #303030;
 
-  --color1: #0cb4e4;
-  --color2: #81ddf8;
-  --color3: #06637d;
-  --color4: #077291;
-  --color5: #077291;
+  --color1: #00CCCC;
+  --color2: #1E6AEB;
+  --color3: #1EAAEB;
+  --color4: #1EEBA5;
+  --color5: #1E29EB;
 }
 
 body {
@@ -160,7 +160,7 @@ h6 {
 
 #header .logo h1 a,
 #header .logo h1 a:hover {
-  color: var(--second-color);
+  color: var(--color3);
   text-decoration: none;
 }
 
@@ -190,7 +190,7 @@ h6 {
 .nav-menu a {
   display: block;
   position: relative;
-  color: var(--second-color);
+  color: var(--color1);
   padding: 13px 0 15px 25px;
   transition: 0.3s;
   font-size: 14px;
@@ -200,7 +200,7 @@ h6 {
 .nav-menu a:hover,
 .nav-menu .active>a,
 .nav-menu li:hover>a {
-  color: var(--arena-color);
+  color: var(--color3);
   text-decoration: none;
 }
 
@@ -623,7 +623,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 20px 0 20px 0;
-  background: var(--blog-bg-color);
+  background: var(--color3);
   border-bottom: 1px solid #ededed;
   margin-bottom: 40px;
 }
@@ -631,7 +631,7 @@ section {
 .breadcrumbs h2 {
   font-size: 28px;
   font-weight: 700;
-  color: var(--footer-top);
+  color: var(--color4);
 }
 
 .breadcrumbs ol {
@@ -1348,7 +1348,7 @@ section {
   font-weight: 700;
   margin-bottom: 2px;
   font-size: 18px;
-  color: var(--second-color);
+  color: var(--color1);
 }
 
 .team .member span {
