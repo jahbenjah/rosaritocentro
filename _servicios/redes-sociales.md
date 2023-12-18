@@ -49,64 +49,29 @@ descripcion: Deja que nosostros nos encagemos de tus redes sociales. Amplia tu r
   <div class="row justify-content-center">
     <div class="col-lg-4">
         <div class="box featured wow fadeInUp">
-            <h3 style="text-align:center;">Redes Sociales (Básico)</h3>
+            <h3 style="text-align:center;">Plan: Social Media (Básico)</h3>
             <hr width="25%" color="#6699FF" size="4">
+            <h5 style="text-align:center;"><sup>$</sup>1,500.00 MXN al inicio de la gestión (+IVA)</h5>
             <p style="text-align:center;"><span>&#10003;</span> Implementación de estrategia digital</p>
-            <p style="text-align:center;"><span>&#10003;</span> Gestión mensual en Facebook e Instagram</p>
-            <p style="text-align:center;"><span>&#10003;</span> Campañas publicitarias</p>
+            <p style="text-align:center;"><span>&#10003;</span> Gestión mensual en Facebook + Instagram + Campañas publicitarias (3 días por semana)</p>
             <hr width="25%" color="#6699FF" size="4">
-            <small>*el cliente debe propocionar las fotografías y videos correspondientes.</small>
             <h6 style="text-align:center;">Plan Mensual</h6>
-            <h5 style="text-align:center;">$ 6,800<sup><small style="font-size: 10px;">[1]</small></sup></h5>
+            <h5 style="text-align:center;">$ 4,800 MXN (+16% IVA)</h5>
         </div>
     </div>  
     <div class="col-lg-4">
         <div class="box featured wow fadeInUp">
-            <h3 style="text-align:center;">Redes Sociales (Medio)</h3>
+            <h3 style="text-align:center;">Plan Social Media (Avanzado)</h3>
             <hr width="25%" color="#6699FF" size="4">
+            <h5 style="text-align:center;"><sup>$</sup>1,500.00 MXN al inicio de la gestion (+IVA)</h5>
             <p style="text-align:center;"><span>&#10003;</span> Implementación de estrategia digital</p>
-            <p style="text-align:center;"><span>&#10003;</span>Gestión en Facebook e Instagram.</p>
-            <p style="text-align:center;"><span>&#10003;</span>Creación de Historias.</p>
-            <p style="text-align:center;"><span>&#10003;</span>Reels(15s).</p>
-            <p style="text-align:center;"><span>&#10003;</span>Campaña publicitaria (5 días)</p>
-            <p style="text-align:center;"><span>&#10003;</span>Seguimiento de Campaña publicitaria</p>
-            <p style="text-align:center;"><span>&#10003;</span>Interacción y respuesta de mensajes con destino a administración.</p>
-            <p style="text-align:center;"><span>&#10003;</span>Gestión de Google Bussines.</p>
-            <p style="text-align:center;"><span>&#10003;</span>Toma de fotografía con ligero retoque.</p>
-            <p style="text-align:center;"><span>&#10003;</span>Flyers.</p>
+            <p style="text-align:center;"><span>&#10003;</span> Gestión mensual en Facebook + Instagram + Campañas publicitarias (5 días por semana)</p>
             <hr width="25%" color="#6699FF" size="4">
             <h6 style="text-align:center;">Plan Mensual</h6>
-            <h5 style="text-align:center;">$ 7,800<sup><small style="font-size: 10px;">[1]</small></sup> MXN</h5>
-        </div>
-    </div>  
-    <div class="col-lg-4">
-        <div class="box featured wow fadeInUp">
-            <h3 style="text-align:center;">Redes Sociales (Avanzado)</h3>
-            <hr width="25%" color="#6699FF" size="4">
-            <p style="text-align:center;"><span>&#10003;</span> Implementación de estrategia digital</p>
-            <p style="text-align:center;"><span>&#10003;</span> Gestión en Facebook, Instagram, TikTok</p>
-            <p style="text-align:center;"><span>&#10003;</span>Creación de Historias.</p>
-            <p style="text-align:center;"><span>&#10003;</span>Reels(15-30s).</p>
-            <p style="text-align:center;"><span>&#10003;</span>Interacción y respuesta de mensajes con destino a administración.</p>
-            <p style="text-align:center;"><span>&#10003;</span>Creación de respuestas guardadas y automáticas.</p>
-            <p style="text-align:center;"><span>&#10003;</span>Creación de Campañas Publicitarias.</p>
-            <p style="text-align:center;"><span>&#10003;</span>Actualización de respuestas automáticas.</p>
-            <p style="text-align:center;"><span>&#10003;</span>Gestión de Google Bussines.</p>
-            <p style="text-align:center;"><span>&#10003;</span>Toma de fotografía y edición.</p>
-            <p style="text-align:center;"><span>&#10003;</span>Toma de video.</p>
-            <p style="text-align:center;"><span>&#10003;</span>Recursos Gráficos.</p>
-            <hr width="25%" color="#6699FF" size="4">
-            <h6 style="text-align:center;">Plan Mensual</h6>
-            <h5 style="text-align:center;">$ 8,800<sup><small style="font-size: 10px;">[1]</small></sup> MXN</h5>     
+            <h5 style="text-align:center;">$ 6,000 MXN (+16% IVA)</h5>     
         </div>
     </div>
   </div>      
-</div>
-<div style="
-    text-align: end;
-    border-bottom-width: 20px;
-    margin-bottom: 10px;">
-    <small>[1] Los precios no incluyen IVA</small>
 </div>
 <!-- ======= Clients Section ======= -->
 <!--section id="clients" class="clients">
