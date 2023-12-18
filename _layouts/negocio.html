@@ -8,8 +8,6 @@
 
 <body>
 
-    {%- include top.html -%}
-
     {%- include header.html -%}
 
     <main id="main">
@@ -19,8 +17,8 @@
             <div class="container">
 
                 <ol>
-                    <li><a href="{{"/index.html" | absolute_url }}">Inicio</a></li>
-                    <li><a href="{{"/directorio.html" | absolute_url }}">Directorio</a></li>
+                    <li><a href="{{" /index.html" | absolute_url }}">Inicio</a></li>
+                    <li><a href="{{" /directorio.html" | absolute_url }}">Directorio</a></li>
                     <li>{{ page.title | escape }}</li>
                 </ol>
                 <h2>{{ page.slogan | escape }}</h2>
@@ -65,8 +63,10 @@
                             <li><strong>Numero Telefonico</strong>: <a href="tel:{{ page.telefono | escape }}">{{
                                     page.telefono | escape
                                     }}</a></li>
-                            <li>{% if page.direccion %}<strong>Dirección</strong>: {{ page.direccion | escape }} {% endif %}</li>
-                            <li>{% if page.horariodeservicio %}<strong>Horario de Servicio</strong>: {{ page.horariodeservicio | escape }} {% endif %}</li>
+                            <li>{% if page.direccion %}<strong>Dirección</strong>: {{ page.direccion | escape }} {%
+                                endif %}</li>
+                            <li>{% if page.horariodeservicio %}<strong>Horario de Servicio</strong>: {{
+                                page.horariodeservicio | escape }} {% endif %}</li>
                         </ul>
                         <strong>Descripción</strong>:
                         {{ page.descripcion | escape }}
