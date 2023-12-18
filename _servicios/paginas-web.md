@@ -57,7 +57,7 @@ descripcion: Desarrollamos, diseñamos y posicionamos tu Página Web. Estructura
   <div class="section-header">
       <h3 style="text-align:center;">Nuestros paquetes</h3>
         <hr width="25%" color="#6699FF" size="4">
-      <p style="text-align:center;" class="section-description">Tenemos el Plan de Trabajo de Acuerdo a tus Necesidades </p>
+      <p style="text-align:center;" class="section-description">Se requiere el 50% del pago inicial como anticipo</p>
   </div>
 </div>
 <div class="container">
@@ -66,7 +66,7 @@ descripcion: Desarrollamos, diseñamos y posicionamos tu Página Web. Estructura
         <div class="box featured wow fadeInUp">
             <h3 style="text-align:center;">Página Web Informativa</h3>
             <hr width="25%" color="#6699FF" size="4">
-            <h5 style="text-align:center;"><sup>$</sup>6,800.00 MXN</h5>
+            <h5 style="text-align:center;">$7,800.00<sup><small style="font-size: 10px;">[1]</small></sup> MXN + Mantenimiento</h5>
             <p style="text-align:center;"><span>&#10003;</span> Página de Inicio</p>
             <p style="text-align:center;"><span>&#10003;</span> Página de Contacto</p>
             <p style="text-align:center;"><span>&#10003;</span> 1 Formulario de Contacto</p>            
@@ -74,21 +74,16 @@ descripcion: Desarrollamos, diseñamos y posicionamos tu Página Web. Estructura
             <p style="text-align:center;"><span>&#10003;</span> Certificado SSL Gratis</p>
             <p style="text-align:center;"><span>&#10003;</span> Web Hosting y Dominio Gratis</p>
             <p style="text-align:center;"><span>&#10003;</span> Integración con Redes Sociales</p>
-            <p style="text-align:center;"><span>&#10003;</span> Iva 16%</p>
             <hr width="25%" color="#6699FF" size="4">
-            <p style="text-align:center;"><span>¿Requieres de un plan de administración y mantenimiento constante?</span></p>
-            <hr width="25%" color="#6699FF" size="4">
-            <h6 style="text-align:center;">Plan Mensual</h6>
-            <h5 style="text-align:center;">$ 2,800 / Mes</h5>
-            <h6 style="text-align:center;">Pago Inicial $4,800.00 MXN</h6>
-            <h3 style="text-align:center;"><span>&#10003;</span> www.</h3>
+            <h5 style="text-align:center;">$2,800 MXN</h5>
+            <h6 style="text-align:center;">Costos de mantenimiento (mensual)</h6>
         </div>
     </div>  
     <div class="col-lg-4">
         <div class="box featured wow fadeInUp">
             <h3 style="text-align:center;">Página Web Profesional</h3>
             <hr width="25%" color="#6699FF" size="4">
-            <h5 style="text-align:center;"><sup>$</sup>7,800.00 MXN</h5>
+            <h5 style="text-align:center;">$8,800.00<sup><small style="font-size: 10px;">[1]</small></sup> MXN + Mantenimiento</h5>
             <p style="text-align:center;"><span>&#10003;</span> Página de Inicio</p>
             <p style="text-align:center;"><span>&#10003;</span> Página Quienes Somos</p>
             <p style="text-align:center;"><span>&#10003;</span> Página Servicios</p>
@@ -98,21 +93,16 @@ descripcion: Desarrollamos, diseñamos y posicionamos tu Página Web. Estructura
             <p style="text-align:center;"><span>&#10003;</span> Certificado SSL Gratis</p>
             <p style="text-align:center;"><span>&#10003;</span> Web Hosting y Dominio Gratis</p>
             <p style="text-align:center;"><span>&#10003;</span> Integración con Redes Sociales</p>
-            <p style="text-align:center;"><span>&#10003;</span> Iva 16%</p>
             <hr width="25%" color="#6699FF" size="4">
-            <p style="text-align:center;"><span>¿Requieres de un plan de administración y mantenimiento constante?</span></p>
-            <hr width="25%" color="#6699FF" size="4">
-            <h6 style="text-align:center;">Plan Mensual</h6>
-            <h5 style="text-align:center;">$ 3,800 / Mes</h5>
-            <h6 style="text-align:center;">Pago Inicial $5,800.00 MXN</h6>
-            <h3 style="text-align:center;"><span>&#10003;</span> www.</h3>      
+            <h5 style="text-align:center;">$ 3,800 MXN</h5>
+            <h6 style="text-align:center;">Costos de mantenimiento (mensual)</h6>
         </div>
     </div>    
     <div class="col-lg-4">
         <div class="box featured wow fadeInUp">
             <h3 style="text-align:center;">Página Web Comercial</h3>
             <hr width="25%" color="#6699FF" size="4">
-            <h5 style="text-align:center;"><sup>$</sup>8,800.00 MXN</h5>
+            <h5 style="text-align:center;">$9,800.00<sup><small style="font-size: 10px;">[1]</small></sup> MXN + Mantenimiento</h5>
             <p style="text-align:center;"><span>&#10003;</span> Tienda en Linea</p>
             <p style="text-align:center;"><span>&#10003;</span> Página de Inicio</p>
             <p style="text-align:center;"><span>&#10003;</span> Página Quienes Somos</p>
@@ -124,22 +114,23 @@ descripcion: Desarrollamos, diseñamos y posicionamos tu Página Web. Estructura
             <p style="text-align:center;"><span>&#10003;</span> Certificado SSL Gratis</p>
             <p style="text-align:center;"><span>&#10003;</span> Web Hosting y Dominio Gratis</p>
             <p style="text-align:center;"><span>&#10003;</span> Integración con Redes Sociales</p>
-            <p style="text-align:center;"><span>&#10003;</span> Iva 16%</p>
             <hr width="25%" color="#6699FF" size="4">
-            <p style="text-align:center;"><span>¿Requieres de un plan de administración y mantenimiento constante?</span></p>
-            <hr width="25%" color="#6699FF" size="4">
-            <h6 style="text-align:center;">Plan Mensual</h6>
-            <h5 style="text-align:center;">$ 4,800 / Mes</h5>
-            <h6 style="text-align:center;">Pago Inicial $6,800.00 MXN</h6>
-            <h3 style="text-align:center;"><span>&#10003;</span> www.</h3>
+            <h5 style="text-align:center;">$ 4,800 MXN</h5>
+            <h6 style="text-align:center;">Costos de mantenimiento (mensual)</h6>
         </div>
     </div>
+  </div>
+  <div style="
+      text-align: end;
+      border-bottom-width: 20px;
+      margin-bottom: 10px;">
+      <small>[1] Los precios no incluyen IVA</small>
   </div>  
 </div>
 
 
 <!-- ======= Our Skills Section ======= -->
-<section id="skills" class="skills">
+<!-- <section id="skills" class="skills">
     <div class="container">
         <div class="section-title">
             <h3>Nuestras Habilidades</h3>
@@ -191,10 +182,10 @@ descripcion: Desarrollamos, diseñamos y posicionamos tu Página Web. Estructura
             </div>
         </div>
     </div>
-</section><!-- End Our Skills Section -->
+</section> -->
 
 <!-- ======= Counts Section ======= -->
-<section id="counts" class="counts">
+<!-- <section id="counts" class="counts">
   <div class="container">
     <div class="row no-gutters">
       <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
@@ -232,7 +223,7 @@ descripcion: Desarrollamos, diseñamos y posicionamos tu Página Web. Estructura
     </div>
 
   </div>
-</section><!-- End Counts Section -->
+</section> -->
 
 <!-- ======= Clients Section ======= -->
 <section id="clients" class="clients">
