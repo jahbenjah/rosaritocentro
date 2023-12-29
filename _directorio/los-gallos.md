@@ -18,5 +18,5 @@ facebook:
 instagram: https://www.instagram.com/losgallospreparadas/?hl=es
 whatsapp: 
 horariodeservicio: Jueves a Domingo 5:00 PM - 12:30 AM
-descripcion: Creadores de las famosas caguamas preparadas, adicionalmente tanbien cuentan con margarias y shots de gran malo preparado
+descripcion: Creadores de las famosas caguamas preparadas, adicionalmente cuentan con margarias y shots de gran malo preparado
 ---

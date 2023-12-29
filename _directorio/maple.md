@@ -18,6 +18,6 @@ facebook: https://www.facebook.com/maple.rto/
 instagram: 
 whatsapp: 
 horariodeservicio: Lunes a Domingo 8:00 AM - 5:00 PM
-descripcion: Restaurante Brunch no te puedes perder de nuestro fantastica comida con los mejores spots para fotos.
+descripcion: Restaurante Brunch no te puedes perder de nuestra fantastica comida con los mejores spots para fotos.
 
 ---
