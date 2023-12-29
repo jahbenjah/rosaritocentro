@@ -18,11 +18,6 @@
   categoria: restaurante
   imagen: /assets/img/portfolio/pulgarcito.jpeg
 
-- nombre: Casa Alba
-  descripcion: Moda Mexicana
-  categoria: moda
-  imagen: /assets/img/portfolio/casa-alba.jpg
-
 - nombre: Studio 14
   descripcion: Especialista en cafe
   categoria: restaurante
