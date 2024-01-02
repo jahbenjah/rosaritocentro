@@ -1,5 +1,5 @@
 ---
-title : Cafe para Tres
+title : Café para Tres
 layout: negocio
 slogan: Cafeteria Familiar
 web: 

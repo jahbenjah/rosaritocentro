@@ -3,7 +3,7 @@ title: Café Casa Rosa
 layout: negocio
 slogan: Casa Rosa
 web:
-categoria: Cafe
+categoria: Café
 imagenes: ["/assets/img/directorio/webp/cafecasa-rosa.webp"]
 direccion: Calle nogal 101 22700 Rosarito, Península de Baja California, México
 estado: Baja California

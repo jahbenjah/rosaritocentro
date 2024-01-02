@@ -3,7 +3,7 @@ title : Vlank
 layout: negocio
 slogan: Coffe & health bar
 web:
-categoria: Cafe
+categoria: Café
 imagenes: ["/assets/img/directorio/vlank.webp"]
 direccion: 
 estado: Baja California
