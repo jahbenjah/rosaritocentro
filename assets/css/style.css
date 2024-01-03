@@ -376,12 +376,12 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 70vh;
+  height:calc(100vh - 70px);
   background-color: rgba(59, 59, 59, 0.8);
   overflow: hidden;
   padding: 0;
-  margin-bottom: -120px;
-  position: relative;
+  /* margin-bottom: -120px;
+  position: relative; */
   z-index: 1;
 }
 
