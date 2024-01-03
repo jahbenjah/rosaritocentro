@@ -709,6 +709,7 @@ section {
   border: 1px solid #ededed;
   padding: 80px 20px;
   transition: all ease-in-out 0.3s;
+  width: 100%;
 }
 
 .services .icon-box .icon {
