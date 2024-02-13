@@ -11,7 +11,7 @@ municipio: Rosarito
 codigo: 22710
 latitude: 32.339848
 longitude: -117.055794
-telefono: 661 112 2342
+telefono: 661-130-5944
 cocina: Mexicana/Americana
 rango: $$
 facebook: https://www.facebook.com/acuabajabarymar

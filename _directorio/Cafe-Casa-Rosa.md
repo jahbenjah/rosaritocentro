@@ -1,5 +1,5 @@
 ---
-title: Café Casa Rosa
+title: Casa Rosa Restaurant
 layout: negocio
 slogan: Casa Rosa
 web:
@@ -19,6 +19,6 @@ instagram: https://www.instagram.com/cafe_casa__rosa/
 whatsapp:
 telegram: 
 twitter: 
-horariodeservicio: Lunes a Domingo 14:30 PM - 22:00 PM
+horariodeservicio: Miercoles a Domingo 8:0 AM - 10:30 PM
 descripcion: Un spot diferente que te hara sentir especial, visitanos.
 ---
