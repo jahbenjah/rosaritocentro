@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PRODUCCIÓN AUDIOVISUAL"
+title:  "Fotografia de Producto"
 image: "/assets/img/blog/Fotografía-producto-2.webp"
 date: 2024-03-8 11:00 0700
 autor: Rosarito Centro
