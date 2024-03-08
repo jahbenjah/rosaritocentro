@@ -5,7 +5,7 @@ image: "/assets/img/blog/marketing-verde.webp"
 date: 2024-03-07 10:03 0700
 autor: Rosarito Centro
 permalink: /:categories/:title/
-categories: [Tecnologia]
+categories: [Marketing]
 ---
 <h3>¿Qué es el Marketing verde o sostenible?</h3>
 <p>El marketing verde hace énfasis en la conciencia ambiental, actualmente las marcas

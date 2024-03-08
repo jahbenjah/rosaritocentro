@@ -2,12 +2,12 @@
 layout: post
 title:  "VISION PRO - APPLE"
 image: "/assets/img/blog/persona-usando-vision-pro-apple.webp"
-date: 2024-03-07 10:03 0700
+date: 2024-02-29 10:00 0700
 autor: Rosarito Centro
 permalink: /:categories/:title/
 categories: [Tecnologia]
 ---
-<img src="/assets/img/blog/persona-usando-vision-pro-apple.webp" style="width:100%;">
+
 <p>Apple es una empresa mundialmente conocida por su innovación en el avance de
 la tecnología, como lo es en celulares, audífonos, relojes inteligentes, computadoras y su última
 innovación expuesta al mundo el 2 de febrero del 2024 los “Apple vision pro”.</p>
@@ -30,6 +30,8 @@ limites además de la sala donde nos encontremos.</p>
 videollamadas, navegar por paginas web, usar las redes sociales como Facebook,
 Instagram, videos como en YouTube, jugar video juegos como PlayStation 5 o ver
 alguna serie en Apple TV+ o cualquier otra plataforma</p>
+
+<img src="/assets/img/blog/persona-usando-vision-pro-apple.webp" style="width:100%;">
 
 
 
